@@ -1,0 +1,20909 @@
+timpul
+tratamentului 20
+perioadei 8
+controlului 8
+nopții 8
+administrării 7
+studiilor 7
+zilei 6
+mișcării 6
+procesului 5
+războiului 5
+reacțiilor 4
+platoului 4
+fazei 4
+Războiului 3
+verii 3
+domniei 2
+colectării 2
+jocului 2
+continuării 2
+călătoriei 2
+manifestațiilor 1
+perfuzării 1
+meciului 1
+sfârșitului 1
+Eteriei 1
+cauțiunii 1
+copilăriei 1
+raidului 1
+dictaturii 1
+filmărilor 1
+concursului 1
+reprezentației 1
+procesării 1
+Întrebării 1
+sarcinii 1
+riturilor 1
+victoriei 1
+antrenamentului 1
+experimentului 1
+alăptării 1
+campaniei 1
+luptelor 1
+redactării 1
+experimentelor 1
+Mișcărilor 1
+vacanțelor 1
+sezoanelor 1
+
+conformitate_cu
+Legea 1
+prevederile 1
+articolul 1
+Decizia 1
+procedura 1
+condițiile 1
+art. 1
+alin. 1
+regulile 1
+legislațiile 1
+principiile 1
+normele 1
+tabelul 1
+modificările 1
+Regula 1
+capitolul 1
+anexa 1
+legislația 1
+specificațiile 1
+Directiva 1
+principiul 1
+Regulamentul 1
+alineatul 1
+standardele 1
+dispozițiile 1
+analiza 1
+reglementările 1
+planul 1
+alineatele 1
+procedurile 1
+obiectivele 1
+punctul 1
+mențiunile 1
+criteriile 1
+regulamentul 1
+cerințele 1
+dreptul 1
+decizia 1
+Tratatul 1
+literele 1
+capitolele 1
+recomandarea 1
+modelul 1
+anexele 1
+
+cadrul
+țării 18
+Comisiei 16
+Comunității 14
+Consiliului 11
+populației 11
+eșantionului 9
+regimului 8
+studiilor 7
+politicii 5
+Comitetului 5
+standardelor 4
+terapiilor 4
+operațiunii 3
+evaluării 3
+bolilor 3
+deliberărilor 2
+schimburilor 2
+ansamblului 2
+Universității 2
+clauzelor 2
+cuplului 2
+experienței 2
+secretariatului 2
+listei 2
+sistemului 2
+organizării 1
+Observatorului 1
+Primăriei 1
+foiletonului 1
+schemei 1
+Politehnicii 1
+Aeroportului 1
+sistemelor 1
+negocierilor 1
+Conferinței 1
+Programului 1
+listelor 1
+magneto-diafluxului 1
+Atelierelor 1
+reuniunilor 1
+
+cazul
+muncii 12
+produselor 11
+persoanelor 10
+pacienților 9
+acțiunilor 8
+administrării 7
+studiilor 7
+lucrătorilor 7
+activităților 7
+riscurilor 6
+medicamentelor 5
+loturilor 4
+infecției 3
+contractelor 3
+comunicării 3
+eșantioanelor 3
+fructelor 2
+utilizării 2
+hormonilor 2
+medicilor 2
+destrămării 2
+intervențiilor 2
+refuzului 2
+cărților 2
+bărbaților 2
+lirei 1
+stadiilor 1
+femeilor 1
+schemelor 1
+neexecutării 1
+mormonilor 1
+implantului 1
+rotațiilor 1
+deplasărilor 1
+porturilor 1
+urnei 1
+populațiilor 1
+
+privire_la
+acordarea 1
+drepturile 1
+bugetul 1
+regimurile 1
+cazurile 1
+măsurile 1
+adoptarea 1
+punerea 1
+piețele 1
+sistemul 1
+faptul 1
+riscurile 1
+includerea 1
+motivele 1
+folosirea 1
+planurile 1
+momentul 1
+utilizarea 1
+diferențierea 1
+rezultatele 1
+sistemele 1
+modul 1
+îndeplinirea 1
+normele 1
+retragerea 1
+activitățile 1
+articolul 1
+capturile 1
+conținutul 1
+echipele 1
+evoluția 1
+procedurile 1
+data 1
+actul 1
+existența 1
+
+fața
+vieții 10
+omului 8
+pământului 7
+casei 6
+locului 4
+apei 4
+simțurilor 3
+monumentului 3
+profesorului 3
+mulțimii 3
+ochilor 2
+sediului 2
+Curții 2
+clădirii 2
+ființei 2
+colegilor 2
+ușii 2
+tele-ecranului 2
+zărilor 1
+Soarelui 1
+hoardelor 1
+gării 1
+capotei 1
+oglinzii 1
+șopronului 1
+Catedralei 1
+porții 1
+cârmuitorului 1
+grădinilor 1
+Consistoriului 1
+șevaletului 1
+
+baza
+populației 11
+datelor 10
+articolelor 7
+cererilor 6
+serviciilor 6
+articolului 5
+rezultatelor 5
+acordului 5
+contractului 4
+evaluării 3
+monumentului 3
+votului 3
+experienței 2
+suspiciunilor 2
+nivelului 2
+caracteristicilor 2
+activității 2
+strategiei 1
+decretului 1
+apelurilor 1
+metodei 1
+realizărilor 1
+chestionarului 1
+venitului 1
+recomandărilor 1
+gradientului 1
+ecuației 1
+gradientelor 1
+păturii 1
+latrinei 1
+teoriei 1
+
+vederea
+aplicării 4
+asigurării 4
+acordării 3
+obținerii 2
+înlocuirii 2
+îmbunătățirii 2
+prezentării 2
+formării 2
+dezvoltării 2
+modificării 2
+armonizării 2
+facilitării 2
+clarificării 2
+concluziilor 2
+adevărului 2
+instituirii 2
+responsabilizării 1
+stimulării 1
+atingerii 1
+promovării 1
+câștigării 1
+consilierii 1
+soluționării 1
+intensificării 1
+limitării 1
+favorizării 1
+numirii 1
+atenuării 1
+stabilirii 1
+adopției 1
+
+urma
+tratamentului 20
+controlului 8
+războiului 5
+holerei 4
+efectelor 4
+rezultatului 3
+votului 3
+cuvintelor 3
+aprobării 2
+urmelor 2
+intervențiilor 2
+cercetărilor 1
+constituirii 1
+verificării 1
+coliziunii 1
+regularizării 1
+incendiilor 1
+precipitațiilor 1
+cocotierului 1
+avizului 1
+exploziei 1
+prăbușirii 1
+ciocnirilor 1
+ciocnirii 1
+stratificării 1
+
+nivelul
+Comunității 14
+statului 12
+celulelor 5
+pielii 4
+standardelor 4
+măduvei 3
+degetelor 3
+ansamblului 2
+transaminazelor 2
+străzii 2
+sistemului 2
+inimii 2
+fibrelor 2
+rețelei 2
+ficatului 2
+epiteliului 1
+retinei 1
+gospodăriei 1
+laturilor 1
+primei 1
+leziunii 1
+articulațiilor 1
+plămânilor 1
+salariului 1
+
+funcție_de
+concluzii 1
+complexitatea 1
+disponibilități 1
+Parlamentul 1
+posibilitățile 1
+dezbaterea 1
+alegerea 1
+necesitățile 1
+tipul 1
+evoluția 1
+caracteristicile 1
+perspectivele 1
+starea 1
+numărul 1
+înălțimea 1
+terapiile 1
+timp 1
+conținutul 1
+evoluțiile 1
+sistemul 1
+zona 1
+frecvența 1
+vegetație 1
+
+fel_de
+parodiere 1
+vrăjitor 1
+Salvatorul 1
+apă 1
+fior 1
+expresie 1
+plăcere 1
+act 1
+zid 1
+animale 1
+isterie 1
+scâncet 1
+mărturie 1
+comisioane 1
+problemă 1
+cheltuieli 1
+conducător 1
+glumă 1
+mândrie 1
+considerație 1
+religiozitate 1
+ceremonie 1
+marfă 1
+
+cauza
+bolii 9
+condițiilor 6
+pneumoniei 6
+războiului 5
+vremii 3
+dispariției 3
+greutății 2
+problemelor 2
+modului 2
+atmosferei 2
+caracteristicilor 2
+pancreatitei 1
+infarcturilor 1
+fumatului 1
+febrei 1
+avortului 1
+rănilor 1
+prunelor 1
+perversităților 1
+
+față_de
+Fratele 1
+produsele 1
+președintele 1
+dispozițiile 1
+costurile 1
+loturile 1
+divinitate 1
+centrul 1
+formele 1
+Republica 1
+protecția 1
+volumul 1
+cifra 1
+copiii 1
+perioada 1
+stimulii 1
+masa 1
+media 1
+medie 1
+
+domeniul
+timpului 12
+controlului 8
+valorilor 6
+sănătății 5
+transportului 4
+literaturii 3
+educației 3
+cetățeniei 3
+reglementării 2
+pestei 2
+tineretului 2
+culturii 2
+pescuitului 2
+achizițiilor 2
+aviației 2
+disciplinei 1
+presupunerilor 1
+aditivilor 1
+
+jurul
+orașului 9
+mesei 5
+locului 4
+focarului 2
+patului 2
+valorii 2
+gâtului 2
+nucleului 2
+lapunei 1
+orei 1
+soclului 1
+marginilor 1
+castanului 1
+anusului 1
+valvelor 1
+tăieturii 1
+taliei 1
+centrului 1
+
+serie_de
+imagini 1
+respirații 1
+victorii 1
+reforme 1
+recomandări 1
+date 1
+confesiuni 1
+considerații 1
+evenimente 1
+culegeri 1
+treceri 1
+instantanee 1
+activități 1
+state 1
+grupări 1
+distribuție 1
+repartiție 1
+
+valoarea
+funcției 10
+potențialului 7
+taxelor 6
+cererilor 6
+riscului 5
+finanțării 3
+dobânzilor 3
+restituirii 2
+bunurilor 2
+variabilei 2
+cotizației 1
+salvărilor 1
+deplasării 1
+registrului 1
+facturii 1
+distrugerilor 1
+
+ani_de
+zile 1
+existență 1
+risc 1
+închisoare 1
+apariție 1
+viață 1
+tratament 1
+urmărire 1
+restaurare 1
+cercetare 1
+măcel 1
+liceu 1
+calitate 1
+evoluție 1
+mișcarea 1
+
+sfârșitul
+perioadei 8
+anului 8
+administrării 7
+anilor 7
+zilei 6
+secolului 6
+lunii 5
+săptămânii 4
+fazei 4
+separării 3
+proiectului 3
+liceului 3
+inspecției 2
+fibulei 1
+semestrului 1
+
+partea
+Comisiei 16
+Comunității 14
+statului 12
+clasei 5
+publicului 3
+organismului 3
+forului 2
+specialiștilor 2
+colegilor 2
+Mișcării 1
+Confederației 1
+susținătorilor 1
+partidelor 1
+angajatorului 1
+Antantei 1
+
+intermediul
+Consiliului 11
+măsurilor 8
+cererilor 6
+sângelui 6
+gazetei 3
+acordurilor 3
+Centrului 3
+comunicării 3
+codului 2
+agentului 2
+cuplului 2
+citocromului 2
+mijloacelor 1
+compartimentului 1
+războaielor 1
+
+parte_din
+ordinea 1
+parlamentarii 1
+medicamentele 1
+consolele 1
+timpul 1
+finanțarea 1
+eșantionul 1
+grupul 1
+cotidian 1
+birou 1
+tură 1
+cofinanțarea 1
+plasma 1
+Uniunea 1
+
+caz_de
+cutremur 1
+neconformitate 1
+pușcărie 1
+trădare 1
+hipoglicemie 1
+sângerare 1
+supradozaj 1
+fraudă 1
+incidente 1
+compromitere 1
+încălcare 1
+accident 1
+poreclă 1
+vărsături 1
+
+ajutorul
+funcției 10
+eșantionului 9
+serviciilor 6
+culturilor 4
+acului 3
+eșantioanelor 3
+proceselor 2
+instrumentelor 2
+coeficientului 1
+câștigătorului 1
+tabloului 1
+microelectrozilor 1
+carbonatului 1
+simbolului 1
+
+durata
+tratamentului 20
+timpului 12
+muncii 12
+bolii 9
+perioadei 8
+studiului 7
+administrării 7
+repolarizării 6
+perfuziei 5
+săptămânii 4
+spitalizării 2
+derulării 1
+reducerilor 1
+protecției 1
+
+cursul
+tratamentului 20
+perioadei 8
+anului 8
+lucrărilor 7
+studiilor 7
+lunii 5
+săptămânii 4
+inspecției 2
+povestirii 2
+reformelor 2
+spitalizării 2
+evoluției 2
+Pontificatului 1
+realizării 1
+
+pacienții_cu
+insuficiență 1
+obezitate 1
+stenoză 1
+scleroză 1
+ulcere 1
+boală 1
+boli 1
+SM 1
+keratoconjunctivită 1
+carcinom 1
+SCA 1
+cancer 1
+factori 1
+epilepsie 1
+
+creșterea
+timpului 12
+celulelor 5
+copilului 4
+fluxului 3
+capacității 2
+cantității 2
+intensității 2
+tensiunii 2
+rădăcinii 1
+permeabilității 1
+hematocritului 1
+apetitului 1
+tumorilor 1
+
+loc_în
+loc 1
+condițiile 1
+grupa 1
+colecția 1
+principal 1
+echipa 1
+condiții 1
+sudul 1
+timpul 1
+ianuarie 1
+anul 1
+fața 1
+etiologia 1
+
+formă_de
+piramidă 1
+ploaie 1
+substanțe 1
+spirală 1
+metabolit 1
+comprimate 1
+injecție 1
+migdală 1
+capsulă 1
+grafice 1
+teleconferință 1
+aerosoli 1
+fluctuație 1
+
+număr_de
+locuitori 1
+schiori 1
+studii 1
+clasificare 1
+ani 1
+număr 1
+oameni 1
+conducători 1
+suspecți 1
+plante 1
+impiegați 1
+tipuri 1
+elemente 1
+
+începutul
+tratamentului 20
+anului 8
+terapiei 7
+anilor 7
+secolului 6
+procesului 5
+săptămânii 4
+obstrucției 3
+domniei 2
+textului 2
+următoarei 1
+mileniului 1
+prospectului 1
+
+data
+alegerilor 4
+intrării 3
+încheierii 3
+producției 2
+aderării 2
+înființării 1
+solicitării 1
+începerii 1
+expedierii 1
+semnării 1
+expirării 1
+scadenței 1
+
+majoritatea
+pacienților 9
+oamenilor 8
+cazurilor 6
+programelor 5
+membrilor 4
+punctelor 3
+elevilor 2
+supraviețuitorilor 1
+culegerilor 1
+drogurilor 1
+cartierelor 1
+taxei 1
+
+legătură_cu
+depunerea 1
+munca 1
+Apusul 1
+păstrarea 1
+natura 1
+moartea 1
+progresele 1
+extinderea 1
+denumirile 1
+infecția 1
+Insula 1
+atomul 1
+
+reducerea
+dozei 6
+personalului 6
+concentrațiilor 4
+emisiilor 2
+nivelului 2
+eliberării 1
+primelor 1
+angajărilor 1
+pierderilor 1
+morbidității 1
+șomajului 1
+expunerii 1
+
+realizarea
+programului 11
+acțiunilor 8
+activităților 7
+obiectivelor 5
+politicii 5
+transportului 4
+determinărilor 3
+comunicării 3
+transparenței 2
+pasarelei 1
+idealului 1
+unității 1
+
+lungul
+anilor 7
+secolului 6
+existenței 5
+istoriei 5
+vremii 3
+piscinei 1
+afluenților 1
+dealului 1
+carierei 1
+pulpelor 1
+ureterului 1
+șesului 1
+
+Ministerul
+Afacerilor 3
+Păcii 2
+Adevărului 2
+Apărării 2
+Iubirii 1
+Transporturilor 1
+Integrării 1
+Cultelor 1
+Muncii 1
+Instrucțiunii 1
+Abundenței 1
+agriculturii 1
+
+scopul
+revistei 9
+controlului 8
+terapiei 7
+aplicării 4
+controlării 2
+facilitării 2
+clarificării 2
+armonizării 2
+rezolvării 1
+modernizării 1
+testării 1
+
+rezultatele
+studiilor 7
+procedurii 6
+alegerilor 4
+determinărilor 3
+consultărilor 2
+testelor 2
+înaintașilor 2
+anchetelor 1
+contactelor 1
+măsurătorii 1
+intransigenței 1
+
+atingere
+dispozițiilor 9
+dreptului 7
+articolelor 7
+cererilor 6
+articolului 5
+aplicării 4
+instituirii 2
+obligațiilor 2
+clauzelor 2
+valabilității 1
+notei 1
+
+obiectul
+acțiunilor 8
+controlului 8
+activităților 7
+procedurii 6
+asigurării 4
+contractului 4
+finanțării 3
+marcajului 2
+urii 1
+negocierii 1
+regulii 1
+
+începerea
+tratamentului 20
+lucrărilor 7
+procesului 5
+mesei 5
+perfuziei 5
+șoselei 1
+nașterii 1
+comerțului 1
+audienței 1
+pedepsei 1
+distracțiilor 1
+
+momentul
+publicării 3
+notificării 3
+dispariției 3
+apariției 2
+aprobării 2
+recensământului 2
+destrămării 2
+deschiderii 1
+activării 1
+depunerii 1
+
+temeiul
+dreptului 7
+articolelor 7
+Convenției 7
+articolului 5
+Directivei 5
+legislației 4
+alineatului 3
+reglementării 2
+Deciziei 2
+părții 1
+
+evaluarea
+acțiunilor 8
+riscurilor 6
+riscului 5
+rezultatelor 5
+lotului 3
+conformității 2
+dimensiunii 2
+eficacității 2
+derecunoașterii 1
+eficienței 1
+
+mijlocul
+secolului 6
+lunii 5
+apelor 4
+mulțimii 3
+verii 3
+gloatei 1
+propoziției 1
+prăvăliei 1
+Pieții 1
+distanței 1
+
+numărul
+populației 11
+persoanelor 10
+datelor 10
+riscurilor 6
+celulelor 5
+membrilor 4
+românilor 4
+morților 4
+cuantelor 1
+nopților 1
+
+aplicarea
+măsurilor 8
+programelor 5
+legislației 4
+planului 3
+principiilor 3
+Regulamentului 2
+reglementărilor 2
+normelor 2
+abordării 1
+sinapismelor 1
+
+condițiile_de
+introducere 1
+alimentare 1
+obținere 1
+notificare 1
+aplicare 1
+măsurare 1
+sănătate 1
+autorizare 1
+piață 1
+trai 1
+
+dezvoltarea
+țărilor 8
+infrastructurii 4
+copilului 4
+pieței 4
+întreprinderilor 3
+fermelor 2
+aviației 2
+crizei 1
+turismului 1
+facilităților 1
+
+numărul_de
+telefon 1
+angajați 1
+ore 1
+față 1
+pacienți 1
+mililitri 1
+autorizare 1
+electroni 1
+ordine 1
+undă 1
+
+suprafața
+celulelor 5
+pielii 4
+teritoriului 3
+virusului 2
+plăgii 2
+celulei 2
+lichidului 1
+Deltei 1
+ecranului 1
+
+cantitatea_de
+date 1
+pește 1
+celule 1
+insulină 1
+medicament 1
+zahăr 1
+fluid 1
+lichid 1
+carbon 1
+
+rezultatul
+scrutinului 2
+deliberărilor 2
+consultărilor 2
+examenelor 2
+echilibrului 2
+discuțiilor 1
+egoismului 1
+efluxului 1
+împletirii 1
+
+apariția
+revistei 9
+infecțiilor 8
+lucrărilor 7
+pneumoniei 6
+rezistenței 4
+volumului 3
+domnului 3
+cărții 2
+aritmiilor 1
+
+dispariția
+lumii 8
+informațiilor 7
+tatălui 5
+loturilor 4
+clubului 4
+companiei 2
+d-nei 1
+comunismului 1
+comuniștilor 1
+
+moartea
+pacientului 7
+tatălui 5
+mamei 3
+împăratului 2
+soțului 2
+soției 1
+motanului 1
+bărbatului 1
+prescripției 1
+
+numele
+Comisiei 16
+Comunității 14
+persoanelor 10
+țărilor 8
+armatorului 2
+contemporanilor 1
+profesorilor 1
+autohtonismului 1
+Apei 1
+
+seama_de
+dimensiunea 1
+practicile 1
+infinitul 1
+simptomele 1
+loialitatea 1
+efectul 1
+constanta 1
+perioada 1
+faptul 1
+
+contact_cu
+mucoasele 1
+sânge 1
+tegumentul 1
+fluide 1
+fluidele 1
+soluția 1
+animale 1
+produsele 1
+poezia 1
+
+perioadă_de
+tranziție 1
+observație 1
+reînnoire 1
+acumulări 1
+urmărire 1
+timp 1
+expansiune 1
+pregătiri 1
+
+interiorul
+funcției 10
+seringii 4
+celulei 2
+tubului 2
+filtrului 2
+departamentului 1
+ciclului 1
+castelului 1
+
+mulțime_de
+lucruri 1
+omuleți 1
+sortimente 1
+lovituri 1
+turiști 1
+obiecte 1
+funcții 1
+definiri 1
+
+membrii
+Comisiei 16
+Partidului 12
+personalului 6
+comitetului 4
+comitetelor 3
+Societății 2
+parlamentului 1
+Frontului 1
+
+sistem_de
+gândire 1
+închidere 1
+măsurare 1
+evaluare 1
+clasificare 1
+tratament 1
+învățare 1
+metrou 1
+
+vorba_de
+Legea 1
+virtutea 1
+cauze 1
+iertare 1
+probleme 1
+minerii 1
+perioada 1
+țara 1
+
+modificarea
+dozei 6
+acordului 5
+legislației 4
+intrării 3
+măsurii 3
+polarității 2
+duratei 1
+personalității 1
+
+tipuri_de
+colaborări 1
+investiții 1
+riscuri 1
+produse 1
+civilizație 1
+virusuri 1
+cancer 1
+celule 1
+
+posibilitatea
+autorităților 10
+încheierii 3
+transmiterii 2
+obținerii 2
+controlării 2
+lansării 1
+calmării 1
+aproximării 1
+
+natura
+societății 9
+informațiilor 7
+lucrurilor 3
+ambalajului 3
+substanței 3
+atomului 2
+obiectului 1
+triunghiului 1
+
+nevoie_de
+viză 1
+doze 1
+stimulare 1
+dozele 1
+glucoză 1
+corecție 1
+introduceri 1
+opere 1
+
+privința
+riscurilor 6
+condițiilor 6
+rezultatului 3
+modului 2
+trupelor 2
+utilizatorului 1
+costurilor 1
+ușurinței 1
+
+cont_de
+datele 1
+principiul 1
+principiile 1
+dificultățile 1
+piețele 1
+loviturile 1
+ecologia 1
+faptul 1
+
+valorile
+vieții 10
+angiotensinei 2
+transaminazelor 2
+limitelor 2
+aminotransferazelor 1
+versului 1
+democrației 1
+feritinei 1
+
+nivel_de
+șefi 1
+protecție 1
+marcare 1
+influență 1
+detaliere 1
+imunitate 1
+substrat 1
+încredere 1
+
+perioada_de
+depunere 1
+întrerupere 1
+referință 1
+valabilitate 1
+observație 1
+timp 1
+raportare 1
+incubație 1
+
+excepția
+dreptului 7
+cazurilor 6
+contractelor 3
+urmelor 2
+cazului 1
+împrejurărilor 1
+afișelor 1
+orelor 1
+
+parcursul
+tratamentului 20
+timpului 12
+vieții 10
+studiului 7
+anilor 7
+repolarizării 6
+platoului 4
+narațiunii 2
+
+pacienți_cu
+gliomuri 1
+SM 1
+răspunsuri 1
+debut 1
+cancer 1
+hipersensibilitate 1
+morbidități 1
+boala 1
+
+stabilirea
+procedurii 6
+instrumentelor 2
+limitei 2
+marjei 1
+perioadelor 1
+diagnosticului 1
+prețurilor 1
+
+dispoziția
+autorităților 10
+statelor 9
+medicului 6
+publicului 3
+medicilor 2
+comerciantului 2
+utilizatorilor 2
+
+condiții_de
+protecție 1
+demnitate 1
+repaus 1
+gheață 1
+măsurare 1
+bază 1
+trai 1
+
+Membrii
+Partidului 12
+societății 9
+personalului 6
+camerei 4
+grupului 4
+comitetului 4
+comitetelor 3
+
+continuarea
+studiilor 7
+perfuziei 5
+războiului 5
+analizei 2
+dezvoltării 2
+implicării 2
+holerinei 1
+
+grup_de
+oameni 1
+țări 1
+instructori 1
+monitorizare 1
+tineri 1
+medicamente 1
+parteneri 1
+
+respectarea
+legislației 4
+principiilor 3
+drepturilor 3
+ordinii 2
+reglementărilor 2
+normelor 2
+diversității 1
+
+informații_privind
+cazurile 1
+clasificarea 1
+precauțiile 1
+măsurile 1
+utilizarea 1
+instituțiile 1
+pierderile 1
+
+organizarea
+timpului 12
+muncii 12
+programului 11
+cererilor 6
+formării 2
+excursiilor 2
+regimurilor 1
+
+încheierea
+procedurii 6
+războiului 5
+contractului 4
+procedurilor 4
+exercițiului 1
+petrecerii 1
+pactului 1
+
+tip_de
+import 1
+modelare 1
+celule 1
+reînviere 1
+pescuit 1
+interacțiune 1
+dată 1
+
+servicii_de
+baby 1
+informații 1
+presă 1
+poștă 1
+pompieri 1
+radiocomunicații 1
+transport 1
+
+viața
+revistei 9
+oamenilor 8
+mamei 3
+sfântului 2
+bolnavului 2
+familiei 2
+cronicarului 1
+
+tratamentul
+pacienților 9
+infecțiilor 8
+afecțiunii 1
+macerației 1
+pacientelor 1
+colicii 1
+piometriei 1
+
+sistemul_de
+protecție 1
+rezervări 1
+niveluri 1
+testare 1
+schimb 1
+învățământ 1
+operare 1
+
+protecția
+informațiilor 7
+sănătății 5
+copilului 4
+străinilor 3
+drepturilor 3
+mediului 2
+confidențialității 1
+
+funcția_de
+vicepreședinte 1
+ministru 1
+director 1
+membri 1
+pedagog 1
+redactor 1
+depozitar 1
+
+prezența
+reacțiilor 4
+fenomenului 3
+hipertensiunii 2
+șefilor 1
+α-ketoglutaratului 1
+subretei 1
+arcului 1
+
+timp_de
+pauză 1
+înjumătățire 1
+zi 1
+secole 1
+secetă 1
+scris 1
+război 1
+
+cazuri_de
+gripă 1
+hepatită 1
+abuz 1
+coagulare 1
+holeră 1
+urgență 1
+IN 1
+
+epoca
+Fratelui 4
+Unirii 3
+dublugânditului 2
+singurătății 2
+uniformității 1
+totalitarismului 1
+maturității 1
+
+starea_de
+panică 1
+urgență 1
+sănătate 1
+dezvoltare 1
+spirit 1
+activitate 1
+comă 1
+
+restul
+cazurilor 6
+finanțării 3
+mandatului 2
+flotei 2
+sezonului 2
+boierimii 1
+
+jumătate_din
+lumea 1
+capacitate 1
+cazuri 1
+serie 1
+flori 1
+date 1
+
+zona
+Mării 4
+climatului 2
+Pieței 1
+Complexului 1
+pasajelor 1
+Clinicii 1
+
+istoria
+țării 18
+familiei 2
+basmelor 2
+omenirii 2
+sportului 2
+provinciei 1
+
+vârful
+seringii 4
+flaconului 4
+acului 3
+capului 2
+nasului 1
+degetului 1
+
+calea
+apei 4
+intrării 3
+fericirii 1
+dragostei 1
+negustorilor 1
+întăririi 1
+
+perioade_de
+repaus 1
+pauză 1
+referință 1
+concediu 1
+speculații 1
+accentuare 1
+
+an_de
+risc 1
+viață 1
+ședere 1
+domnie 1
+executare 1
+învățământ 1
+
+partea_de
+nord 1
+calendar 1
+suflet 1
+vest 1
+est 1
+sud-est 1
+
+Facultatea_de
+Electronică 1
+Mecanică 1
+Muzică 1
+Medicină 1
+Filologie 1
+Filosofie 1
+
+procesului_de
+adoptare 1
+distribuire 1
+pace 1
+consfătuire 1
+introducere 1
+instalare 1
+
+pofida
+istoriei 5
+efectelor 4
+deciziei 3
+faptului 2
+intențiilor 1
+stereotipiei 1
+
+jumătate_de
+kilometru 1
+oră 1
+pagină 1
+secol 1
+an 1
+ora 1
+
+rezerva
+dispozițiilor 9
+încheierii 3
+respectării 2
+disponibilității 1
+consultării 1
+cerințelor 1
+
+teoria
+culturilor 4
+funcțiilor 2
+artei 1
+invarianților 1
+ecuațiilor 1
+numerelor 1
+
+măsura
+cererii 4
+temerității 1
+diversificării 1
+golirii 1
+amplorii 1
+acumulării 1
+
+ciuda
+tratamentului 20
+datelor 10
+măsurilor 8
+dispariției 3
+aspectului 2
+devierilor 1
+
+activitatea
+grupului 4
+ATP-azei 2
+sistemului 2
+pompelor 1
+autorilor 1
+neuraminidazei 1
+
+elemente_de
+siguranță 1
+atmosferă 1
+fabulos 1
+feerie 1
+simetrie 1
+lovire 1
+
+pricina
+timpului 12
+bătrânului 1
+ciocului 1
+limbuției 1
+manierei 1
+documentației 1
+
+Majoritatea
+cazurilor 6
+reacțiilor 4
+efectelor 4
+locuitorilor 4
+nobilimii 1
+accidentelor 1
+
+efectele
+tratamentului 20
+practicilor 3
+obstrucției 3
+secetei 1
+schimbării 1
+derivaților 1
+
+prevenirea
+infecțiilor 8
+pneumoniei 6
+morților 4
+diseminării 2
+episoadelor 1
+declanșării 1
+
+extinderea
+Comunității 14
+Consiliului 11
+dispozițiilor 9
+liniilor 3
+piețelor 2
+aeroportului 1
+
+controlul
+guvernului 8
+situației 5
+simptomelor 3
+străinilor 3
+conformității 2
+diabetului 2
+
+președintele
+Comisiei 16
+clubului 4
+Academiei 3
+asociației 2
+filialei 1
+consiliului 1
+
+zona_de
+nord-est 1
+vaccinare 1
+pescuit 1
+depășire 1
+recoltare 1
+sud 1
+
+doza_de
+medicament 1
+sulfoniluree 1
+rosiglitazonă 1
+comprimat 1
+radiație 1
+încărcare 1
+
+ore_după
+sfârșitul 1
+administrarea 1
+ingestia 1
+injectare 1
+administrare 1
+debutul 1
+
+încetarea
+terapiei 7
+contractului 4
+aplicării 4
+focului 2
+morăritului 1
+intervenției 1
+
+sectorul
+zahărului 3
+asigurărilor 2
+plantelor 2
+uleiului 1
+telecomunicațiilor 1
+
+spatele
+mesei 5
+genunchiului 1
+hanului 1
+Liceului 1
+Palatului 1
+
+introducerea
+măsurilor 8
+standardelor 4
+vaccinării 1
+cotei 1
+computerizării 1
+
+plata
+taxelor 6
+pensiilor 2
+dobânzii 2
+indemnizației 1
+portarilor 1
+
+locul_de
+muncă 1
+injectare 1
+injecție 1
+asistent 1
+baștină 1
+
+marginea
+calendarului 1
+necesității 1
+instrumentului 1
+căzii 1
+cetății 1
+
+frecvența
+evenimentelor 5
+luminii 4
+radiației 4
+inspecțiilor 1
+sursei 1
+
+locul
+administrării 7
+Centrului 3
+infecției 3
+injecției 2
+țipetelor 1
+
+fundul
+mării 3
+sălii 2
+Depresiunii 1
+cartușului 1
+paharului 1
+
+schimb_de
+sentimente 1
+scrisori 1
+căldură 1
+elevi 1
+date 1
+
+acordul
+Comunității 14
+guvernului 8
+medicului 6
+părților 5
+Guvernului 3
+
+administrarea
+dozei 6
+perfuziei 5
+asigurării 4
+turneului 2
+acidului 1
+
+categorie_de
+riscuri 1
+comerciant 1
+membri 1
+pacienți 1
+caracteristici 1
+
+cap_de
+oaie 1
+vită 1
+bordură 1
+streașină 1
+rama 1
+
+utilizarea
+medicamentului 6
+medicamentelor 5
+substanțelor 2
+siringii 1
+estradiolului 1
+
+zi_de
+cazare 1
+lucru 1
+tratament 1
+dimineață 1
+cateterizare 1
+
+mijloacele_de
+protecție 1
+imobilizare 1
+aplicare 1
+transport 1
+intervenție 1
+
+sistemului_de
+controale 1
+încărcare 1
+repartizare 1
+identificare 1
+măsurare 1
+
+concordanță_cu
+anotimpul 1
+cerințele 1
+abordarea 1
+peisajul 1
+strategia 1
+
+parte_la
+delirul 1
+slujba 1
+revoluția 1
+litigiu 1
+elaborarea 1
+
+promovarea
+produselor 11
+acțiunilor 8
+îmbunătățirii 2
+progresului 2
+imaginii 1
+
+siguranța
+produselor 11
+vieții 10
+reziduurilor 6
+vaccinului 2
+circulației 2
+
+numărului_de
+verbe 1
+nașteri 1
+neutrofile 1
+ulcere 1
+cazuri 1
+
+reprezentanții
+autorităților 10
+statelor 9
+lucrătorilor 7
+Adunării 1
+guvernelor 1
+
+om_de
+bună-credință 1
+treabă 1
+serviciu 1
+încredere 1
+lume 1
+
+curs_de
+artă 1
+instruire 1
+redresare 1
+realizare 1
+construcție 1
+
+finala
+Cupei 2
+sezonului 2
+spectacolului 1
+serii 1
+Concertului 1
+
+participarea
+autorităților 10
+elevilor 2
+tinerilor 1
+sectorului 1
+cititorului 1
+
+intrarea_în
+dizgrație 1
+studiu 1
+vigoare 1
+superior 1
+funcție 1
+
+terminarea
+lucrărilor 7
+ridicării 2
+chimioterapiei 2
+cursurilor 1
+iterației 1
+
+pragul
+morții 5
+durerii 4
+ușii 2
+înfometării 2
+azilului 1
+
+evoluția
+anului 8
+activităților 7
+situației 5
+evenimentelor 5
+universului 2
+
+modului_de
+lucru 1
+contractare 1
+administrare 1
+exercitare 1
+calcul 1
+
+dispozițiile
+Convenției 7
+articolelor 7
+articolului 5
+anexei 3
+alineatelor 1
+
+ochii
+omului 8
+fetei 5
+băiatului 2
+moderniștilor 1
+prizonierului 1
+
+farmacocinetica
+populației 11
+dozelor 3
+desipraminei 1
+tolcaponei 1
+activatorului 1
+
+proceduri_de
+adaptare 1
+consultare 1
+soluționare 1
+evaluare 1
+aprobare 1
+
+Comitetul_pentru
+securitate 1
+produse 1
+medicamente 1
+asigurări 1
+achiziții 1
+
+activitățile_de
+depozitare 1
+farmacovigilență 1
+pescuit 1
+cooperare 1
+cercetare 1
+
+circulația
+sângelui 6
+cuvântului 2
+tramvaielor 2
+ramurii 1
+troleibuzelor 1
+
+procedurii_de
+gestionare 1
+notificare 1
+aprobare 1
+atribuire 1
+alegere 1
+
+finalul
+studiului 7
+lunii 5
+actului 2
+artificiilor 1
+Simfoniei 1
+
+accident_de
+navigație 1
+canotaj 1
+rafting 1
+mașină 1
+laborator 1
+
+elemente_din
+caietul 1
+muzicile 1
+R 1
+spații 1
+setul 1
+
+dispozițiilor
+Convenției 7
+articolelor 7
+acordului 5
+alineatului 3
+
+drepturile
+persoanelor 10
+țăranilor 3
+operatorului 1
+muncitorului 1
+
+îndeplinirea
+funcției 10
+obiectivelor 5
+procedurilor 4
+sarcinilor 2
+
+Valoarea
+potențialului 7
+taxelor 6
+restituirii 2
+datei 1
+
+consumul_de
+pâine 1
+motorină 1
+alimente 1
+combustibil 1
+
+înființarea
+societății 9
+liceului 3
+Institutului 3
+rețelei 2
+
+specii_de
+sturioni 1
+acinetobacter 1
+plante 1
+păsări 1
+
+sistemele_de
+management 1
+învățământ 1
+testare 1
+producție 1
+
+finanțarea
+acțiunilor 8
+programelor 5
+politicii 5
+terorismului 1
+
+ziua
+doamnei 3
+publicării 3
+Victoriei 2
+nunții 1
+
+studii_de
+evaluare 1
+tip 1
+toxicitate 1
+scenariu 1
+
+Consiliului_de
+Administrație 1
+Asociere 1
+Securitate 1
+Miniștri 1
+
+libertatea
+cuvântului 2
+gândirii 2
+redefinirilor 1
+presei 1
+
+mâna_pe
+clanță 1
+scaun 1
+grătarul 1
+haine 1
+
+efectuarea
+notificării 3
+testului 2
+plăților 2
+investigației 1
+
+măsuri_de
+promovare 1
+reglementare 1
+precauție 1
+control 1
+
+culoarea
+nisipului 1
+marmorei 1
+cireșei 1
+cravatei 1
+
+procedura_de
+gestionare 1
+atribuire 1
+măsurare 1
+impozitare 1
+
+facilitării
+administrării 7
+procedurilor 4
+acordării 3
+finalizării 1
+
+centrul
+orașului 9
+camerei 4
+acuzațiilor 1
+capacului 1
+
+grupuri_de
+risc 1
+coasigurare 1
+tratament 1
+populație 1
+
+act_de
+crimăgândit 1
+voință 1
+curaj 1
+intenția 1
+
+eliberarea
+guvernului 8
+baloanelor 1
+garanției 1
+lagărului 1
+
+măsurile_de
+precauție 1
+restabilire 1
+dezvoltare 1
+prevenire 1
+
+identificarea
+pacienților 9
+transportului 4
+domeniilor 1
+tipurilor 1
+
+structura
+revistei 9
+taxelor 6
+pieței 4
+Academiei 3
+
+exteriorul
+Comunității 14
+Munților 2
+gloatelor 1
+moscheei 1
+
+funcționarea
+dispozițiilor 9
+punctelor 3
+Oficiului 2
+organizărilor 1
+
+Comisiei_de
+politică 1
+stabilire 1
+Ajutor 1
+control 1
+
+calitatea
+controlului 8
+dispozitivelor 3
+statisticilor 1
+serviciului 1
+
+modul_de
+instalare 1
+viață 1
+interpretare 1
+îmbinare 1
+
+planului_de
+reunificare 1
+separare 1
+retragere 1
+lucru 1
+
+raport_privind
+disponibilitatea 1
+aplicarea 1
+faptele 1
+punerea 1
+
+stare_de
+război 1
+secetă 1
+detașare 1
+arestare 1
+
+suma
+seriei 3
+termenilor 2
+acoperirii 2
+frecvențelor 1
+
+grupurile_de
+coasigurare 1
+tratament 1
+lucru 1
+consumatori 1
+
+date_privind
+venitul 1
+utilizarea 1
+proveniența 1
+supradozajul 1
+
+împărțirea
+piețelor 2
+discuției 2
+frecvenței 2
+premiilor 1
+
+loc_de
+ochii 1
+transpirație 1
+iarbă 1
+muncă 1
+
+mijloc_de
+transport 1
+îmbogățire 1
+izolare 1
+control 1
+
+sensul
+Directivei 5
+articolului 5
+aderării 2
+concluziilor 2
+
+punerea_în
+pericol 1
+aplicare 1
+conformitate 1
+funcțiune 1
+
+ori_pe
+zi 1
+granița 1
+săptămână 1
+locul 1
+
+dată_cu
+aproximație 1
+șuvoiul 1
+nașterea 1
+îndreptarea 1
+
+Tratatul_de
+instituire 1
+aderare 1
+uniune 1
+pace 1
+
+acțiunea
+statelor 9
+ATP-azei 2
+slăbiciunilor 1
+docetaxelului 1
+
+Dispozițiile
+Convenției 7
+Directivei 5
+alineatului 3
+convențiilor 1
+
+tipul
+rezultatului 3
+greutății 2
+antieroului 1
+parametrilor 1
+
+lista
+persoanelor 10
+cuvintelor 3
+divinităților 1
+varietăților 1
+
+unități_de
+timp 1
+insulină 1
+sânge 1
+deviație 1
+
+sănătatea
+produselor 11
+oamenilor 8
+lucrătorilor 7
+consumatorilor 5
+
+Șeful
+Statului 3
+misiunii 3
+echipei 2
+Administrației 1
+
+relația_cu
+toposul 1
+tratamentul 1
+prietenul 1
+Indolenta 1
+
+Consiliul_de
+Securitate 1
+Administrație 1
+Stat 1
+Sănătate 1
+
+raport_de
+arestare 1
+evaluare 1
+activitate 1
+sinteză 1
+
+gradul_de
+cadet 1
+viceamiral 1
+control 1
+absorbție 1
+
+categorii_de
+lucrători 1
+riscuri 1
+glucide 1
+arme 1
+
+rezultatelor
+acțiunilor 8
+culturilor 4
+testelor 2
+misiunilor 2
+
+legătura_între
+studierea 1
+rețeaua 1
+cartierele 1
+majoritatea 1
+
+clasă_de
+calcuri 1
+călătorie 1
+medicamente 1
+memorare 1
+
+studiile_de
+farmacologie 1
+mutagenitate 1
+interacțiune 1
+faza 1
+
+măsuri_pentru
+stoparea 1
+promovarea 1
+transferarea 1
+protejarea 1
+
+incidența
+Convenției 7
+gripei 4
+hiperstimulării 1
+capitolelor 1
+
+tratamentului_cu
+epoetină 1
+fosamprenavir 1
+spectru 1
+antibiotice 1
+
+tratament_cu
+simptome 1
+partenerul 1
+epoetină 1
+efect 1
+
+tratamentul_cu
+epoetină 1
+tiroxină 1
+filgrastim 1
+levodopa 1
+
+prețul
+vânzării 2
+combustibililor 1
+petrolului 1
+cursei 1
+
+sediul
+Fundației 2
+Serviciului 1
+căpitanului 1
+ziarului 1
+
+punct_de
+vedere 1
+referință 1
+onoare 1
+cotitură 1
+
+riscul
+pneumoniei 6
+reacțiilor 4
+transmiterii 2
+hipoglicemiei 1
+
+valorilor
+tensiunii 2
+enzimelor 2
+insulinei 2
+ureei 1
+
+schimbarea
+simptomelor 3
+sediului 2
+alianțelor 1
+destinației 1
+
+utilizării
+medicamentului 6
+căii 2
+numelui 2
+prezervativelor 1
+
+potențial_de
+interacțiune 1
+echilibru 1
+acțiune 1
+creștere 1
+
+mecanismul_de
+acțiune 1
+turelă 1
+antiport 1
+segmentare 1
+
+factor_de
+creștere 1
+necroză 1
+emisie 1
+oxidare 1
+
+acord_cu
+privire 1
+președintele 1
+angajatorul 1
+termenii 1
+
+luni_de
+tratament 1
+închisoare 1
+prevenție 1
+zile 1
+
+consultarea
+statului 12
+statelor 9
+Comitetului 5
+Regatului 2
+
+creștere_în
+greutate 1
+proletarizare 1
+anii 1
+termeni 1
+
+puncte_de
+intrare 1
+control 1
+vedere 1
+acumulare 1
+
+bază_de
+comandă 1
+nitrat 1
+prescripție 1
+date 1
+
+deosebire_de
+actrițe 1
+nota 1
+varietățile 1
+variabilele 1
+
+senzație_de
+vid 1
+lipsă 1
+amețeală 1
+detașare 1
+
+conținutul
+ambalajului 3
+raportului 3
+scrisorii 1
+comunicației 1
+
+tratarea
+pacienților 9
+infecțiilor 8
+gripei 4
+excepțiilor 1
+
+posibilitatea_de
+depășire 1
+clasificare 1
+suprimare 1
+reinserție 1
+
+fruntea
+statului 12
+echipei 2
+instituției 1
+promoției 1
+
+Ministerului
+Afacerilor 3
+Apărării 2
+Adevărului 2
+Economiei 1
+
+gleznă_în
+meciul 1
+timp 1
+mecanismul 1
+timpul 1
+
+Textele
+acordului 5
+Directivei 5
+Regulamentului 2
+Deciziilor 1
+
+Nivelul_de
+bază 1
+rețea 1
+neîncredere 1
+încredere 1
+
+mijloace_de
+comunicare 1
+măsurare 1
+influențare 1
+transport 1
+
+raport_cu
+privire 1
+performanța 1
+bulgarii 1
+placa 1
+
+proces_de
+reorganizare 1
+modernizare 1
+restructurare 1
+renovare 1
+
+Școala_de
+schi 1
+ofițeri 1
+Literatură 1
+
+funcții_de
+execuție 1
+transfer 1
+intrare 1
+
+recunoașterea
+țării 18
+țărilor 8
+brevetelor 1
+
+cererea
+Uniunii 8
+autorității 3
+Ligii 2
+
+linia_de
+credit 1
+test 1
+tramvai 1
+
+categoriilor_de
+nitrat 1
+acorduri 1
+calitate 1
+
+folosirea
+medicamentului 6
+dublugânditului 2
+pansamentelor 1
+
+rezultatului
+votului 3
+evaluării 3
+injecțiilor 1
+
+fazei_de
+LUNĂ 1
+administrare 1
+platou 1
+
+acțiuni_de
+informare 1
+promovare 1
+facilitare 1
+
+măsurilor_de
+control 1
+prevenire 1
+îngrijire 1
+
+program_de
+vaccinare 1
+antrenament 1
+acțiune 1
+
+vârfurile
+picioarelor 4
+degetelor 3
+Munților 2
+
+beneficiul
+persoanelor 10
+personalului 6
+comunității 2
+
+Centrul_de
+formare 1
+monitorizare 1
+masă 1
+
+Comitetului_de
+gestionare 1
+reglementare 1
+Legislație 1
+
+spatele_la
+tele-ecran 1
+fotograful 1
+cancelarie 1
+
+marginile
+patului 2
+paginilor 1
+tacâmurilor 1
+
+pregătirea
+locului 4
+evacuării 1
+Săptămânii 1
+
+statutul_de
+oraș 1
+evergreens 1
+refugiat 1
+
+aer_în
+salon 1
+piept 1
+cameră 1
+
+reziduurilor_pentru
+medicamentele 1
+țesutul 1
+ouă 1
+
+rețelei_de
+acvacultură 1
+coridoare 1
+stații 1
+
+prevederile
+articolelor 7
+Ordinului 1
+ordonanței 1
+
+risc_pentru
+consumator 1
+bacteriile 1
+infecții 1
+
+asociații_de
+locatari 1
+societăți 1
+asigurători 1
+
+onoarea
+eroilor 3
+cumnatului 1
+persoanei 1
+
+documentul_de
+orientare 1
+identificare 1
+export 1
+
+deciziei_de
+import 1
+sancționare 1
+acordare 1
+
+dată_în
+finala 1
+cursul 1
+lumină 1
+
+dispozițiile_din
+art. 1
+Decizia 1
+anexa 1
+
+clasificarea
+terapiilor 4
+mărfurilor 2
+pericolului 1
+
+acte_de
+subvenție 1
+natură 1
+piraterie 1
+
+acordurile_privind
+soluționarea 1
+primele 1
+retrocedarea 1
+
+cererilor_de
+despăgubire 1
+ofertă 1
+propuneri 1
+
+prezentarea
+eșantionului 9
+Studiului 1
+dovezii 1
+
+urmă_de
+reproș 1
+agresor 1
+ziduri 1
+
+societăți_de
+asigurare 1
+reasigurare 1
+instalare 1
+
+societățile_de
+asigurare 1
+instalare 1
+întreținere 1
+
+instalații_de
+încălzire 1
+ambalare 1
+recepție 1
+
+Festivalul
+cepei 1
+cârnațului 1
+filmului 1
+
+sticlă_de
+cerneală 1
+bere 1
+whisky 1
+
+model_de
+contract 1
+certificat 1
+terapie 1
+
+transformarea
+funcției 10
+soluției 1
+armatei 1
+
+populația
+comunei 1
+globului 1
+municipiului 1
+
+sisteme_de
+clasificare 1
+certificare 1
+transport 1
+
+sprijinul
+femeii 5
+cererii 4
+desfășurării 1
+
+lucrărilor_de
+modernizare 1
+întreținere 1
+reabilitare 1
+
+totalitatea
+datelor 10
+creanțelor 1
+creațiilor 1
+
+îmbunătățirea
+activităților 7
+valorilor 6
+infrastructurii 4
+
+identitatea
+societății 9
+climatului 2
+beneficiarului 1
+
+listele_de
+priorități 1
+plată 1
+produse 1
+
+condițiile
+legii 3
+poliței 2
+dominației 1
+
+început_de
+an 1
+secol 1
+afinitate 1
+
+aplicării
+dispozițiilor 9
+legii 3
+metodelor 1
+
+normele_de
+evaluare 1
+aplicare 1
+sănătate 1
+
+societăților_de
+instalare 1
+întreținere 1
+investiții 1
+
+activității
+intelectului 2
+soțului 2
+Școlii 1
+
+accesul_la
+tron 1
+calitatea 1
+îngrijirea 1
+
+față_cu
+fereastra 1
+ușa 1
+mânerul 1
+
+sprijinirea
+procesului 5
+asigurătorilor 3
+victimelor 1
+
+punctele_de
+control 1
+intrare 1
+vedere 1
+
+procentul_de
+produs 1
+informații 1
+pacienți 1
+
+control_la
+frontiera 1
+frontieră 1
+import 1
+
+contextul
+poeziei 6
+valorilor 6
+pieței 4
+
+apele
+statului 12
+mării 3
+lacului 2
+
+calitate_de
+director 1
+profesor 1
+membră 1
+
+contravaloarea
+transportului 4
+excursiilor 2
+vaccinului 2
+
+ani_în
+urmă 1
+cazul 1
+lupta 1
+
+numele_de
+Școala 1
+guanozin 1
+rectificare 1
+
+rândul
+pacienților 9
+țăranilor 3
+iobăgimii 1
+
+geneza
+potențialului 7
+repolarizării 6
+genului 1
+
+presiunea
+istoriei 5
+conjuncturii 1
+antibioticelor 1
+
+rezolvarea
+cazurilor 6
+problemelor 2
+conflictelor 1
+
+gravitatea
+bolii 9
+singurătății 2
+neutropeniei 1
+
+mirajul
+trecutului 2
+depărtării 1
+purității 1
+
+Facultății_de
+Litere 1
+Filosofie 1
+filozofie 1
+
+efectul_de
+surpriză 1
+creștere 1
+scădere 1
+
+volum_de
+nuvele 1
+Memorii 1
+muncă 1
+
+Institutului_de
+Arhitectură 1
+Literatură 1
+Artă 1
+
+achitării
+taxelor 6
+energiei 2
+tarifului 1
+
+seria_de
+însemnări 1
+vaccinare 1
+distribuție 1
+
+putere_de
+lege 1
+seducție 1
+sinteză 1
+
+referință_în
+romanul 1
+legătură 1
+vederea 1
+
+membrilor
+Partidului 12
+personalului 6
+camerei 4
+
+Decizia
+Comisiei 16
+Consiliului 11
+Uniunii 8
+
+trecerea
+timpului 12
+bunurilor 2
+primejdiei 1
+
+rândurile
+scriitorilor 2
+monahilor 1
+aristocrației 1
+
+modernizarea
+instituțiilor 2
+structurii 2
+fregatelor 1
+
+acoperișul
+casei 6
+depozitului 1
+Blocului 1
+
+persoanelor_cu
+studii 1
+dizabilități 1
+strămoși 1
+
+timpului_de
+lucru 1
+înjumătățire 1
+sângerare 1
+
+materie_de
+organizare 1
+securitate 1
+concurență 1
+
+munca_în
+ture 1
+schimbul 1
+conformitate 1
+
+teritoriul
+țării 18
+statului 12
+Uniunii 8
+
+închiderea
+buclei 2
+școlilor 1
+frontierei 1
+
+cunoașterea
+folclorului 2
+susceptibilității 1
+comportării 1
+
+producția
+anului 8
+epocii 1
+hematiilor 1
+
+faza_de
+studiu 1
+criză 1
+depolarizare 1
+
+amestec_de
+elemente 1
+huiduieli 1
+nou 1
+
+perspectiva
+planurilor 2
+variabilei 2
+întregului 1
+
+spectacol_de
+Revelion 1
+artificii 1
+teatru 1
+
+umbra
+verii 3
+mormântului 1
+sălciilor 1
+
+ordinea
+zilei 6
+frecvenței 2
+sortării 1
+
+puterea
+nopții 8
+vântului 3
+aripei 1
+
+oprirea
+vânătorii 1
+medicațiilor 1
+pompării 1
+
+interval_de
+timp 1
+siguranță 1
+estimare 1
+
+situația_de
+cnezi 1
+criză 1
+urgență 1
+
+ani_la
+ocnă 1
+regata 1
+colegiul 1
+
+ora_de
+trezire 1
+Chimie 1
+Filozofie 1
+
+malul
+apelor 4
+mării 3
+Râului 1
+
+naturii
+muncii 12
+radiației 4
+reziduului 1
+
+inima
+orașului 9
+pământului 7
+pădurii 1
+
+analiza
+datelor 10
+măsurilor 8
+fondului 2
+
+proiectul_de
+amenajare 1
+lege 1
+scrisoare 1
+
+menținerea
+valorilor 6
+ordinii 2
+homeostaziei 1
+
+Acordul_de
+organizare 1
+parteneriat 1
+modificare 1
+
+solicitarea
+Comisiei 16
+statului 12
+primarului 1
+
+Direcția_de
+Urbanism 1
+Sănătate 1
+Muncă 1
+
+adresa
+autorităților 10
+instrucțiunii 2
+politicianismului 1
+
+ore_de
+repaus 1
+lucru 1
+muncă 1
+
+săptămâni_în
+conformitate 1
+urmă 1
+casa 1
+
+Durata
+bolii 9
+terapiei 7
+perfuziei 5
+
+răspândirea
+infecției 3
+cancerului 2
+epidemiei 2
+
+potențialul_de
+sensibilitate 1
+acțiune 1
+frânare 1
+
+inhibitorii_de
+revers 1
+protează 1
+dopadecarboxilază 1
+
+tipul_de
+activitate 1
+utilizator 1
+sol 1
+
+cerințele_de
+securitate 1
+excelență 1
+monitorizare 1
+
+direcția
+mesei 5
+diagonalei 2
+realismului 1
+
+factori_de
+creștere 1
+risc 1
+compresiune 1
+
+Tratamentul
+infecțiilor 8
+hipertensiunii 2
+diabetului 2
+
+import_la
+punctele 1
+secretariat 1
+frontierele 1
+
+loc_pe
+coapsă 1
+varianta 1
+scările 1
+
+instalațiile_de
+incinerare 1
+recepție 1
+prăjire 1
+
+butonul_de
+apăsare 1
+dozare 1
+injectare 1
+
+îngrijirea
+pacienților 9
+sănătății 5
+bolnavilor 1
+
+procesul_de
+muncă 1
+control 1
+presare 1
+
+ore_la
+copii 1
+2°C 1
+temperaturi 1
+
+greutatea
+pacientului 7
+produsului 4
+corpului 1
+
+avizul
+Comisiei 16
+Comitetului 5
+Parlamentului 3
+
+intervalul_de
+valori 1
+timp 1
+estimare 1
+
+relația_dintre
+funcția 1
+media 1
+deviația 1
+
+ministrul
+Afacerilor 3
+integrării 2
+justiției 1
+
+experiență_în
+domeniu 1
+privința 1
+utilizarea 1
+
+fața_de
+schelet 1
+tinichea 1
+masă 1
+
+inhibarea
+focarului 2
+sintezei 1
+enzimei 1
+
+efectul
+tratamentului 20
+medicamentelor 5
+dimensiunii 2
+
+capacitatea
+Comunității 14
+pacientului 7
+miocardului 2
+
+Numărul_de
+mutații 1
+zile 1
+electroni 1
+
+utilizarea_de
+ace 1
+metode 1
+informații 1
+
+mâinile_în
+trecut 1
+poală 1
+buzunare 1
+
+inițierea
+tratamentului 20
+perioadei 8
+contracției 2
+
+motive_de
+economie 1
+securitate 1
+claritate 1
+
+Efectul
+bosentanului 2
+ginului 1
+câmpurilor 1
+
+simptome_de
+insuficiență 1
+alergie 1
+gripă 1
+
+simptomele_de
+insuficiență 1
+alergie 1
+avertizare 1
+
+raport_asupra
+rezultatului 3
+activității 2
+tranziției 1
+
+Doza_de
+tadalafil 1
+start 1
+întreținere 1
+
+ml_de
+apă 1
+lichid 1
+tampon 1
+
+Piața
+Unirii 3
+Victoriei 2
+Libertății 1
+
+dispozitiv_de
+administrare 1
+artificii 1
+conversie 1
+
+Respectarea
+măsurilor 8
+dozei 6
+condiției 1
+
+eficacitatea
+tratamentului 20
+oseltamivirului 2
+voriconazolului 1
+
+cererii_de
+autorizație 1
+sclavi 1
+autorizare 1
+
+caietul_de
+cuvinte 1
+sarcini 1
+studiu 1
+
+moartea_prin
+înfometare 1
+asfixiere 1
+încălzire 1
+
+membru_de
+parlament 1
+reședință 1
+protecția 1
+
+moarte_prin
+sufocare 1
+împușcare 1
+înfometare 1
+
+forma
+raportului 3
+adăugării 1
+repartiției 1
+
+planul
+studiului 7
+sănătății 5
+angajării 2
+
+suplimentarea
+măsurilor 8
+forțelor 3
+fondului 2
+
+săptămâni_de
+concediu 1
+tratament 1
+sarcină 1
+
+începerii
+muncii 12
+perioadei 8
+studiului 7
+
+masa
+fetei 5
+electronului 5
+nucleului 2
+
+terenul_de
+joacă 1
+polo 1
+antrenament 1
+
+șiruri_de
+tufișuri 1
+lungime 1
+elemente 1
+
+perioada
+fazei 4
+Sărbătorilor 1
+menținerii 1
+
+corpul
+funcției 10
+navei 2
+fratelui 1
+
+curentului_de
+aer 1
+Na 1
+K 1
+
+pescuit_în
+conformitate 1
+mare 1
+sezonul 1
+
+lumina
+zilei 6
+soarelui 2
+făcliei 1
+
+furnizarea_de
+instalații 1
+bunuri 1
+informații 1
+
+examinarea
+condițiilor 6
+cererii 4
+dificultăților 1
+
+dată_pe
+lună 1
+zi 1
+an 1
+
+Comisia_de
+afaceri 1
+agricultură 1
+Fotbal 1
+
+domeniului_de
+aplicare 1
+analiză 1
+definiție 1
+
+supravegherea
+societăților 3
+evoluției 2
+reasigurării 1
+
+dispoziții_privind
+subcontractarea 1
+procedurile 1
+clasificarea 1
+
+rețeaua_de
+alimentare 1
+transport 1
+străzi 1
+
+Consiliul
+Uniunii 8
+membrilor 4
+guvernatorilor 2
+
+principiului
+separării 3
+transparenței 2
+libertății 1
+
+Comisia_în
+îndeplinirea 1
+controlul 1
+problemele 1
+
+Rețeaua_de
+comunicații 1
+aeroporturi 1
+străzi 1
+
+oră_de
+Psihologie 1
+curs 1
+Germană 1
+
+înlăturării
+regimului 8
+obstacolului 3
+macazului 1
+
+potențialului_de
+acțiune 1
+repaus 1
+membrană 1
+
+Mecanismul
+perioadei 8
+repolarizării 6
+platoului 4
+
+intensitatea
+luminii 4
+radiației 4
+stimulului 1
+
+efect_asupra
+fenomenelor 2
+nivelului 2
+psihicului 1
+
+Jocul_de
+oină 1
+rugby 1
+baschet 1
+
+pereche_de
+ochelari 1
+pantaloni 1
+dansatori 1
+
+energia
+electronului 5
+electronilor 2
+fotonului 1
+
+date_în
+vederea 1
+raport 1
+q 1
+
+secțiile_de
+votare 1
+terapie 1
+
+orele_de
+lucru 1
+muncă 1
+
+patronajul
+prințesei 1
+Asociației 1
+
+lucrări_de
+reparații 1
+investiții 1
+
+țării_în
+favoarea 1
+zona 1
+
+respectării
+regimului 8
+principiilor 3
+
+favoarea
+independenței 3
+romanului 2
+
+acordarea_de
+concedii 1
+asistență 1
+
+atentat_cu
+dispozitiv 1
+bombă 1
+
+Întoarcerea
+regelui 3
+tatii 1
+
+călătorie_în
+valoare 1
+revista 1
+
+acțiunile_de
+informare 1
+formare 1
+
+zi_cu
+zi 1
+Tratatul 1
+
+postul_de
+prefect 1
+subprefect 1
+
+adoptarea
+dispozițiilor 9
+deciziilor 1
+
+minute_după
+ora 1
+administrarea 1
+
+patrula_de
+poliție 1
+chelneri 1
+
+Comisiei_în
+numele 1
+elaborarea 1
+
+Proiectul_de
+sistematizare 1
+buget 1
+
+conformității
+țărilor 8
+dispozitivelor 3
+
+picioarele
+monumentului 3
+cârciumarului 1
+
+activitățile
+autorităților 10
+filialelor 1
+
+recunoașterii
+țării 18
+țărilor 8
+
+casele
+oamenilor 8
+prietenilor 1
+
+cerințele
+Convenției 7
+Directivei 5
+
+schița
+scriitorului 3
+Strategiei 1
+
+Decizia_de
+recunoaștere 1
+revocare 1
+
+stoparea
+acțiunii 2
+cultivării 1
+
+piețe_de
+desfacere 1
+asigurări 1
+
+efect_de
+multiplicare 1
+seră 1
+
+lucrare_de
+perspectivă 1
+canalizare 1
+
+libertatea_de
+întrunire 1
+gândire 1
+
+simplificarea
+definiției 1
+calculelor 1
+
+activități_de
+îmbogățire 1
+farmacovigilență 1
+
+definirea
+riscurilor 6
+criteriilor 1
+
+criteriilor_de
+selecție 1
+includere 1
+
+întocmirea
+raportului 3
+rapoartelor 2
+
+Accesul_la
+baza 1
+activitățile 1
+
+interzicerea
+portului 2
+subproduselor 1
+
+sediului
+guvernului 8
+forțelor 3
+
+procedurilor_de
+exercitare 1
+import 1
+
+starea
+Uniunii 8
+pacientului 7
+
+rezistența
+ochiului 3
+clădirii 2
+
+zile_de
+băut 1
+prezență 1
+
+capăt
+programului 11
+conflictului 1
+
+aspectul
+calității 2
+raporturilor 1
+
+realizarea_de
+standuri 1
+economii 1
+
+campanii_de
+informare 1
+presă 1
+
+ștampila
+organismului 3
+asociației 2
+
+acțiunilor_de
+promovare 1
+prevenire 1
+
+piețele
+țărilor 8
+materiilor 1
+
+parteneriat_cu
+Primăria 1
+firma 1
+
+tentativă_de
+lovitură 1
+încălcare 1
+
+organismele_de
+aplicare 1
+control 1
+
+membre_în
+cauză 1
+scopul 1
+
+aprobarea
+programului 11
+programelor 5
+
+ordinul
+președintelui 4
+quantilei 1
+
+Ministrul
+afacerilor 2
+Turismului 1
+
+poziția_de
+drepți 1
+lider 1
+
+dovadă_de
+reținere 1
+talent 1
+
+directiva_în
+cauza 1
+cauză 1
+
+proiect_de
+colaborare 1
+reformă 1
+
+Comunității_pentru
+măsurile 1
+protecția 1
+
+intervenții_în
+sensul 1
+sfera 1
+
+societate_de
+consultanță 1
+asigurare 1
+
+sentiment_de
+panică 1
+neliniște 1
+
+controlării
+funcției 10
+reziduurilor 6
+
+Liderul
+Republicii 2
+generației 1
+
+animale_de
+fermă 1
+apă 1
+
+organul_de
+soluționare 1
+apel 1
+
+acetat_de
+trenbolon 1
+melengestrol 1
+
+constatările
+rapoartelor 2
+auditului 1
+
+stimularea
+măduvei 3
+creșterii 2
+
+hormoni_în
+carnea 1
+discuție 1
+
+carnea_de
+vită 1
+balenă 1
+
+drepturilor
+persoanelor 10
+omului 8
+
+căderea
+regimului 8
+Zidului 1
+
+simbolul
+orașului 9
+divizării 1
+
+includerea
+produselor 11
+obligațiilor 2
+
+informații_la
+nivel 1
+cerere 1
+
+monitorizarea
+reziduurilor 6
+calității 2
+
+obținerea_de
+fonduri 1
+informații 1
+
+moment_de
+luciditate 1
+servicii 1
+
+exporturile_de
+produse 1
+zahăr 1
+
+notificare_de
+export 1
+reziliere 1
+
+snop_de
+paie 1
+lumină 1
+
+ambalajul
+recipientelor 1
+dispozitivului 1
+
+lista_din
+anexa 1
+partea 1
+
+modificările
+valorilor 6
+anexei 3
+
+retragerea
+trupelor 2
+autorizației 2
+
+ani_pentru
+renovare 1
+pacienți 1
+
+cantităților_de
+produs 1
+produse 1
+
+politica_de
+eliminare 1
+dezvoltare 1
+
+rețelele_de
+canalizare 1
+alimentare 1
+
+cererea_de
+inițiere 1
+licență 1
+
+informațiile_privind
+riscurile 1
+siguranța 1
+
+experiența
+Comisiei 16
+medicului 6
+
+regulamentul_de
+exceptare 1
+procedură 1
+
+impactul
+acordurilor 3
+deversărilor 1
+
+procedurilor_în
+vederea 1
+conformitate 1
+
+lupta_împotriva
+crimei 2
+corupției 2
+
+beneficii
+pacientului 7
+consumatorilor 5
+
+atingerea
+obiectivelor 5
+degetelor 3
+
+prep._de
+referință 1
+vedere 1
+
+contractelor_de
+muncă 1
+servicii 1
+
+cererile_de
+despăgubire 1
+import 1
+
+conducătorii
+regimului 8
+federației 1
+
+riscurilor_de
+deces 1
+neconformitate 1
+
+teme_de
+didactică 1
+existență 1
+
+polițe_de
+asigurare 1
+asigurări 1
+
+polițele_de
+asigurare 1
+asigurări 1
+
+standardizarea
+produselor 11
+condițiilor 6
+
+riscuri_prin
+acordul 1
+asigurări 1
+
+stație_de
+metrou 1
+triaj 1
+
+poliță_de
+asigurări 1
+asigurare 1
+
+relații_de
+pace 1
+moștenire 1
+
+sfera_de
+aplicare 1
+influență 1
+
+Grupurile_de
+coasigurare 1
+lucru 1
+
+valorii
+acoperirii 2
+efectului 2
+
+dispozitivelor_de
+securitate 1
+urmărire 1
+
+referință_pentru
+asigurători 1
+aplicarea 1
+
+dimensiunii
+riscului 5
+particulelor 1
+
+spații_de
+cazare 1
+adrese 1
+
+oară_în
+timp 1
+romanul 1
+
+mușchii
+gâtului 2
+spatelui 1
+
+securitate_pentru
+dispozitivele 1
+schimbul 1
+
+acord_între
+asigurători 1
+societățile 1
+
+întreprinderi_de
+instalare 1
+asigurare 1
+
+distribuirea
+condițiilor 6
+medicamentului 6
+
+părți_la
+acord 1
+Convenție 1
+
+Grupuri_de
+coasigurare 1
+coreasigurare 1
+
+actele_de
+sabotaj 1
+violență 1
+
+motiv_de
+enervare 1
+îngrijorare 1
+
+acoperirea
+asigurării 4
+cheltuielilor 2
+
+acordarea
+cetățeniei 3
+restituirilor 1
+
+legăturilor_cu
+muzeele 1
+occidentul 1
+
+manifestație_de
+sprijin 1
+simpatie 1
+
+produsele_din
+presa 1
+carne 1
+
+clauzelor_de
+indexare 1
+salvgardare 1
+
+rânduri_de
+bărbați 1
+viță 1
+
+termenul
+poliței 2
+mandatului 2
+
+an_în
+cazurile 1
+Sudul 1
+
+dispariției
+riscului 5
+bulelor 1
+
+băieții_din
+film 1
+clasa 1
+
+urmă_în
+orașul 1
+rândul 1
+
+alocarea_de
+piețe 1
+memorie 1
+
+procedurile_de
+evaluare 1
+securitate 1
+
+valoarea_de
+plată 1
+repaus 1
+
+Valea
+Dorului 1
+Lupului 1
+
+costurile
+acțiunilor 8
+procedurii 6
+
+criteriile_de
+evaluare 1
+includere 1
+
+normelor_din
+seriile 1
+tratat 1
+
+bucată_de
+hârtie 1
+sticlă 1
+
+export_în
+cazul 1
+sectorul 1
+
+serviciile_de
+control 1
+securitate 1
+
+stadiul_de
+import 1
+export 1
+
+practicilor_de
+control 1
+dumping 1
+
+acord_în
+conformitate 1
+domeniile 1
+
+proporția
+transporturilor 2
+femeilor 1
+
+leziunile
+tubului 2
+cartilajului 1
+
+Autoritatea_de
+coordonare 1
+supraveghere 1
+
+celulă_de
+criză 1
+teroriști 1
+
+curățenia
+limbii 5
+ambalajului 3
+
+gestionarea
+serviciilor 6
+situației 5
+
+volumul
+eșantionului 9
+anului 8
+
+grupă_de
+copii 1
+pacienți 1
+
+Verificarea
+omogenității 1
+criteriilor 1
+
+motivele
+refuzului 2
+neconformității 1
+
+decizia
+șefului 2
+aliaților 1
+
+prețurile
+zahărului 3
+terenurilor 1
+
+titlul_de
+președinte 1
+doctor 1
+
+compartimentul
+poeziei 6
+traducerilor 1
+
+nume_de
+rezonanță 1
+țări 1
+
+contractul_de
+muncă 1
+studii 1
+
+atenția
+forului 2
+musafirilor 1
+
+aria
+epicului 2
+comparatismului 1
+
+ora
+prânzului 1
+închiderii 1
+
+băncile_de
+lemn 1
+metal 1
+
+opiniile_despre
+problemele 1
+ortodoxie 1
+
+problemele
+teatrului 4
+economiei 2
+
+preocupări_privind
+poezia 1
+faptul 1
+
+destrămării
+Uniunii 8
+cenaclului 1
+
+fiul
+moșierului 1
+stolnicului 1
+
+legenda
+meșterului 2
+creației 1
+
+autorizația_de
+muncă 1
+comercializare 1
+
+gen_de
+efort 1
+comedie 1
+
+publicarea_în
+foileton 1
+Jurnalul 1
+
+post_de
+poliție 1
+lucru 1
+
+liderul
+mișcării 6
+opoziției 1
+
+cursuri_la
+Universitate 1
+universitățile 1
+
+înțelepciunea
+omului 8
+pământului 7
+
+cercul
+studenților 3
+intelectualilor 2
+
+asasinarea
+președintelui 4
+liderului 1
+
+procesul
+integrării 2
+imitației 1
+
+familia
+inadaptabililor 1
+urticaceelor 1
+
+înfrângerea
+mișcării 6
+revoluției 1
+
+drumul
+exilului 1
+cailor 1
+
+împlinirea
+dezideratelor 1
+termenelor 1
+
+capătul
+flaconului 4
+potecii 1
+
+capacitatea_de
+contracție 1
+efort 1
+
+coeficientul_de
+schimb 1
+variație 1
+
+finele
+anului 8
+Erei 1
+
+atenția_asupra
+importanței 2
+scrierilor 1
+
+componența
+redacției 2
+numelor 1
+
+pas_cu
+evoluția 1
+pas 1
+
+familie_de
+țărani 1
+meșteri 1
+
+însușiri_de
+povestitor 1
+picturalitate 1
+
+principal_din
+notația 1
+săruri 1
+
+căutarea
+adevărului 2
+sprijinului 2
+
+rapoartele
+serviciilor 6
+trecătorilor 2
+
+poezie_în
+revista 1
+act 1
+
+seamă_în
+anii 1
+linia 1
+
+anii_de
+început 1
+mijloc 1
+
+problemele_de
+prozodie 1
+securitate 1
+
+bibliotecar_la
+liceul 1
+Fundația 1
+
+erori_de
+copiere 1
+măsurare 1
+
+spațiul
+ficțiunii 1
+imensității 1
+
+senzația_de
+artificial 1
+tensiune 1
+
+motivul
+evocării 1
+fraudei 1
+
+unitatea
+construcției 2
+folclorului 2
+
+șef_de
+tren 1
+orchestră 1
+
+instrumente_de
+precizie 1
+măsură 1
+
+Ideea
+concepției 1
+amazoanei 1
+
+rază_de
+soare 1
+lumină 1
+
+nuvelele_din
+volumul 1
+culegerile 1
+
+aer_de
+bătrân 1
+fabulos 1
+
+cărți_de
+filosofie 1
+identitate 1
+
+impozitului_pe
+venitul 1
+profit 1
+
+vieții
+oamenilor 8
+românilor 4
+
+cursurile
+Institutului 3
+Facultății 2
+
+colaborare_cu
+C.C.I.A.T. 1
+echipa 1
+
+spate_în
+scaun 1
+timp 1
+
+universul
+cântecelor 1
+simțirii 1
+
+protagoniștii
+romanului 2
+întrecerilor 1
+
+lucrările
+anului 8
+comitetului 4
+
+Fata_cu
+părul 1
+păr 1
+
+preajma
+morții 5
+arborilor 1
+
+acordării
+cetățeniei 3
+gradației 1
+
+declanșarea
+contracției 2
+polemicii 1
+
+conducătorul
+emiratului 1
+Companiilor 1
+
+absența
+luminii 4
+fenomenului 3
+
+descrierea
+fenomenelor 2
+interiorului 1
+
+picături_de
+sânge 1
+ochi 1
+
+întărirea
+caracterului 1
+coeziunii 1
+
+Volumul_de
+eseuri 1
+versuri 1
+
+suspendarea
+revistei 9
+plăților 2
+
+orientarea
+societății 9
+spiritului 2
+
+studierea
+dreptului 7
+materialului 1
+
+sfârșitului
+lumii 8
+anilor 7
+
+Comisia_pentru
+cultură 1
+modificarea 1
+
+spirit_de
+observație 1
+concesie 1
+
+profesor_de
+estetică 1
+beton-armat 1
+
+Institutul_de
+Arte 1
+Istorie 1
+
+omului_de
+condei 1
+știință 1
+
+sfert_de
+veac 1
+oră 1
+
+succes_de
+critică 1
+public 1
+
+cărților_de
+înțelepciune 1
+credit 1
+
+pieptul
+salopetei 1
+hoțului 1
+
+tema
+abuzului 1
+construirii 1
+
+speranța
+redempțiunii 1
+explicării 1
+
+catedra_de
+declamație 1
+geometrie 1
+
+editării
+operelor 1
+calendarelor 1
+
+prinderea
+pielii 4
+hoților 1
+
+Universității_din
+Damasc 1
+localitate 1
+
+frica_de
+lucruri 1
+fantasmele 1
+
+doctoratul_în
+istorie 1
+filologie 1
+
+subiectul_din
+nuvela 1
+romanul 1
+
+doctor_în
+filologie 1
+limbi 1
+
+B._în
+timpul 1
+aria 1
+
+băncile
+școlii 1
+cursului 1
+
+lovituri_de
+cuțit 1
+stat 1
+
+paza
+pădurilor 3
+urbei 2
+
+caietele_de
+regie 1
+teză 1
+
+securitatea
+țării 18
+lucrătorilor 7
+
+cultura
+limbii 5
+legumelor 1
+
+complexitatea
+articolelor 7
+lucrărilor 7
+
+formarea
+spiritului 2
+Executivului 1
+
+expirarea
+perioadei 8
+termenului 1
+
+formele
+grotescului 1
+manifestării 1
+
+ori_în
+răspăr 1
+total 1
+
+lumea
+oierilor 1
+ființelor 1
+
+rând
+populației 11
+mânăstirilor 1
+
+scuze
+etnicilor 1
+polonezilor 1
+
+lună_în
+tabăra 1
+spital 1
+
+grad_de
+invaliditate 1
+complexitate 1
+
+capacității_de
+muncă 1
+servire 1
+
+ecourile
+turneului 2
+bătăilor 1
+
+materialul_de
+față 1
+carbonat 1
+
+publicarea
+notelor 1
+intenției 1
+
+Insula
+Cailor 1
+Șerpilor 1
+
+ieșirea_din
+teatru 1
+cabinet 1
+
+ordin_de
+plecare 1
+executare 1
+
+concurs_de
+dramaturgie 1
+împrejurări 1
+
+ban_pe
+săptămână 1
+ban 1
+
+treabă_la
+oi 1
+grajduri 1
+
+frunzele_de
+viță 1
+anul 1
+
+jocul
+vârstelor 1
+așteptării 1
+
+lupta_pentru
+apărarea 1
+pâine 1
+
+guler_de
+oțel 1
+blană 1
+
+influenței
+forței 3
+factorului 3
+
+forței_de
+gravitație 1
+muncă 1
+
+apărarea
+drepturilor 3
+teritoriului 3
+
+legea
+progresului 2
+naturii 2
+
+seara
+ajunului 1
+premierei 1
+
+extragerea
+minereului 1
+sucurilor 1
+
+serii_de
+țânțari 1
+funcții 1
+
+funcției_de
+secretar 1
+colindă 1
+
+depunerea
+armelor 3
+jurământului 1
+
+simț_de
+răspundere 1
+colegialitate 1
+
+nevoile
+locuitorilor 4
+economiei 2
+
+Amestecul_de
+umbră 1
+prăjituri 1
+
+elementele
+standardelor 4
+atmosferei 2
+
+strategia_de
+dezvoltare 1
+îmbunătățire 1
+
+zi_la
+vitrina 1
+Seminarul 1
+
+vas_de
+bronz 1
+sânge 1
+
+lacrimi_la
+fel 1
+ora 1
+
+propagării
+flagelului 1
+impulsului 1
+
+impozitul_pe
+locuință 1
+terenuri 1
+
+capetele
+intervalului 3
+intelectualilor 2
+
+dată_la
+primăria 1
+succesul 1
+
+reguli_de
+formare 1
+selecție 1
+
+țărmul
+Mării 4
+râului 2
+
+Controlul
+realității 2
+identității 2
+
+mâna_la
+gură 1
+ușă 1
+
+interesele
+consumatorilor 5
+domnului 3
+
+răni_din
+vremi 1
+piciorul 1
+
+reabilitarea
+infrastructurii 4
+formei 3
+
+oamenii_de
+seamă 1
+știință 1
+
+semne_de
+dragoste 1
+boală 1
+
+camera_cu
+pricina 1
+aburi 1
+
+morților_din
+valea 1
+armata 1
+
+lumea_de
+iluzii 1
+durere 1
+
+data_de
+expirare 1
+referință 1
+
+fabrica_de
+armament 1
+parfum 1
+
+risc_asupra
+fătului 1
+sugarului 1
+
+decizia_de
+creștere 1
+revocare 1
+
+căpitanul
+echipei 2
+galeriei 1
+
+calitatea_de
+student 1
+membru 1
+
+ajustarea
+dozei 6
+dozelor 3
+
+flaconul_cu
+capacul 1
+pulbere 1
+
+cerințelor
+guvernului 8
+Convenției 7
+
+nivelului
+dobânzilor 3
+glicemiei 2
+
+metabolizarea
+catecolaminelor 2
+erlotinibului 1
+
+rețea_de
+buncăre 1
+fibrină 1
+
+membru_în
+Comisia 1
+cauză 1
+
+întreruperea
+tratamentului 20
+administrării 7
+
+numărului
+trombocitelor 3
+canalelor 1
+
+Fundația
+Universității 2
+Spitalului 1
+
+nivelurile
+catecolaminelor 2
+contingentelor 2
+
+continuării
+tratamentului 20
+implicării 2
+
+procedură_de
+recurs 1
+estimare 1
+
+uniforma
+Partidului 12
+Spionilor 1
+
+nuanță_de
+verde 1
+ridicol 1
+
+termenul_de
+ședere 1
+valabilitate 1
+
+volumul_de
+activitate 1
+bază 1
+
+baza_de
+pornire 1
+date 1
+
+spate_cu
+scaunele 1
+cuțitul 1
+
+magazin_de
+vechituri 1
+manufactură 1
+
+principal_la
+nivelul 1
+pozițiile 1
+
+bar_din
+localitatea 1
+localitate 1
+
+administrării
+bosentanului 2
+medicației 1
+
+copii_în
+locația 1
+brațe 1
+
+apă_din
+abundență 1
+organism 1
+
+detectarea
+modificărilor 2
+leziunilor 1
+
+soluție_de
+clorură 1
+amoniac 1
+
+certificate_de
+urbanism 1
+conformitate 1
+
+punctelor_de
+control 1
+contact 1
+
+A_din
+anexa 1
+apropierea 1
+
+simptomele
+gripei 4
+astmului 1
+
+carne_de
+pasăre 1
+vită 1
+
+Casa_de
+copii 1
+Cultură 1
+
+vapori_de
+aerosol 1
+mercur 1
+
+autorizații_de
+construire 1
+punere 1
+
+modificări_la
+nivel 1
+testele 1
+
+vorbe_de
+încurajare 1
+flăcări 1
+
+rata_de
+eliminare 1
+absorbție 1
+
+mâinile_cu
+apă 1
+strunguri 1
+
+Anexa_la
+Directiva 1
+acordul 1
+
+pacienților_cu
+SIDA 1
+scleroză 1
+
+focul
+discuției 2
+luptei 1
+
+acului_de
+filtrare 1
+seringă 1
+
+expunerea_la
+soare 1
+antibiotice 1
+
+cale_de
+metabolizare 1
+eliminare 1
+
+categoria_de
+vârstă 1
+pericol 1
+
+frontieră_în
+conformitate 1
+statele 1
+
+literatură_privind
+faptul 1
+epidemiologia 1
+
+spectacole_cu
+specific 1
+piese 1
+
+susținerea
+activităților 7
+operațiunilor 1
+
+parametrii
+coagulării 1
+tendinței 1
+
+plății
+dobânzii 2
+cantităților 1
+
+Directiva
+Comisiei 16
+Consiliului 11
+
+continuare_în
+timpul 1
+curs 1
+
+organizării
+timpului 12
+zborurilor 1
+
+factorii_de
+stratificare 1
+risc 1
+
+regiunea
+tratamentului 20
+lungimilor 1
+
+teste_de
+sânge 1
+genotoxicitate 1
+
+fir_de
+păr 1
+praf 1
+
+flaconului_cu
+solvent 1
+concentrat 1
+
+sentimentul
+forței 3
+vinovăției 1
+
+asociere_cu
+antagonistul 1
+capecitabină 1
+
+perioadelor_de
+repaus 1
+referință 1
+
+copiii_cu
+vârste 1
+vârsta 1
+
+ipoteza
+existenței 5
+discontinuității 1
+
+timpul_de
+lucru 1
+supraviețuire 1
+
+colțul
+ochiului 3
+copertei 1
+
+Planul_de
+farmacovigilență 1
+management 1
+
+pantofii
+tatălui 5
+pasagerilor 2
+
+medicamentul_pe
+calea 1
+perioada 1
+
+îmbunătățirii
+securității 5
+mediului 2
+
+calității
+serviciilor 6
+benzinei 1
+
+sănătății
+oamenilor 8
+lucrătorilor 7
+
+reacții_de
+hipersensibilizare 1
+tip 1
+
+lucrătorilor_la
+locul 1
+nivel 1
+
+terapiei_cu
+filgrastim 1
+antibiotice 1
+
+studiu_cu
+design 1
+docetaxel 1
+
+soluției_în
+uz 1
+spumă 1
+
+seringa_cu
+degetele 1
+lichid 1
+
+timp_în
+urmă 1
+timp 1
+
+controlului
+glicemiei 2
+concentrărilor 1
+
+eliminarea
+reziduurilor 6
+deșeurilor 1
+
+instrucțiuni_de
+manipulare 1
+prelucrare 1
+
+capacității
+vezicii 2
+sistemului 2
+
+Menținerea
+concentrațiilor 4
+eficacității 2
+
+obținerii
+dreptului 7
+permisului 1
+
+componentele
+produsului 4
+învelișului 1
+
+clase_de
+medicamente 1
+precizie 1
+
+Deținătorul
+autorizației 2
+Autorizației 1
+
+Lucrătorilor_din
+Comunitate 1
+Transporturi 1
+
+totalul
+populației 11
+locurilor 1
+
+duratei
+bolii 9
+potențialului 7
+
+pulbere_pentru
+suspensie 1
+soluție 1
+
+cantitate_de
+amestec 1
+apă 1
+
+muncă_de
+noapte 1
+zi 1
+
+jet_de
+apă 1
+insulină 1
+
+semnătura
+scriitorului 3
+clienților 2
+
+nivelul_de
+glucoză 1
+încredere 1
+
+agravarea
+bolii 9
+anginei 1
+
+rezistență_la
+lamivudină 1
+antibiotice 1
+
+diferenței_de
+eficacitate 1
+potențial 1
+
+probleme_de
+sănătate 1
+eroare 1
+
+ambalaje_cu
+blistere 1
+etichete 1
+
+apropierea
+momentului 2
+grilei 1
+
+sintezei
+peretelui 1
+prostaglandinelor 1
+
+prelungirea
+vieții 10
+intervalului 3
+
+cheag_de
+fibrină 1
+sânge 1
+
+vindecarea
+holerei 4
+plăgii 2
+
+Situația
+lucrătorilor 7
+clasei 5
+
+factorul_de
+creștere 1
+necroză 1
+
+protecție_împotriva
+bolii 9
+introducerii 1
+
+virusului
+bolii 9
+hepatitei 1
+
+săptămâni_după
+administrarea 1
+finala 1
+
+planul_de
+farmacovigilență 1
+reconstituire 1
+
+transplant_de
+celule 1
+organ 1
+
+administrării_în
+pompa 1
+timpul 1
+
+coordonarea
+autorităților 10
+secretariatului 2
+
+apariției
+pneumoniei 6
+crizelor 1
+
+mol_de
+polimer 1
+proteină 1
+
+factorilor_de
+neutralizare 1
+influență 1
+
+ac_de
+mărimea 1
+păr 1
+
+valuri_de
+căldură 1
+popoare 1
+
+situația_din
+localitățile 1
+harta 1
+
+interacțiune_între
+epoetina 1
+electronul 1
+
+terapie_de
+îngrijire 1
+substanță 1
+
+subiectul
+momentului 2
+convorbirii 2
+
+comitet_de
+redacție 1
+reglementare 1
+
+clauze_de
+calculare 1
+sumă 1
+
+impozitelor_pe
+profit 1
+veniturile 1
+
+tampon_de
+blocare 1
+liză 1
+
+Mijlocul_de
+comunicare 1
+demonstrare 1
+
+accesul
+întreprinderilor 3
+operatorilor 2
+
+limitele
+domeniului 2
+erorilor 1
+
+contractelor_pe
+perioadă 1
+durată 1
+
+explozie_de
+râs 1
+ceață 1
+
+Organizarea
+muncii 12
+teatrului 4
+
+ani_pe
+băncile 1
+măsură 1
+
+capul
+mesei 5
+locului 4
+
+combaterea
+epidemiei 2
+buruienilor 1
+
+contopirea
+iubirii 1
+flotelor 1
+
+dor_de
+ducă 1
+mers 1
+
+pericol_de
+înfometare 1
+supradoză 1
+
+rochia
+miresei 3
+domnișoarei 1
+
+importurile_de
+produse 1
+animale 1
+
+inch_de
+fața 1
+apă 1
+
+mână_de
+membri 1
+iarbă 1
+
+separării
+Prințului 1
+puterilor 1
+
+centrului
+orașului 9
+scenei 1
+
+tone_de
+heroină 1
+greutăți 1
+
+schimbare_în
+atitudinile 1
+istoria 1
+
+metode_de
+bază 1
+încercare 1
+
+produse_de
+origine 1
+tipul 1
+
+emisiile
+gazelor 2
+instalației 2
+
+clopotele
+bisericii 3
+Mitropoliei 1
+
+domenii_de
+cercetare 1
+cooperare 1
+
+părăsirea
+funcției 10
+terenului 1
+
+crimă_în
+dispariția 1
+masă 1
+
+rata
+corupției 2
+criminalității 1
+
+statistica
+eșantionului 9
+crimei 2
+
+infracțiuni_împotriva
+femeilor 1
+firmelor 1
+
+problemă_de
+securitate 1
+generații 1
+
+controalele_la
+punctele 1
+import 1
+
+moarte_din
+cauze 1
+cauza 1
+
+înfometare_în
+timpul 1
+spitale 1
+
+preocupare_pentru
+statutul 1
+morți 1
+
+efectelor
+practicilor 3
+înfometării 2
+
+copii_de
+mână 1
+struți 1
+
+lipsa
+alimentelor 1
+acurateței 1
+
+aparență_de
+bunăvoință 1
+om 1
+
+oameni_pe
+an 1
+săptămână 1
+
+Activitatea
+fundației 1
+canalului 1
+
+taxa_de
+vot 1
+consfătuire 1
+
+echipa_de
+concurs 1
+fete 1
+
+scenă_de
+nuntă 1
+grup 1
+
+renunțarea_la
+cetățenia 1
+emfaza 1
+
+Federația
+Sindicatelor 1
+Societăților 1
+
+noapte_la
+Capital 1
+cărțile 1
+
+modalitățile_de
+plată 1
+monitorizare 1
+
+estimările
+importurilor 3
+maselor 1
+
+separarea
+populației 11
+serului 2
+
+embrioni_de
+șobolani 1
+bovine 1
+
+coagularea
+sângelui 6
+trombocitelor 3
+
+secole_în
+mare 1
+urmă 1
+
+perioadele_de
+repaus 1
+concediu 1
+
+morților_de
+cancer 1
+holeră 1
+
+proceselor_de
+comenzi 1
+absorbție 1
+
+os_din
+antebrațul 1
+încheietură 1
+
+gleznă_la
+începutul 1
+antrenament 1
+
+oase_din
+spate 1
+antebrațul 1
+
+deget_în
+timpul 1
+timp 1
+
+izul_de
+țigări 1
+vin 1
+
+casa
+fetei 5
+miresei 3
+
+mirosul_de
+sânge 1
+lucruri 1
+
+interes_în
+timp 1
+cazul 1
+
+dosarul
+solicitantului 3
+băiatului 2
+
+contactul_cu
+focul 1
+pielea 1
+
+timp_după
+ora 1
+declanșarea 1
+
+incident_de
+graniță 1
+poluare 1
+
+studiul
+compoziției 1
+schimbărilor 1
+
+principiilor
+protejării 1
+desensibilizării 1
+
+bucăți_de
+carne 1
+gheață 1
+
+accident_la
+baschet 1
+gât 1
+
+sănătate_pentru
+organizarea 1
+importul 1
+
+muncii_în
+schimburi 1
+ture 1
+
+mușchi_la
+piciorul 1
+picior 1
+
+întindere_la
+spate 1
+inimă 1
+
+grijă_de
+bebeluș 1
+rodnicia 1
+
+jumătatea
+lungimii 2
+traseului 1
+
+boli_în
+stadiu 1
+cursul 1
+
+facturii_pentru
+încălzire 1
+noiembrie 1
+
+diferența_de
+temperatură 1
+potențial 1
+
+intenția
+Comisiei 16
+înlocuirii 2
+
+atingerii
+obiectivelor 5
+obiectivului 1
+
+răspundere_pentru
+infracțiunile 1
+daunele 1
+
+contor_de
+gaz 1
+energie 1
+
+instrument_de
+cântărit 1
+măsurare 1
+
+transportul
+hormonilor 2
+vehiculelor 1
+
+acces_la
+informații 1
+bazele 1
+
+totalitate
+aspectelor 1
+cateterizării 1
+
+ouălor_prin
+codul 1
+intermediul 1
+
+deciziile
+Curții 2
+arbitrilor 1
+
+primirea
+notificării 3
+declarației 1
+
+anexei_la
+acord 1
+directivă 1
+
+normele_privind
+sănătatea 1
+programul 1
+
+părți_în
+conformitate 1
+cauză 1
+
+titlu_de
+dobândă 1
+sancțiuni 1
+
+pescuitul_în
+apele 1
+zona 1
+
+părți_pe
+cale 1
+perioade 1
+
+Lista
+autorităților 10
+entităților 1
+
+Consiliului
+Uniunii 8
+guvernatorilor 2
+
+Perioada_de
+valabilitate 1
+gândire 1
+
+Trimiterile_la
+decizia 1
+directiva 1
+
+alegerea
+statului 12
+țărilor 8
+
+vizită_la
+Centrul 1
+mănăstirea 1
+
+legislației_în
+vigoare 1
+sectorul 1
+
+obiectivele
+programului 11
+Uniunii 8
+
+programului_în
+conformitate 1
+ordinea 1
+
+rolul_de
+stat 1
+invalid 1
+
+situațiile_de
+închidere 1
+urgență 1
+
+Numele
+navei 2
+șantierului 1
+
+exerciții_de
+simulare 1
+gimnastică 1
+
+expirării
+Deciziei 2
+listei 2
+
+contract_de
+finanțare 1
+furnizare 1
+
+echipamentele_de
+măsură 1
+radiocomunicații 1
+
+debutul
+obstrucției 3
+concertelor 1
+
+acorduri_privind
+comunicarea 1
+sectoare 1
+
+contradicție_cu
+dispozițiile 1
+legile 1
+
+frontierele
+Comunității 14
+claselor 5
+
+principal_de
+transportul 1
+constituenți 1
+
+elaborarea
+legislației 4
+avizelor 1
+
+cerere_de
+intervenție 1
+ajutor 1
+
+competențelor_de
+punere 1
+executare 1
+
+riscuri_de
+securitate 1
+depășire 1
+
+Sistemul_de
+informații 1
+diluție 1
+
+elementului_de
+testare 1
+referință 1
+
+autoritatea_de
+certificare 1
+supraveghere 1
+
+schimbul_de
+noapte 1
+informații 1
+
+tipurile_de
+mobilă 1
+unități 1
+
+modificări_în
+program 1
+vederea 1
+
+cantități_de
+bunuri 1
+Na 1
+
+transferul_de
+titluri 1
+date 1
+
+elementelor_din
+standardele 1
+setul 1
+
+bărbat_în
+jur 1
+stare 1
+
+curentul_de
+alimentare 1
+rectificare 1
+
+lichid_de
+transport 1
+camfor 1
+
+reglarea
+funcțiilor 2
+taximetrului 1
+
+semnal_de
+distanță 1
+răspuns 1
+
+mod_de
+afișare 1
+viață 1
+
+lungimii
+materialelor 3
+intervalului 3
+
+materialelor_de
+tip 1
+construcții 1
+
+virusul
+rizomaniei 1
+îngălbenirii 1
+
+perceperea
+reținerii 2
+impozitelor 1
+
+instituțiilor_de
+credit 1
+asistență 1
+
+programului_de
+lucru 1
+sănătate 1
+
+Comitet_pentru
+buget 1
+asigurări 1
+
+Informațiile_privind
+experții 1
+industria 1
+
+programul_de
+schimb 1
+rezolvare 1
+
+dreptului
+statelor 9
+părților 5
+
+sursă_de
+îngrijorare 1
+ischemie 1
+
+introducerea_în
+circulație 1
+anul 1
+
+domeniul_de
+frecvențe 1
+definiție 1
+
+unitatea_de
+învățământ 1
+timp 1
+
+Datele_din
+registrul 1
+literatură 1
+
+protecției
+securității 5
+mediului 2
+
+calculul
+valorii 2
+mediei 1
+
+înregistrarea
+importurilor 3
+denumirii 1
+
+mireasma_de
+prună 1
+tei 1
+
+liceu_la
+facultate 1
+ora 1
+
+zonă_de
+demolări 1
+intersecție 1
+
+urmele
+gurii 2
+trecerii 1
+
+cooperare_cu
+experți 1
+statele 1
+
+înțelegerea
+trecutului 2
+poeziilor 1
+
+holeră_din
+Țara 1
+târg 1
+
+păstrarea
+identității 2
+secretului 1
+
+vacanța_de
+primăvară 1
+iarnă 1
+
+recomandările
+terapiei 7
+profesoarelor 1
+
+explicarea
+lecției 1
+contradicțiilor 1
+
+teoriei
+inducției 1
+relativității 1
+
+cazurilor_de
+holeră 1
+bacteriurie 1
+
+calea_de
+excreție 1
+drenaj 1
+
+reducerii
+presiunii 2
+deviațiilor 1
+
+frecvenței
+clasei 5
+contracțiilor 1
+
+text_de
+lege 1
+b. 1
+
+Riscul
+apariției 2
+bacteriuriei 1
+
+instituție_de
+îngrijiri 1
+învățământ 1
+
+Apariția
+infecțiilor 8
+rezistenței 4
+
+speciile_de
+klebsiella 1
+enterobacter 1
+
+importanței
+controlului 8
+substratului 1
+
+obținerea
+hemoculturilor 1
+radiațiilor 1
+
+acțiune_la
+nivelul 1
+fibrele 1
+
+Analiza
+aspectului 2
+fiziologiei 1
+
+casele_de
+asigurări 1
+mineri 1
+
+situația
+presiunii 2
+dramaturgiei 1
+
+rol_în
+modificarea 1
+geneza 1
+
+Curenții_spre
+interior 1
+exterior 1
+
+rând_de
+curentul 1
+poziția 1
+
+revenirea
+potențialului 7
+atomului 2
+
+călători_pe
+linii 1
+liniile 1
+
+locului_de
+aplicare 1
+acțiune 1
+
+niveluri_de
+organizare 1
+studii 1
+
+nivel_cu
+Fratele 1
+funcția 1
+
+funcțiilor
+programului 11
+sistemului 2
+
+mecanism_de
+feedback 1
+abstractizare 1
+
+vorbirea_din
+patologia 1
+cadrul 1
+
+culturii
+bronzului 1
+viței 1
+
+Palatul
+Culturii 2
+Băncii 1
+
+perioadei_de
+tranziție 1
+raportare 1
+
+C_în
+vest 1
+est 1
+
+slujba
+familiei 2
+comunității 2
+
+împărțirea_pe
+județe 1
+regiuni 1
+
+deceniu_de
+instabilitate 1
+probleme 1
+
+km_de
+ape 1
+cale 1
+
+Corpul
+buclei 2
+Flotilei 1
+
+tensiunea_de
+frânare 1
+accelerare 1
+
+intensității
+luminii 4
+spectrului 1
+
+porții_de
+valoare 1
+energie 1
+
+limita
+seriei 3
+rațiunii 2
+
+Intensitatea
+radiației 4
+liniilor 3
+
+atomilor_de
+hidrogen 1
+mercur 1
+
+existența
+nivelelor 2
+structurii 2
+
+noțiunea_de
+traiectorie 1
+funcție 1
+
+definiția
+funcției 10
+modulului 1
+
+element_din
+acumulator 1
+cadrul 1
+
+media
+populației 11
+seriei 3
+
+intervalului_de
+estimare 1
+încredere 1
+
+mărimea
+stratului 1
+împrăștierii 1
+
+șirul
+claselor 5
+elementelor 4
+
+viața_de
+zi 1
+corist 1
+
+periodicele
+vremii 3
+
+B.J.T._din
+Piața 1
+
+instalația_de
+încălzire 1
+
+abuzului_de
+putere 1
+
+alienării
+ființei 2
+
+investiții_din
+bugetul 1
+
+fondul_de
+rulment 1
+
+inițierea_de
+cazuri 1
+
+oamenii
+legii 3
+
+cizmelor
+soldaților 1
+
+clopot_de
+ceremonial 1
+
+ceremonial_cu
+inscripția 1
+
+candelă_de
+argint 1
+
+argint_cu
+filigran 1
+
+crucifixuri_din
+bronz 1
+
+diademă_de
+sidef 1
+
+probe_în
+sprijinul 1
+
+facultatea_de
+drept 1
+
+drept_din
+cadrul 1
+
+curbura
+șoldurilor 1
+
+accesorii_de
+sport 1
+
+incendiilor_de
+pădure 1
+
+școală_din
+proiect 1
+
+concluziile
+studiului 7
+
+mașină_cu
+aburi 1
+
+crose_de
+hochei 1
+
+mănuși_de
+box 1
+
+recuperator_de
+sclavi 1
+
+străini_în
+hoteluri 1
+
+hoteluri_din
+stațiuni 1
+
+Statuia_din
+mijloc 1
+
+Poli_din
+fundal 1
+
+imagine_de
+ansamblu 1
+
+euro_în
+extinderea 1
+
+zboruri_pe
+zi 1
+
+zi_în
+anul 1
+
+deficitul_de
+aptitudini 1
+
+Polițiștii_de
+frontieră 1
+
+Poliției_de
+Frontieră 1
+
+Termenul_de
+prescripție 1
+
+transportul_pe
+calea 1
+
+minge_de
+fotbal 1
+
+O.N.U._privind
+reunificarea 1
+
+reședințe_pentru
+delegațiile 1
+
+teanc_de
+farfurii 1
+
+videoconferință_cu
+prefecții 1
+
+prefecții
+județelor 2
+
+Sala_de
+sport 1
+
+Ligii
+Tineretului 4
+
+accesul_în
+enclavele 1
+
+confruntare_cu
+soldații 1
+
+blocul_de
+obicei 1
+
+câștigarea
+independenței 3
+
+eradicarea
+sărăciei 1
+
+sărăciei_în
+țară 1
+
+fundalul
+vocii 1
+
+eroilor
+insurecției 1
+
+polonezilor_pentru
+crimele 1
+
+crimele
+ocupației 2
+
+ritmul_de
+creștere 1
+
+Pensionarii_de
+invaliditate 1
+
+isonul
+muzicii 1
+
+Chiuveta_din
+bucătărie 1
+
+groază_de
+aplecat 1
+
+regimul
+finanțărilor 1
+
+activități_din
+domeniile 1
+
+echipa
+proiectului 3
+
+masă_de
+entuziasm 1
+
+cvartet_de
+coarde 1
+
+aparatele
+observatorului 1
+
+penalități_de
+plată 1
+
+lege_asupra
+securității 5
+
+oază_de
+stabilitate 1
+
+stabilitate_în
+regiune 1
+
+masacrarea
+evreilor 1
+
+stabilitatea
+Partidului 12
+
+Liga
+Tineretului 4
+
+demascarea
+abuzurilor 1
+
+abuzurilor
+instituțiilor 2
+
+agresiune_din
+partea 1
+
+asocierea_la
+Federația 1
+
+candidații_la
+alegerile 1
+
+tur_de
+scrutin 1
+
+reprezentanta
+coaliției 2
+
+coaliției_de
+centru-stânga 1
+
+candidat_pentru
+aderare 1
+
+dezbaterea_asupra
+strategiei 1
+
+strategiei_de
+extindere 1
+
+sferturile_de
+finală 1
+
+anularea_în
+proporție 1
+
+datoriilor
+țărilor 8
+
+relansarea
+procesului 5
+
+sâmbătă_cu
+trenul 1
+
+forțele
+Statelor 1
+
+an_peste
+vârsta 1
+
+persoană_de
+bază 1
+
+legalitatea_prin
+depunerea 1
+
+bază_în
+Comisia 1
+
+Piața_de
+Gros 1
+
+priorităților
+municipalității 1
+
+atragerea
+investițiilor 1
+
+consolidarea
+întreprinderilor 3
+
+amintire_din
+copilărie 1
+
+Consilierul_pentru
+securitate 1
+
+excursiilor_în
+grup 1
+
+campaniilor_de
+economisire 1
+
+direcția_de
+muncă 1
+
+clienților_pe
+durata 1
+
+prezent_la
+Centrul 1
+
+reducerilor
+livrărilor 1
+
+livrărilor_de
+gaze 1
+
+porii
+pielii 4
+
+majorarea
+impozitului 2
+
+venitul
+microîntreprinderilor 1
+
+placa_de
+beton 1
+
+consolele_de
+lărgire 1
+
+inspectorii
+Biroului 1
+
+Transport_din
+cadrul 1
+
+activității_de
+taximetrie 1
+
+guvernul
+cancelarului 1
+
+planurilor_de
+reducere 1
+
+ajutorului_de
+șomaj 1
+
+stații_de
+taxi 1
+
+activitate_de
+taximetrie 1
+
+tropăială_de
+cizme 1
+
+bani_per
+litru 1
+
+Siguranța
+Alimentelor 1
+
+apel_către
+populație 1
+
+păsările_împotriva
+pseudopestei 1
+
+refuzul
+proprietarilor 1
+
+vaccinului_pentru
+păsările 1
+
+suflatul_în
+pieptene 1
+
+domeniilor_de
+interes 1
+
+interes_pentru
+sistemul 1
+
+direcțiilor_de
+investigare 1
+
+drumul_la
+apă 1
+
+colțurile
+lumii 8
+
+elementele_din
+lemn 1
+
+kilograme_de
+jucării 1
+
+litri_de
+benzină 1
+
+benzină_din
+rezervorul 1
+
+generator_de
+curent 1
+
+spectacol_la
+Restaurantul 1
+
+regiunea_de
+frontieră 1
+
+acord_de
+încetare 1
+
+focului_pentru
+detensionarea 1
+
+detensionarea
+situației 5
+
+casierie_cu
+suma 1
+
+sfârșit_de
+săptămână 1
+
+fondului_de
+câștiguri 1
+
+câștiguri_la
+categoria 1
+
+performanțele
+motorului 1
+
+derulării
+Proiectului 1
+
+Proiectului_pentru
+Învățământul 1
+
+runde_de
+competiții 1
+
+Canalul_de
+televiziune 1
+
+smoc_de
+păr 1
+
+țeava_de
+scurgere 1
+
+retragerea_din
+localitate 1
+
+Ghidul_pentru
+cadrele 1
+
+manualului_de
+competență 1
+
+competență_în
+mass-media 1
+
+zidului_de
+separare 1
+
+vot_de
+neîncredere 1
+
+neîncredere_în
+parlament 1
+
+săptămână_înaintea
+scrutinului 2
+
+case_din
+secolul 1
+
+ascunzători_de
+arme 1
+
+arme_în
+provincia 1
+
+bucățică_de
+lemn 1
+
+mâinile_deasupra
+capului 2
+
+experiența_în
+domeniu 1
+
+criminal_în
+gândire 1
+
+operatori_din
+turism 1
+
+legii
+acordării 3
+
+conaționalilor_din
+străinătate 1
+
+stâlpi_de
+lemn 1
+
+gamă_de
+articole 1
+
+articole_de
+marochinărie 1
+
+marochinărie_pentru
+vânători 1
+
+tocul_de
+armă 1
+
+genți_de
+vânătoare 1
+
+giumbușlucurile
+tigrișorilor 1
+
+autorităților_de
+control 1
+
+cariera_de
+specialist 1
+
+specialist_în
+transport 1
+
+Ochii
+doamnei 3
+
+sprijinirii
+reformelor 2
+
+reformelor_din
+învățământul 1
+
+secrete_de
+stat 1
+
+literații_de
+seamă 1
+
+oportunitatea
+modificării 2
+
+modificării
+Constituției 3
+
+ridurile
+obrajilor 1
+
+urmașilor_de
+sex 1
+
+legendă_cu
+haiduci 1
+
+Regulament_de
+organizare 1
+
+acoperișurile_de
+fier 1
+
+nota_de
+subsol 1
+
+băiatul_cu
+vocea 1
+
+crime_de
+război 1
+
+secunde_de
+Ură 1
+
+frontiera_din
+Comunitate 1
+
+Poliția
+Gândirii 1
+
+pași_pe
+coridor 1
+
+terasă_după
+terasă 1
+
+disponibilitatea
+medicamentelor 5
+
+încăperi_deasupra
+pământului 7
+
+piometriei_la
+bovine 1
+
+înlocuirii_în
+timp 1
+
+clipa_de
+față 1
+
+timp
+Parlamentului 3
+
+arhitectura_din
+jur 1
+
+animalele_de
+fermă 1
+
+trimiterile_la
+Directivele 1
+
+trimiteri_la
+Directiva 1
+
+lumea_din
+sală 1
+
+actele_cu
+putere 1
+
+aparatul_de
+guvernământ 1
+
+Comisia_cu
+privire 1
+
+trimitere_în
+momentul 1
+
+turneul_de
+calificare 1
+
+modalitatea_de
+efectuare 1
+
+infrastructura
+punctelor 3
+
+lotul
+selecționatei 1
+
+textul
+dispozițiilor 9
+
+dispozițiilor_de
+drept 1
+
+vigoare_în
+ziua 1
+
+publicării_în
+Jurnalul 1
+
+selecționatei_de
+fotbal 1
+
+deținătoarele
+titlurilor 1
+
+substanțelor_cu
+efect 1
+
+titlurilor_de
+campioane 1
+
+părul_la
+ceafă 1
+
+redacția
+săptămânalului 1
+
+precipitații_sub
+formă 1
+
+sănătate_în
+materie 1
+
+Dușmanul
+Poporului 2
+
+labirint_de
+rețele 1
+
+rețele_de
+sârmă 1
+
+muncii_de
+noapte 1
+
+sitting_pentru
+copii 1
+
+ritmul
+muncii 12
+
+codificarea
+dispozițiilor 9
+
+dispozițiilor_în
+cauză 1
+
+datoria
+Comunității 14
+
+uși_de
+oțel 1
+
+cuiburi_de
+mitralieră 1
+
+mediului_de
+lucru 1
+
+gardieni_cu
+mutre 1
+
+Directivei
+Consiliului 11
+
+aplicare_de
+măsuri 1
+
+situația_privind
+veniturile 1
+
+saci_de
+nailon 1
+
+Îmbunătățirea
+securității 5
+
+considerentelor_cu
+caracter 1
+
+mutre_de
+gorile 1
+
+moștenitorii
+persoanelor 10
+
+eficacității
+controalelor 1
+
+controalelor_asupra
+importurilor 3
+
+legislația_privind
+controalele 1
+
+succesorii_de
+drept 1
+
+abatorizare_în
+luna 1
+
+săptămânii_de
+lucru 1
+
+principiile
+Organizației 1
+
+Muncii_privind
+organizarea 1
+
+munca_de
+noapte 1
+
+perturbațiile_de
+mediu 1
+
+dosarele_de
+subvenție 1
+
+expresie_de
+optimism 1
+
+securitatea_la
+locul 1
+
+lucrători_de
+noapte 1
+
+lucrătorii_de
+noapte 1
+
+subvenție_pentru
+carnea 1
+
+învestirea
+Guvernului 3
+
+lucrătorilor_de
+noapte 1
+
+protecție_în
+materie 1
+
+fonduri_pentru
+susținerea 1
+
+fața_la
+tele-ecran 1
+
+Modalitățile_de
+muncă 1
+
+operațiunilor_de
+întrajutorare 1
+
+adaptării
+muncii 12
+
+muncii_la
+lucrător 1
+
+măsurilor_privind
+importurile 1
+
+victimelor
+cutremurului 1
+
+Minister_la
+ora 1
+
+intrare_în
+Comunitate 1
+
+galerie_de
+artă 1
+
+frontieră_din
+cadrul 1
+
+tablouri_din
+secolele 1
+
+bucată_din
+zidul 1
+
+versanții
+muntelui 1
+
+Asociația
+Proprietarilor 1
+
+Proprietarilor_de
+Nave 1
+
+Nave_din
+Comunitatea 1
+
+Vârful_cu
+Dor 1
+
+Sindicatelor
+Lucrătorilor 1
+
+Transporturi_din
+Uniunea 1
+
+statut_de
+salariat 1
+
+versantul_de
+Vest 1
+
+cererea_pentru
+sejururile 1
+
+excursiile_de
+grup 1
+
+flexibilitate_în
+aplicarea 1
+
+structurile_de
+conducere 1
+
+protejării
+securității 5
+
+obligațiilor
+statelor 9
+
+membre_privind
+termenele 1
+
+termenele_de
+transpunere 1
+
+general_în
+relații 1
+
+masa_la
+cantină 1
+
+ritmului_de
+lucru 1
+
+sectoarelor_de
+activitate 1
+
+obiectivul
+misiunilor 2
+
+misiunilor
+Oficiului 2
+
+functie_de
+riscurile 1
+
+riscurile_asupra
+sănătății 5
+
+configurației
+schimburilor 2
+
+Proiectele_de
+accesare 1
+
+mâncare_în
+bucătărie 1
+
+ore_din
+timpul 1
+
+infrastructurii_de
+cazare 1
+
+codru_de
+pâine 1
+
+serviciilor_din
+stațiunile 1
+
+necesitățile_de
+protecție 1
+
+securității
+lucrătorilor 7
+
+țipăt_de
+groază 1
+
+relația_de
+muncă 1
+
+ore_pe
+parcursul 1
+
+reabilitării
+activelor 1
+
+proprietatea
+solicitantului 3
+
+prevenire_în
+materie 1
+
+atenuării
+muncii 12
+
+stratul_de
+zăpadă 1
+
+tunurile_de
+zăpadă 1
+
+pauzele_pe
+parcursul 1
+
+urcare_cu
+teleschiul 1
+
+campaniei_de
+economisire 1
+
+dreptului_de
+proprietate 1
+
+cercetător_din
+comuna 1
+
+Perioadele_de
+concediu 1
+
+Ministrul_pentru
+coordonarea 1
+
+atmosferei_de
+gazon 1
+
+firmelor_de
+profil 1
+
+distribuția_de
+gaze 1
+
+colectarea
+reziduurilor 6
+
+Săptămânii
+Urii 1
+
+inundații_din
+județul 1
+
+lucrătorii_din
+domeniul 1
+
+transportului_de
+călători 1
+
+Oficiul_pentru
+Migrația 1
+
+Migrația
+Forței 2
+
+dispozițiile_privind
+timpul 1
+
+serviciilor_de
+sănătate 1
+
+Forței_de
+Muncă 1
+
+avizului
+Comisiei 16
+
+justificarea
+statului 12
+
+comisioane_pentru
+serviciile 1
+
+DIVA_prin
+utilizarea 1
+
+diferențierea
+păsărilor 1
+
+păsărilor_de
+curte 1
+
+ceașcă_de
+ceai 1
+
+riscurilor_asupra
+sănătății 5
+
+aspectele
+punerii 1
+
+punerii_în
+aplicare 1
+
+băutura_pe
+gât 1
+
+lucrătorilor_în
+timp 1
+
+arsura_din
+burtă 1
+
+infrastructurii
+solicitantului 3
+
+luni_în
+timpul 1
+
+acorduri_între
+partenerii 1
+
+dispozițiilor_din
+convențiile 1
+
+stânga
+tele-ecranului 2
+
+controalele_privind
+sănătatea 1
+
+obligativitatea
+societăților 3
+
+sertarul
+măsuței 1
+
+transportului
+salariaților 1
+
+consultării
+partenerilor 1
+
+eforturilor_de
+încurajare 1
+
+luni_pentru
+lucrătorii 1
+
+bordul
+navelor 1
+
+navelor_de
+pescuit 1
+
+Orele_de
+repaus 1
+
+intervalul_dintre
+perioadele 1
+
+factori_asupra
+sănătății 5
+
+văzul
+mulțimii 3
+
+PSIHOLOGUL
+redacției 2
+
+nave_de
+pescuit 1
+
+pericol_pe
+mare 1
+
+navele_de
+pescuit 1
+
+prejudiciu_din
+partea 1
+
+dispoziție_pentru
+rezolvarea 1
+
+coperta_de
+culoarea 1
+
+informații_cu
+privire 1
+
+medie_pentru
+perioada 1
+
+acordare
+concediului 1
+
+tele-ecranul_din
+camera 1
+
+peretele_din
+fund 1
+
+date_de
+identificare 1
+
+ziua_de
+Botezul 1
+
+ani_cu
+privire 1
+
+Botezul
+Domnului 2
+
+sănătății_la
+locul 1
+
+armate_din
+umbră 1
+
+dispozițiilor_privind
+lucrătorii 1
+
+Referirile_la
+directivele 1
+
+tabelul_de
+corespondență 1
+
+corespondență_din
+anexa 1
+
+rafturi_de
+cărți 1
+
+câmpului_de
+acțiune 1
+
+filialelor
+băncilor 1
+
+remedierea
+deficiențelor 1
+
+răsturnării
+Statului 3
+
+miros_de
+mucegai 1
+
+cultivării_pe
+scară 1
+
+sarcinilor_privind
+acordarea 1
+
+revocarea
+recunoașterii 1
+
+departamentul_de
+relații 1
+
+Limita_pentru
+tranzacțiile 1
+
+plafonul_pe
+angajat 1
+
+cerințe_de
+limbă 1
+
+limbă_pentru
+brevetele 1
+
+perspectivele_de
+evoluție 1
+
+promovare_cu
+privire 1
+
+piețele_din
+țări 1
+
+Organizației
+Cooperării 1
+
+CE_la
+modificările 1
+
+ușa
+liftului 1
+
+Comisie_în
+conformitate 1
+
+imaginii
+produselor 11
+
+produselor
+Comunității 14
+
+Comunității_pe
+piețele 1
+
+modernizării
+infrastructurii 4
+
+vorba_despre
+proiectul 1
+
+Figura_cu
+mustață 1
+
+criterii_pentru
+recunoașterea 1
+
+carte_fără
+titlu 1
+
+șireturi_de
+pantofi 1
+
+inaugurarea
+instalației 2
+
+substanțe_în
+Directiva 1
+
+revizuirea
+categoriilor 2
+
+instalației_de
+schi-lift 1
+
+nitrat_de
+amoniu 1
+
+îngrășăminte_pe
+bază 1
+
+pasaje_din
+Directiva 1
+
+lame_de
+ras 1
+
+privire_în
+susul 1
+
+selecție_pentru
+produsele 1
+
+produsele_în
+cauză 1
+
+Raportul_de
+securitate 1
+
+denumirea
+organismelor 4
+
+josul
+străzii 2
+
+rapoartelor_de
+securitate 1
+
+introducere_pe
+piață 1
+
+Identificarea
+nevoilor 1
+
+nevoilor_de
+formare 1
+
+rambursări_la
+export 1
+
+dispoziții_de
+drept 1
+
+concentrația_de
+nitrat 1
+
+condițiile_din
+anexa 1
+
+conținut_de
+azot 1
+
+nitratului_de
+amoniu 1
+
+Comerțului_ca
+autoritate 1
+
+cartea_la
+prețul 1
+
+responsabilizării
+organizațiilor 3
+
+Comisia
+Comunităților 2
+
+uleiul_de
+măsline 1
+
+măsline_în
+activitatea 1
+
+Nerespectarea
+prevederilor 1
+
+atribuțiilor_de
+punere 1
+
+punere_în
+aplicare 1
+
+pensionarii_din
+sistemul 1
+
+comitetele_de
+gestionare 1
+
+gestionare_în
+cauză 1
+
+circulația_cu
+viteză 1
+
+vaccinării_pentru
+suplimentarea 1
+
+proiecte_pentru
+obținerea 1
+
+infecțiilor_cu
+pesta 1
+
+bilețelul_în
+mână 1
+
+relații_cu
+publicul 1
+
+avantajele
+produselor 11
+
+lagăr_de
+muncă 1
+
+participarea_la
+manifestări 1
+
+expoziții_de
+importanță 1
+
+liniilor_de
+tramvaie 1
+
+peniță_în
+toc 1
+
+denumirilor_de
+origine 1
+
+informare_cu
+privire 1
+
+vinurilor_cu
+denumire 1
+
+denumire_de
+origine 1
+
+vinurilor_de
+masă 1
+
+piețelor_de
+desfacere 1
+
+penița_în
+cerneală 1
+
+fior_prin
+stomac 1
+
+oportunități_de
+export 1
+
+desfacere_în
+țările 1
+
+segmentele
+învățământului 3
+
+țărilor_cu
+cerere 1
+
+listă_cu
+produsele 1
+
+Aprecierea
+cauzelor 2
+
+uleiului_de
+măsline 1
+
+măslinelor_de
+masă 1
+
+simulări_de
+teste 1
+
+sectoarele_în
+cauză 1
+
+programe_de
+promovare 1
+
+subtipurile_de
+pestă 1
+
+acord_privind
+programele 1
+
+teste_în
+vederea 1
+
+Datarea
+hârtiei 1
+
+Holul
+blocului 1
+
+informarea
+Comitetului 5
+
+individ_din
+față 1
+
+sectoarelor_în
+cauză 1
+
+cunoștințe_de
+specialitate 1
+
+specialitate_privind
+produsele 1
+
+Politehnica_cu
+plata 1
+
+fațada
+casei 6
+
+contact_de
+moment 1
+
+Comunității_la
+acțiunile 1
+
+interdicție_privind
+comerțul 1
+
+păsări_de
+curte 1
+
+condițiile_pentru
+comerțul 1
+
+masă_din
+spatele 1
+
+depozitului_de
+anvelope 1
+
+programul_în
+cauză 1
+
+procentul_din
+finanțare 1
+
+Cheltuielile
+Comunității 14
+
+moalele
+capului 2
+
+capului_din
+față 1
+
+Regulamentul
+Consiliului 11
+
+ghid_pentru
+profesorii 1
+
+Comitetul_de
+gestionare 1
+
+gestionare_pentru
+uleiuri 1
+
+regulamente_privind
+organizarea 1
+
+dovezi_cu
+privire 1
+
+liniuță_din
+Regulamentul 1
+
+produselor_de
+floricultură 1
+
+examinarea_în
+cadrul 1
+
+medicamentelor_de
+uz 1
+
+reziduurilor
+substanței 3
+
+consumatorul_de
+produse 1
+
+impactului
+reziduurilor 6
+
+reziduurilor_asupra
+prelucrării 1
+
+profesorii_de
+liceu 1
+
+medicamentele_de
+uz 1
+
+precizarea
+speciei 1
+
+speciei_de
+animal 1
+
+țesut_de
+carne 1
+
+Competența_în
+mass-media 1
+
+obicei_pentru
+țesuturile 1
+
+țintă_din
+ficat 1
+
+carcasele_din
+circuitul 1
+
+utilizării_pentru
+păsările 1
+
+animalele_cu
+lactație 1
+
+vaccinarea_în
+zonele 1
+
+Cuprinsul
+manualului 1
+
+finalizării
+studiilor 7
+
+utilizării_la
+animalele 1
+
+ouă_pentru
+consumul 1
+
+mg_de
+marcator 1
+
+marcator_per
+litru 1
+
+litru_de
+ulei 1
+
+modificarea_în
+consecință 1
+
+Comitetului_pentru
+accize 1
+
+paragraf_din
+Decizia 1
+
+importurilor_de
+animale 1
+
+față_în
+față 1
+
+consecințele
+atentatelor 1
+
+acordului_privind
+aplicarea 1
+
+apel_în
+cazul 1
+
+batalion_sub
+comandă 1
+
+administrare_în
+vederea 1
+
+stimulării
+creșterii 2
+
+creșterii_la
+animale 1
+
+proiecte_de
+cercetare 1
+
+operațiune_de
+capturare 1
+
+rapoartelor
+grupului 4
+
+organului_de
+apel 1
+
+hormoni_pentru
+stimularea 1
+
+centre_de
+detenție 1
+
+considerare_în
+cadrul 1
+
+aviz_cu
+privire 1
+
+riscurile_pentru
+sănătatea 1
+
+prezența_de
+reziduuri 1
+
+reziduuri_de
+hormoni 1
+
+ghișeu_cu
+tava 1
+
+zile_în
+urmă 1
+
+inima_de
+gheață 1
+
+umăr_la
+umăr 1
+
+consumator_cu
+grade 1
+
+figurile_de
+frunte 1
+
+bovine_pentru
+stimularea 1
+
+efecte_de
+formare 1
+
+riscului_pentru
+consumatori 1
+
+experți_în
+domeniul 1
+
+criză_pentru
+gestionarea 1
+
+notificări_de
+export 1
+
+copii_la
+cerere 1
+
+importator_din
+cadrul 1
+
+informații_pentru
+cantitățile 1
+
+poetul_cu
+urechile 1
+
+includerea_în
+notificare 1
+
+minut_la
+dispoziție 1
+
+măsurii_de
+reglementare 1
+
+măsura_de
+reglementare 1
+
+culegerea
+informațiilor 7
+
+documentele_de
+orientare 1
+
+expedierii
+documentului 1
+
+documentului_de
+orientare 1
+
+referire_la
+categoria 1
+
+Pavilionul
+țării 18
+
+comunicarea
+deciziei 3
+
+scuze_pentru
+reprimarea 1
+
+deciziile_de
+import 1
+
+statutului
+minorităților 1
+
+ciorbă_de
+fasole 1
+
+lingurile_cu
+zeama 1
+
+publicului_pe
+Internet 1
+
+listele_din
+anexa 1
+
+clasificare_în
+Nomenclatura 1
+
+Comisie_conform
+alin. 1
+
+acordul_pentru
+import 1
+
+exportatorii_de
+pesticide 1
+
+pronunțarea
+sentinței 1
+
+recipientelor_cu
+pesticide 1
+
+specificațiile_de
+puritate 1
+
+Controalele_la
+exportul 1
+
+locuința_în
+bancă 1
+
+producției
+produselor 11
+
+încălcarea
+dispozițiilor 9
+
+sprijin
+organizațiilor 3
+
+confidențialității
+datelor 10
+
+realizărilor_din
+legislația 1
+
+reglementare_conform
+legislației 4
+
+lume_-n
+jur 1
+
+modificările_în
+anexele 1
+
+aplicarea_de
+zi 1
+
+columne_în
+vârful 1
+
+diez_din
+lista 1
+
+diez_de
+produse 1
+
+statuia
+Fratelui 4
+
+condițiilor_de
+clasificare 1
+
+motivarea
+măsurii 3
+
+codul_din
+Nomenclatura 1
+
+impurități_din
+substanță 1
+
+recomandări_privind
+securitatea 1
+
+kg_de
+cocaină 1
+
+vulcan_de
+răzbunare 1
+
+precauție_pentru
+reducerea 1
+
+expunerii_la
+produsul 1
+
+rezumatul
+informațiilor 7
+
+cantitățile_de
+produse 1
+
+Actul_de
+aderare 1
+
+scutire_pentru
+acordurile 1
+
+ochii_la
+cer 1
+
+soluționarea
+cererilor 6
+
+liderului
+mișcării 6
+
+NATO_pentru
+pregătirea 1
+
+domeniile_în
+cauză 1
+
+aviz_asupra
+raportului 3
+
+raportului
+Comisiei 16
+
+rezoluție_asupra
+raportului 3
+
+regulamentul_cu
+părțile 1
+
+sectorului
+asigurărilor 2
+
+reluarea
+programului 11
+
+consultărilor_asupra
+raportului 3
+
+Bătălia_pentru
+Aerobaza 1
+
+categoriile_de
+acorduri 1
+
+importanță
+definirii 1
+
+definirii
+categoriilor 2
+
+influență_pe
+piață 1
+
+precizării
+restricțiilor 1
+
+acordurile_în
+cauză 1
+
+strada_din
+fața 1
+
+acordurilor_pe
+piața 1
+
+gazon_de
+hochei 1
+
+puritatea
+Partidului 12
+
+exceptarea_pe
+categorii 1
+
+intrarea_pe
+piață 1
+
+rechemarea
+ambasadorilor 1
+
+sortimente_de
+bere 1
+
+studiile_în
+cauză 1
+
+exclusivitate_din
+ingrediente 1
+
+riscurilor_cu
+condiția 1
+
+angajament_din
+partea 1
+
+reducerile_de
+preț 1
+
+interes_de
+cumpărătorii 1
+
+asociație_de
+asigurători 1
+
+cumpărătorii_din
+Occident 1
+
+piața_în
+cauză 1
+
+barieră_în
+calea 1
+
+ajunul
+fazei 4
+
+intrării_pe
+piață 1
+
+Fiabilitatea
+determinărilor 3
+
+farmec_în
+comportament 1
+
+concurența_prin
+sprijinirea 1
+
+cote_de
+piață 1
+
+Declarația_de
+război 1
+
+asigurare_de
+viață 1
+
+eficiența
+asigurătorilor 3
+
+piață_pentru
+asigurătorii 1
+
+organizațiile
+consumatorilor 5
+
+promotorii
+introducerii 1
+
+introducerii
+tehnicii 1
+
+polițe
+clienților 2
+
+tehnicii_de
+calcul 1
+
+calcul_în
+țara 1
+
+avantaje
+consumatorilor 5
+
+jur_împrejurul
+postamentului 1
+
+riscuri_fără
+legătură 1
+
+descurajarea
+asigurătorilor 3
+
+acoperire_pentru
+riscuri 1
+
+lume_în
+noaptea 1
+
+noaptea_de
+Revelion 1
+
+marcaje_pentru
+țigări 1
+
+reasigurări_pentru
+riscurile 1
+
+restricționarea
+concurenței 1
+
+condițiilor
+polițelor 1
+
+vacarm_de
+strigăte 1
+
+produs_de
+asigurare 1
+
+scutiri_conform
+art. 1
+
+sectorul_de
+asigurări 1
+
+asigurări_în
+cauză 1
+
+economii_în
+privința 1
+
+reasigurare_în
+comun 1
+
+comun_în
+condiții 1
+
+grupul_în
+cauză 1
+
+pieței_în
+cauză 1
+
+coduri_de
+practică 1
+
+practică_privind
+dispozitivele 1
+
+dispozitivele_de
+securitate 1
+
+dosarul_privind
+afacerea 1
+
+securitate_cu
+specificațiile 1
+
+codurile_de
+practică 1
+
+practică_în
+cauză 1
+
+reacție_în
+lanț 1
+
+reasigurători_la
+evaluarea 1
+
+echipă_de
+experți 1
+
+fugă_prin
+mijlocul 1
+
+Hotărâre_de
+Guvern 1
+
+instituirea
+regimului 8
+
+practică_la
+nivel 1
+
+domeniu_între
+asigurători 1
+
+armonizări_la
+nivel 1
+
+regimului_de
+arie 1
+
+restrângerea
+numărului 2
+
+cerințe_pentru
+dispozitivele 1
+
+întreținerea
+dispozitivelor 3
+
+armonizare_la
+nivel 1
+
+acordurile_dintre
+asigurători 1
+
+plăci_de
+snowboard 1
+
+încheierea_de
+acorduri 1
+
+decizii_privind
+investiții 1
+
+principiul
+prevalenței 1
+
+prevalenței
+dreptului 7
+
+regulilor_în
+cauză 1
+
+stabilirea_în
+comun 1
+
+practicarea
+ocupației 2
+
+ocupației_de
+monitor 1
+
+comun_de
+asigurători 1
+
+asociațiile_de
+asigurători 1
+
+monitor_de
+schi 1
+
+ochelarii_pe
+nas 1
+
+riscuri_în
+numele 1
+
+turneului_din
+noiembrie 1
+
+ceremonia_de
+deschidere 1
+
+Dispozitive_de
+securitate 1
+
+convoi_de
+prizonieri 1
+
+mărire_de
+pensie 1
+
+risc_din
+perioada 1
+
+indemnizația_de
+maternitate 1
+
+societății_de
+asigurare 1
+
+asigurare_în
+cauză 1
+
+Latura_de
+sud 1
+
+sferei_de
+aplicare 1
+
+stradă_din
+cartierul 1
+
+obicei_către
+exteriorul 1
+
+coamă_de
+păr 1
+
+asiguratului_din
+sectorul 1
+
+lucru_în
+cazul 1
+
+reziliere_la
+expirarea 1
+
+agenții_de
+turism 1
+
+asigurător_pentru
+riscuri 1
+
+polița_de
+asigurare 1
+
+dispozitive_de
+securitate 1
+
+asociațiilor_de
+societăți 1
+
+riscuri_din
+cauza 1
+
+problema_la
+Inspectoratul 1
+
+intrării_în
+vigoare 1
+
+cota_de
+piață 1
+
+Inspectoratul_de
+Construcții 1
+
+societății_în
+cauză 1
+
+estimări_pe
+baza 1
+
+Cota_de
+piață 1
+
+menținerea_în
+funcție 1
+
+grupului_de
+coreasigurare 1
+
+câștig_de
+cauză 1
+
+dispozitivul_de
+securitate 1
+
+securitate_în
+cauză 1
+
+cuantumul
+alocației 1
+
+alocației_de
+stat 1
+
+normele_în
+cauză 1
+
+clasificare_pe
+baza 1
+
+nivelului_de
+performanță 1
+
+solicitare_de
+evaluare 1
+
+stat_pentru
+copii 1
+
+întinsoare_de
+braț 1
+
+sens_fără
+discriminare 1
+
+certificatul_de
+conformitate 1
+
+documentul_pe
+baza 1
+
+scutirea_din
+art. 1
+
+detrimentul
+asiguratului 1
+
+acoperirea_în
+comun 1
+
+admiterea_în
+grup 1
+
+încasările_în
+registrul 1
+
+piețelor_pentru
+produsele 1
+
+produsele_de
+asigurare 1
+
+stadiului_de
+export 1
+
+operațiuni_de
+reexpediere 1
+
+reexportare_după
+autocontrol 1
+
+registrul_de
+încasări 1
+
+braț_de
+fată 1
+
+membre_la
+stadiul 1
+
+zid_de
+carne 1
+
+import_asupra
+loturilor 4
+
+neconformitate_cu
+standardele 1
+
+standardele_de
+comercializare 1
+
+criterii_în
+funcție 1
+
+norme_în
+funcție 1
+
+riscurile_de
+neconformitate 1
+
+armonizării
+practicilor 3
+
+Lipsa
+fondurilor 2
+
+tronsoane_de
+drumuri 1
+
+Proporția
+loturilor 4
+
+cheltuielile_de
+control 1
+
+neconformitatea
+mărfurilor 2
+
+Metodele_de
+control 1
+
+fructelor_cu
+coajă 1
+
+metodele_de
+control 1
+
+stării_de
+maturitate 1
+
+rată_de
+conformitate 1
+
+personal_de
+control 1
+
+control_de
+conformitate 1
+
+operațiunile_de
+control 1
+
+comerciant_în
+cauză 1
+
+conformitate_din
+partea 1
+
+organismului_de
+control 1
+
+evidența
+Agenției 3
+
+vedere_de
+certificatul 1
+
+organismul_de
+control 1
+
+Ocuparea
+Forței 2
+
+uniformitatea_de
+aplicare 1
+
+șir_de
+camioane 1
+
+controalele_de
+conformitate 1
+
+proporția_de
+transporturi 1
+
+organism_de
+control 1
+
+mărfurile_în
+conformitate 1
+
+loturi_de
+fructe 1
+
+Fructele_cu
+coajă 1
+
+Poliția_în
+legătură 1
+
+criterii_de
+căutare 1
+
+conformitatea_cu
+standardele 1
+
+moduri_de
+ambalare 1
+
+marcajul
+produselor 11
+
+caracteristicile
+marcajului 2
+
+organizatori_la
+telefon 1
+
+protecție_pentru
+produse 1
+
+produselor_în
+vrac 1
+
+punctele
+lotului 3
+
+integralitatea
+lotului 3
+
+distrugerea
+produsului 4
+
+asimilarea
+cunoștințelor 1
+
+dotări_la
+nivelul 1
+
+stației_de
+intervenție 1
+
+cazului
+fructelor 2
+
+procentul_după
+numărul 1
+
+criteriilor_privind
+starea 1
+
+sens_în
+cadrul 1
+
+standardelor_de
+comercializare 1
+
+scris_cu
+privire 1
+
+tentativă_la
+infracțiunea 1
+
+infracțiunea_de
+trecere 1
+
+Organismul_de
+control 1
+
+elementele_de
+eșantion 1
+
+produse_în
+Comunitate 1
+
+restituire_la
+export 1
+
+aplicare_pentru
+acordarea 1
+
+restituirilor_la
+export 1
+
+adaos_de
+coloranți 1
+
+zahăr_din
+Comunitate 1
+
+piețelor_din
+sectorul 1
+
+frontierei_de
+stat 1
+
+zahărului_în
+Comunitate 1
+
+randamentul
+zahărului 3
+
+guvernele
+statelor 9
+
+guvernelor
+statelor 9
+
+santinele_cu
+fețe 1
+
+președinte_de
+onoare 1
+
+președintelui
+Republicii 2
+
+călătoria_spre
+izvoare 1
+
+precădere_din
+limba 1
+
+corespondențe_cu
+ciclul 1
+
+alternanța
+planurilor 2
+
+servicii_din
+porțelan 1
+
+ALMANAHUL
+ÎNVĂȚĂTORULUI 1
+
+materialele_sub
+genericul 1
+
+Microdicționar_de
+presă 1
+
+scriitori_pentru
+tineret 1
+
+adaptări_din
+clasicii 1
+
+clasicii
+literaturii 3
+
+bugetului_de
+stat 1
+
+criteriu_de
+îndrumare 1
+
+Textele_cu
+caracter 1
+
+nasul_prin
+casele 1
+
+întemeietorul
+lăcașului 1
+
+națiunii_la
+redobândirea 1
+
+redobândirea
+conștiinței 1
+
+Limpezimea
+criteriilor 1
+
+scară_de
+valori 1
+
+Dicționarul
+limbii 5
+
+permanență_în
+atenția 1
+
+libertățile
+străinilor 3
+
+constituirea
+limbajului 2
+
+schimbare_de
+format 1
+
+afirmației
+redactorului 1
+
+reviste_de
+specialitate 1
+
+claie_peste
+grămadă 1
+
+îndemn_la
+Iubire 1
+
+formulă_de
+istorie 1
+
+lănțișorul_de
+aur 1
+
+măsură_prin
+creația 1
+
+stările_de
+lucruri 1
+
+anul
+absolvirii 1
+
+bursă_de
+studii 1
+
+studii_în
+Marea 1
+
+Scânteia
+tineretului 2
+
+afirmarea
+spiritualității 1
+
+iarba_-n
+pântec 1
+
+chenar
+mișcării 6
+
+obloanele
+camioanelor 2
+
+Merite_de
+înainte-mergător 1
+
+localitatea_de
+domiciliu 1
+
+Autorizarea_pentru
+realizarea 1
+
+teatrului_în
+epocă 1
+
+nostalgia
+lumii 8
+
+postura_de
+observator 1
+
+inspector_în
+Ministerul 1
+
+atacuri_în
+presă 1
+
+Mobilitatea
+percepțiilor 1
+
+înclinația_către
+inefabil 1
+
+stagiu_de
+specializare 1
+
+specializare_în
+literatura 1
+
+revistă_de
+știință 1
+
+aria_de
+preocupări 1
+
+cătușe_de
+fier 1
+
+lup_cu
+păr 1
+
+păcatele
+obștei 1
+
+nesupunerea_în
+fața 1
+
+funcțiile_de
+prodecan 1
+
+dreptul_la
+Universitatea 1
+
+artizanii
+Tratatului 1
+
+creației_cu
+mitul 1
+
+pregătirile_în
+vederea 1
+
+primire_din
+partea 1
+
+întrerupere_în
+timpul 1
+
+desene_de
+Șt. 1
+
+ilustrația
+revistei 9
+
+lipsa_de
+comunicare 1
+
+pietrificarea
+emoției 1
+
+neputinței_de
+exprimare 1
+
+fier_la
+picioare 1
+
+analizarea
+opțiunii 1
+
+Contribuția
+științelor 1
+
+opțiunii
+președintelui 4
+
+raporturile_dintre
+individ 1
+
+ucenicie_la
+mănăstirea 1
+
+plan_de
+acțiune 1
+
+produse_din
+carne 1
+
+broșuri_cu
+caracter 1
+
+Oralitatea
+tonului 1
+
+minunarea
+poetului 2
+
+poetului_în
+fața 1
+
+maladia
+confuziunii 1
+
+forța
+faptei 1
+
+Camion_după
+camion 1
+
+febra
+puterii 2
+
+tentative_de
+viol 1
+
+clasele_de
+pictură 1
+
+crearea
+învățământului 3
+
+Momentul
+Unirii 3
+
+Unirii
+Principatelor 3
+
+tabăra
+separatiștilor 1
+
+vălul
+alegoriei 1
+
+Predilecția_pentru
+situații-limită 1
+
+învățătura_în
+rândul 1
+
+drept_în
+locuința 1
+
+evenimentele
+vârstei 2
+
+Revista_de
+filosofie 1
+
+supapă_de
+supraviețuire 1
+
+locuința
+femeii 5
+
+fabrică_de
+încălțăminte 1
+
+bacalaureatul_la
+Liceul 1
+
+moravurile
+societății 9
+
+sacoșă_cu
+haine 1
+
+inadaptabililor_din
+nuvelistica 1
+
+doctorița_din
+sat 1
+
+Aspecte_din
+sistematica 1
+
+ecologia
+lepidopterelor 1
+
+expoziție_de
+fluturi 1
+
+dezideratelor_de
+unitate 1
+
+redactor_la
+Radio 1
+
+opera
+autoarei 1
+
+roman-pamflet_la
+adresa 1
+
+camion_de
+fețe 1
+
+ceasurile_de
+seară 1
+
+taina
+vieții 10
+
+intelectualitatea
+satelor 2
+
+destinul
+personajelor 2
+
+Umărul
+fetei 5
+
+comasarea
+Întreprinderii 1
+
+Revista
+Fundațiilor 1
+
+tărâmul
+istoriografiei 1
+
+traducere_din
+E. 1
+
+drumul_spre
+turneul 1
+
+Suveranului_la
+granița 1
+
+granița
+țărei 1
+
+competență_de
+cunoscător 1
+
+rezonanțele
+caducității 1
+
+căutare_de
+lucru 1
+
+regia
+textelor 1
+
+pasajele_de
+legătură 1
+
+filmul
+evenimentelor 5
+
+voluptate_peste
+hârtia 1
+
+tineri_în
+frunte 1
+
+articol_de
+fond 1
+
+adâncimea
+vieții 10
+
+secretar_de
+redacție 1
+
+prescripțiilor
+cenzurii 1
+
+directorului
+mofturilor 1
+
+farmacie_de
+campanie 1
+
+conducerea
+suplimentului 1
+
+țăranilor_fără
+pământ 1
+
+miracolul
+vieții 10
+
+Bolnav_de
+cancer 1
+
+Sobrietatea
+stilului 1
+
+vacarmul_de
+voci 1
+
+antagonism_dintre
+țărani 1
+
+fresca
+evenimentelor 5
+
+redistribuirea
+accentelor 1
+
+Lumină_de
+acvariu 1
+
+oboseala
+amurgului 1
+
+cercetărilor_în
+arhive 1
+
+huruitul
+camioanelor 2
+
+Conducerea
+clubului 4
+
+deputat_între
+anii 1
+
+pondere
+mediului 2
+
+lumea_împotriva
+patriei 1
+
+autoare_de
+cărți 1
+
+Selecții_din
+cronicile 1
+
+verile_cu
+polen 1
+
+trofeu_de
+campioană 1
+
+jocul_de
+oglinzi 1
+
+înfrigurare
+gazetăriei 1
+
+autonomia
+esteticului 1
+
+scutul
+ideilor 2
+
+Vocea
+autorului 3
+
+ideea_de
+predestinare 1
+
+Femeia_cu
+carnea 1
+
+simbol_de
+sinteză 1
+
+simțul
+eternității 1
+
+lăcomia
+realului 1
+
+parada
+erudiției 1
+
+flama
+adversităților 1
+
+abisurile
+nonartei 1
+
+discuțiile_despre
+limbă 1
+
+palmaresul
+naționalei 1
+
+dorul_de
+țară 1
+
+scrieri_de
+factură 1
+
+veac_de
+teatru 1
+
+Zefir_în
+Trandafirii 1
+
+manifestări_de
+entuziasm 1
+
+oră_cu
+trenul 1
+
+imagine_asupra
+folcloristicii 1
+
+relatarea_fără
+relief 1
+
+anecdotica_de
+colportaj 1
+
+A._în
+medalioanele 1
+
+medalioanele_de
+regizori 1
+
+încărcătură_de
+veridicitate 1
+
+reflexele
+epicului 2
+
+îndatoririle_de
+rege 1
+
+interpret_de
+superperformanță 1
+
+farsa
+jocului 2
+
+deformarea
+lumii 8
+
+logodnă_între
+natural 1
+
+Parte_din
+motivele 1
+
+Traducerea
+fragmentelor 1
+
+traiului
+isvorenilor 1
+
+manuscrise_din
+secolul 1
+
+rege_fără
+sprijinul 1
+
+limbile
+națiunilor 1
+
+b._de
+manuscrise 1
+
+carență_de
+originalitate 1
+
+Lauda
+somnului 1
+
+compensație_în
+spațiul 1
+
+kilometri_pe
+drum 1
+
+apropierea_de
+filosofia 1
+
+vizionare_din
+interior 1
+
+Manifestările
+vieții 10
+
+obligația
+plății 2
+
+poartă_cu
+bara 1
+
+evocării
+meleagurilor 1
+
+lespezi_de
+piatră 1
+
+frunza_de
+viță 1
+
+limbii_din
+proză 1
+
+pajiște_cu
+iarbă 1
+
+arta_de
+povestitor 1
+
+miezul
+lucrurilor 3
+
+filosofi_în
+textele 1
+
+restaurarea
+picturii 1
+
+picturii_de
+șevalet 1
+
+Muzeul_de
+Artă 1
+
+Temperatura_din
+interior 1
+
+necunoscătorul
+subdialectului 1
+
+stări_de
+neliniște 1
+
+potecă_printre
+tufișuri 1
+
+fizionomia
+autorului 3
+
+programul
+Partidului 12
+
+melancolia
+limitei 2
+
+taxelor_pentru
+cererile 1
+
+orchestra
+Operei 2
+
+hartă_în
+cap 1
+
+Ministerul_de
+Război 1
+
+nobil_din
+secolul 1
+
+ordinii_de
+prioritate 1
+
+stagii_de
+specializare 1
+
+Căutarea
+armoniei 1
+
+sticla_de
+gât 1
+
+Modul_de
+prezentare 1
+
+momentele_de
+ruptură 1
+
+Electronică_din
+cadrul 1
+
+românilor_din
+sudul 1
+
+Pesimismul_în
+literatură 1
+
+insensibilitatea_la
+literatura 1
+
+criminali_de
+război 1
+
+lagăre_de
+muncă 1
+
+claie_de
+păr 1
+
+foiletonului
+gazetei 3
+
+amor_de
+toamnă 1
+
+diferența
+examenelor 2
+
+examenelor_de
+liceu 1
+
+încheieturile
+mâinilor 1
+
+Flori_de
+câmp 1
+
+certificatului_de
+cazier 1
+
+programelor_de
+sprijinire 1
+
+chestiuni_de
+teoria 1
+
+concert_de
+Anul 1
+
+căile_de
+acces 1
+
+funcționar_la
+Ministerul 1
+
+Eroi_în
+zdrențe 1
+
+relația_între
+instituțiile 1
+
+profilul
+revistei 9
+
+gloatei_de
+corpuri 1
+
+paginile
+revistei 9
+
+Anii
+colaborării 1
+
+rector_la
+seminarul 1
+
+Lipsa_de
+finețe 1
+
+jocurile_de
+cuvinte 1
+
+lexicul_cu
+reminiscențe 1
+
+știutor_de
+carte 1
+
+vigil_de
+pădure 1
+
+preot_în
+aprilie 1
+
+Partidului
+Poporului 2
+
+scriitorului_împotriva
+demagogiei 1
+
+repertoriu_de
+situații 1
+
+reproducerea
+pasiunilor 1
+
+destin_de
+tip 1
+
+contrastul_dintre
+aspectul 1
+
+Săptămâna
+patimilor 1
+
+izbucnirile
+vitalității 1
+
+inserare_în
+narațiune 1
+
+asprimea
+liniilor 3
+
+an_la
+Facultatea 1
+
+locuințele
+personajelor 2
+
+romane_de
+dimensiuni 1
+
+regulă_prin
+încăperi 1
+
+casă_la
+volanul 1
+
+interiorului
+seminarului 1
+
+Legea
+trupului 1
+
+Conducătorii
+răzvrătirii 1
+
+deosebire_prin
+întărirea 1
+
+vii_pe
+roată 1
+
+înlănțuire_de
+invenții 1
+
+povestirii_în
+pofida 1
+
+facerii
+textului 2
+
+refacerea
+existenței 5
+
+texte_în
+limbile 1
+
+traducerile
+basmelor 2
+
+libertate_în
+aprilie 1
+
+decretului_de
+grațiere 1
+
+călătorie_de
+studii 1
+
+Filarmonica_de
+Stat 1
+
+pasionaților_de
+indianistică 1
+
+angajat_la
+Ministerul 1
+
+plânsul
+fântânilor 1
+
+tendința_de
+interiorizare 1
+
+atentat_la
+autoritatea 1
+
+autoritatea
+consulului 1
+
+amator_de
+whist 1
+
+picioarele_în
+butucul 1
+
+Elogiul
+femeii 5
+
+elogiul
+feminității 1
+
+calfă_în
+atelierul 1
+
+atelierul_de
+tâmplărie 1
+
+delict_de
+presă 1
+
+butucul_cu
+pricina 1
+
+selecția
+faptelor 1
+
+ridicarea
+neamului 1
+
+stenogramele
+adunărilor 1
+
+moravurilor_din
+mediile 1
+
+colegii_de
+generație 1
+
+liricii
+înaintașilor 2
+
+ușurințe_de
+condamnat 1
+
+mersul_de
+ansamblu 1
+
+for_de
+cultură 1
+
+ipostază_de
+cronicar 1
+
+versuri_pe
+ritmuri 1
+
+poezia
+satului 4
+
+Lidera
+clasamentului 1
+
+bagheta
+dirijorului 1
+
+Duhul
+pământului 7
+
+metaforă_de
+extracție 1
+
+spiritul
+literaturii 3
+
+vreme_pentru
+idealul 1
+
+noutatea
+punctului 1
+
+punctului_de
+vedere 1
+
+studiul_despre
+I. 1
+
+editarea
+corespondenței 1
+
+nuanțele
+dialogului 1
+
+ședința
+Academiei 3
+
+filmului_de
+artă 1
+
+rob_de
+turci 1
+
+înzestrarea_pentru
+xilogravură 1
+
+firescul
+mișcării 6
+
+fluiditatea
+scriiturii 1
+
+supraaglomerări_de
+simboluri 1
+
+volume_de
+versuri 1
+
+Rezultatul
+testului 2
+
+excursie_cu
+autocarul 1
+
+înfățișare_de
+prostie 1
+
+estetică_la
+Institutul 1
+
+șuvoaiele_de
+păr 1
+
+pete_de
+aur 1
+
+prezentările_de
+poeți 1
+
+recenzii_la
+cărțile 1
+
+prilejul
+împlinirii 1
+
+pește_pe
+uscat 1
+
+intuițiile
+cronicarilor 1
+
+siguranță_la
+țară 1
+
+pulsațiile
+versificației 1
+
+grupul
+studenților 3
+
+întoarceri_în
+timp 1
+
+apelul_la
+atmosfera 1
+
+Consistoriul
+Episcopiei 1
+
+Debutul_în
+volum 1
+
+seria
+romanelor 1
+
+romanelor_de
+Curte 1
+
+prezent_în
+centrul 1
+
+arie_de
+răspândire 1
+
+regatul
+nopții 8
+
+temerității
+proiectelor 1
+
+silabe_fără
+rimă 1
+
+doctrinelor
+Partidului 12
+
+împletire_de
+real 1
+
+suferința
+anilor 7
+
+referent_de
+conferențiar 1
+
+conferențiar_pentru
+religiile 1
+
+lucrarea
+reverendului 1
+
+mitropolitul_în
+scaun 1
+
+școlile_din
+județul 1
+
+an_după
+moartea 1
+
+grădina
+casei 6
+
+viză_pe
+pașaport 1
+
+Petecul_de
+grădină 1
+
+închipuirea
+rapsodului 1
+
+frumuseți_de
+neant 1
+
+sarcina_de
+director 1
+
+încrederea_în
+progres 1
+
+culegeri_de
+povestiri 1
+
+povestiri_pentru
+copii 1
+
+drumul_dinspre
+gară 1
+
+școala
+Societății 2
+
+societate_la
+întemeierea 1
+
+urcarea_pe
+tron 1
+
+Numărul_din
+ianuarie 1
+
+Povestea
+vieții 10
+
+purtătorul_de
+voce 1
+
+reportaje_de
+război 1
+
+susținerii
+activității 2
+
+călcâiul_în
+bara 1
+
+Cultul
+datoriei 1
+
+tranziție_spre
+modernizarea 1
+
+jurnalul_în
+continuare 1
+
+piese_de
+Aug. 1
+
+răsturnarea
+valorilor 6
+
+Momița_la
+bal 1
+
+senzaționalul
+subiectelor 1
+
+scenariu_de
+film 1
+
+argumente_pentru
+folosirea 1
+
+volumele_de
+versuri 1
+
+cercului_de
+cititori 1
+
+tipărirea_de
+cărți 1
+
+cărți_în
+limba 1
+
+potecă_pentru
+vite 1
+
+drama_de
+bulevard 1
+
+centrul_de
+iradiere 1
+
+prezența_în
+pofida 1
+
+porunca
+domnitorului 1
+
+reminiscențe_din
+textele 1
+
+soarta
+subalternilor 1
+
+Prieten_cu
+N. 1
+
+arta_cu
+tendință 1
+
+propagandă
+culturii 2
+
+Prospecțiuni_în
+critica 1
+
+critica
+poeziei 6
+
+sugestie_despre
+tragicul 1
+
+tragicul
+existenței 5
+
+vreascuri_sub
+picior 1
+
+Plâns_de
+ape 1
+
+Roata
+morii 1
+
+anii
+Războiului 3
+
+Războiului_pentru
+Independență 1
+
+judecăți_de
+valoare 1
+
+Tentația
+mizantropiei 1
+
+operei
+dramaturgului 1
+
+comedie_de
+situații 1
+
+asigurări_de
+sănătate 1
+
+aprobării
+bugetului 2
+
+sumă_de
+bani 1
+
+comerțul_cu
+cereale 1
+
+poarta
+casei 6
+
+Episoadele
+istoriei 5
+
+bugetului_pentru
+anul 1
+
+filologie_cu
+teza 1
+
+sănătate_din
+teritoriu 1
+
+talentul_în
+pictură 1
+
+aderării_la
+mișcarea 1
+
+Ritmul
+narațiunii 2
+
+tensiunea
+situațiilor 1
+
+atmosferă_de
+vacanță 1
+
+mentalitatea
+ludicului 1
+
+luciditate_de
+scriitorul 1
+
+obsesia
+cărții 2
+
+finalitatea
+demonstrației 1
+
+demonstrației_de
+idei 1
+
+prozatorul_în
+romanul 1
+
+contribuțiile_de
+referință 1
+
+melodii_de
+cântec 1
+
+b._pentru
+îndeplinirea 1
+
+adopții_în
+familie 1
+
+spiritul_de
+toleranță 1
+
+C.N._pe
+echipe 1
+
+puneri_în
+abis 1
+
+ședințele
+Institutului 3
+
+ideii_de
+continuitate 1
+
+gust_pentru
+meșteșugul 1
+
+meșteșugul
+regiei 1
+
+onoare_din
+reprezentarea 1
+
+reprezentarea
+comediilor 1
+
+juniorilor_de
+categoria 1
+
+semnul
+pasiunii 1
+
+dragostei_pentru
+frumos 1
+
+diversificării
+preocupărilor 1
+
+locul_în
+societatea 1
+
+Războiul_de
+Independență 1
+
+toiul
+nopții 8
+
+presiunii
+gazelor 2
+
+cadet_de
+cavalerie 1
+
+paginilor_de
+istorie 1
+
+sângele
+eroilor 3
+
+alunecarea_în
+fantastic 1
+
+ritmica
+timpului 12
+
+contaminarea_cu
+cărți 1
+
+membri_din
+străinătate 1
+
+membri_de
+onoare 1
+
+Tehnica_de
+creare 1
+
+tentația
+abisalului 1
+
+reacțiile
+utilizatorilor 2
+
+Umbrele
+zilei 6
+
+scena
+teatrului 4
+
+ținerea
+discursurilor 1
+
+discursurilor_de
+recepție 1
+
+experiențele_de
+viață 1
+
+periplul
+poeziei 6
+
+poeziei
+începuturilor 1
+
+cerc_de
+fețe 1
+
+dascăl_în
+satul 1
+
+relatarea
+faptului 2
+
+congresele
+filologilor 1
+
+absolvirea
+liceului 3
+
+patronul
+cooperativei 1
+
+granița_la
+sârbi 1
+
+Noaptea_de
+hârtie 1
+
+conflictul_în
+absența 1
+
+titlul_Despre
+individualitate 1
+
+subvențiile
+statului 12
+
+Sectorul
+publicisticii 1
+
+amintiri_despre
+St 1
+
+Secțiunea_de
+proză 1
+
+Respectul_pentru
+documentul 1
+
+Substanța
+lirismului 1
+
+negru_în
+țara 1
+
+judecată_pe
+munte 1
+
+note_de
+călătorie 1
+
+politizării
+actului 2
+
+actului_de
+cultură 1
+
+intereselor_de
+partid 1
+
+spiritului_de
+breaslă 1
+
+breaslă_în
+rândurile 1
+
+înființarea_de
+școli 1
+
+accesibilitatea
+materialelor 3
+
+județele
+câmpiei 1
+
+comentariile_de
+artă 1
+
+opinii_de
+om 1
+
+Sfatul
+specialiștilor 2
+
+răspăr_cu
+opiniile 1
+
+Sumarul
+revistei 9
+
+poveste_de
+început 1
+
+Încălzirea
+nopții 8
+
+invaziei
+modernității 1
+
+dominația_asupra
+universului 2
+
+Iarna
+bărbaților 2
+
+densitatea
+substanței 3
+
+oblăduirea
+rudelor 1
+
+rudelor_dinspre
+mamă 1
+
+fețe_de
+piatră 1
+
+lucrările_de
+execuție 1
+
+negurile
+neștiinței 1
+
+solilocviul_din
+Cartea 1
+
+Cartea
+întunerecului 1
+
+fețele_cu
+barosul 1
+
+membri_pe
+Șt. 1
+
+meșter_din
+Cremona 1
+
+relațiile_dintre
+Statele 1
+
+Sumarele
+anilor 7
+
+indicații_asupra
+provenienței 1
+
+Imitație_de
+coșmar 1
+
+vânt_dă
+viață 1
+
+divergențele_privind
+situația 1
+
+succesiune_de
+schimbări 1
+
+scânteie_de
+inteligență 1
+
+talpa_pentru
+tăbăcit 1
+
+mânecile
+cămeșilor 1
+
+pieile_pe
+mesele 1
+
+mesele_cu
+fața 1
+
+păreri_de
+râu 1
+
+însușirea
+pietrei 1
+
+ninsori_de
+fluturi 1
+
+Sumedenii_de
+gângănii 1
+
+gângănii_în
+genunchi 1
+
+copil_de
+oameni 1
+
+dictatura
+Partidului 12
+
+față_despre
+graiul 1
+
+mamă_de
+bătaie 1
+
+mezu-
+nopții 8
+
+Tigri_de
+junglă 1
+
+mândria_de
+rușine 1
+
+prezent_spre
+atingerea 1
+
+obicei_după
+coturi 1
+
+lumina_de
+întuneric 1
+
+tărie_în
+mijlocul 1
+
+apele_de
+ape 1
+
+tăria
+cerului 2
+
+dedesubtul
+tăriei 1
+
+tăriei_de
+apele 1
+
+maximul
+dozei 6
+
+misiuni_de
+recunoaștere 1
+
+cuprinsul
+Constituției 3
+
+discriminare_pe
+criterii 1
+
+votare_la
+alegerile 1
+
+notelor_de
+călătorie 1
+
+vestigii_de
+cetate 1
+
+Decor_de
+doliu 1
+
+Biserica_din
+cadrul 1
+
+veșmânt_de
+pictură 1
+
+monumente_din
+nordul 1
+
+schit_de
+lemn 1
+
+biserică_de
+zid 1
+
+Terminologia
+practicii 1
+
+terenul
+limbii 5
+
+procedeelor_de
+formare 1
+
+derivarea_cu
+sufixe 1
+
+infinitul
+existenței 5
+
+puținătatea
+omului 8
+
+Baletul
+Operei 2
+
+drag_de
+oraș 1
+
+apa_pe
+Valea 1
+
+cunoștința
+plantelor 2
+
+patroana
+magazinului 1
+
+Bărbatul_din
+fața 1
+
+Fața_la
+ușă 1
+
+scriitor_de
+prestigiu 1
+
+Itinerariul
+călătoriei 2
+
+locuri_în
+depărtări 1
+
+Directorul
+Muzei 1
+
+fericire_pentru
+viitorul 1
+
+Omul_fără
+bărbie 1
+
+Necunoașterea
+istoriei 5
+
+istoriei
+dreptului 7
+
+ruperea
+legăturii 2
+
+Lumea_pentru
+țăranul 1
+
+necuprins_cu
+mintea 1
+
+Amintiri_de
+călătorie 1
+
+Priceperea
+maramureșencelor 1
+
+veșmintele
+străbunilor 1
+
+bijuterii_din
+aur 1
+
+Albastrul
+cerului 2
+
+verdele
+ierbii 1
+
+cută_de
+teren 1
+
+sufletul_de
+cântece 1
+
+ordin_pentru
+pregătirea 1
+
+Asprimea_din
+ochii 1
+
+pasăre_de
+noapte 1
+
+gloanțe_pentru
+gaie 1
+
+gaie_de
+noroc 1
+
+neam_fără
+noroc 1
+
+căpcăunii_de
+jandari 1
+
+postului_de
+radio 1
+
+omului_fără
+bărbie 1
+
+arenă_pe
+nisipul 1
+
+rodul_de
+argilă 1
+
+lămpi_de
+sudură 1
+
+masă_în
+oraș 1
+
+cătare_în
+rugă 1
+
+sania_din
+urmă 1
+
+șuvoiul_de
+sânge 1
+
+tăcerea_de
+moarte 1
+
+Știința_despre
+natura 1
+
+plantule_în
+poziție 1
+
+Frontul_de
+rezistență 1
+
+controlul_asupra
+orașului 9
+
+pământului_asupra
+celulelor 5
+
+pereche_în
+lume 1
+
+golirii
+lacului 2
+
+ursul_de
+peșteră 1
+
+munte_în
+urmărirea 1
+
+Calul
+viziunii 1
+
+Valuri_de
+pulsuri 1
+
+Vulcanii_fără
+cratere 1
+
+Graficul
+formelor 1
+
+Zarea_sub
+norii 1
+
+Fântânile
+adâncului 1
+
+stropii
+frunții 1
+
+dimineți_de
+primăvară 1
+
+diminețele_cu
+serile 1
+
+petecul
+declamației 1
+
+Directoarea
+școalei 1
+
+școalei_de
+fete 1
+
+încălzitul
+claselor 5
+
+raportul
+doamnei 3
+
+anchetă_la
+școală 1
+
+pălăria_de
+paie 1
+
+ficsonomia
+obrazului 1
+
+uzul
+rațiunii 2
+
+pușca_din
+mâini 1
+
+demisia
+președintelui 4
+
+anul_de
+grație 1
+
+prăbușirii
+acoperișului 1
+
+acoperișului
+parcului 1
+
+bețe_de
+alun 1
+
+tei_în
+formă 1
+
+greutății
+zăpezii 1
+
+negocierile_dintre
+comunitățile 1
+
+lacurile
+Capitalei 3
+
+cordică_de
+argint 1
+
+șesului_cu
+sclipiri 1
+
+crâmpeie_de
+codru 1
+
+munții
+țării 18
+
+table_de
+oprirea 1
+
+reunificarea
+insulei 1
+
+păstoriță_Cu
+chip 1
+
+fenomene_din
+istoria 1
+
+Mormolocul_prin
+metamorfoză 1
+
+vorbă_cu
+personagii 1
+
+cauzele
+perturbațiunilor 1
+
+Pudicitatea
+femeii 5
+
+luptă_cu
+chemarea 1
+
+chemarea
+simțurilor 3
+
+ușa_cu
+piciorul 1
+
+cerul
+gurii 2
+
+credit
+tradiției 2
+
+îngrămădirea_de
+imagini 1
+
+chef_de
+joacă 1
+
+bani_la
+buget 1
+
+atributele
+neliniștii 1
+
+mit_în
+istorie 1
+
+eroism_de
+rezistență 1
+
+fulgerul_cu
+lotca 1
+
+chelarul
+mănăstirii 1
+
+arhondar_la
+masă 1
+
+încercările_de
+fluaj 1
+
+înlocuirea
+sistemului 2
+
+sisten_de
+încărcare 1
+
+semnalele
+tramvaielor 2
+
+mulțimea
+automobilelor 1
+
+vreme_la
+stomac 1
+
+detașarea_în
+pas 1
+
+pluton_de
+jandarmi 1
+
+jandarmi_la
+fața 1
+
+fotoliu_de
+senator 1
+
+Ofițerul
+stării 2
+
+terți_prin
+uzucapiune 1
+
+-credință_asupra
+bunurilor 2
+
+Termenul
+predării 1
+
+predării
+lucrurilor 3
+
+învoirea
+părților 5
+
+aprecierea
+judecatei 1
+
+Oamenii
+muncii 12
+
+lume_de
+minciuni 1
+
+risipa_de
+materiale 1
+
+experiență_de
+fluaj 1
+
+plângere_în
+termen 1
+
+contraprestația
+muncii 12
+
+salariat_în
+baza 1
+
+Cererea_de
+concediu 1
+
+angajatorului_în
+condițiile 1
+
+cecuri_de
+călătorie 1
+
+greșeli_de
+scrisoare 1
+
+sustragere_de
+acte 1
+
+corpului
+avocaților 1
+
+abuz_de
+încredere 1
+
+egalitatea_-n
+moarte 1
+
+avânt_de
+poezie 1
+
+sânge_pe
+pieptul 1
+
+ordinele
+șefului 2
+
+iernarea
+poamelor 1
+
+vorba_la
+femei 1
+
+mantaua_de
+dimie 1
+
+frigul_din
+celulă 1
+
+varietatea
+indivizilor 1
+
+imagini_în
+urmarea 1
+
+urmarea
+cumulațiunii 1
+
+ședința_din
+data 1
+
+gârlă_-n
+pâlcuri 1
+
+uniuni_de
+obști 1
+
+schimbul
+slujbelor 1
+
+zgomotele_-n
+sat 1
+
+hotărârea_cu
+privire 1
+
+cnezi_de
+rând 1
+
+primarii
+satelor 2
+
+părți_din
+pământurile 1
+
+orele_cu
+folos 1
+
+impulsivitatea
+publicârii 1
+
+publicârii
+Memoriilor 2
+
+Primăriei_pentru
+anul 1
+
+vitrina
+librăriilor 1
+
+frenezia
+publicării 3
+
+publicării
+Memoriilor 2
+
+bărbați_de
+stat 1
+
+praful
+uitării 1
+
+întreprinderile_la
+străini 1
+
+intereselor
+națiunii 1
+
+completarea
+construcțiunei 1
+
+construcțiunei
+căilor 1
+
+întreprinderi_prin
+români 1
+
+concesiunea
+vămilor 2
+
+monopolul
+tutunului 1
+
+neatârnarea
+învățământului 3
+
+Arta
+dirijoratului 1
+
+chestiune_de
+aerisire 1
+
+Totalul
+cheltuielilor 2
+
+desăvârșirea
+formei 3
+
+considerațiune_la
+stabilirea 1
+
+prețurilor
+arenzii 1
+
+arenzii
+islazurilor 2
+
+prețuirea
+vânzării 2
+
+vânzării
+pământului 7
+
+hectar_de
+pământ 1
+
+construirii
+islazurilor 2
+
+taxele
+pășunatului 1
+
+pășunatului_pe
+hectar 1
+
+întâmplări_din
+viața 1
+
+banchetul
+umbrelor 1
+
+ochiurile
+frunzarului 1
+
+dezlegare_de
+vrajă 1
+
+sclipet_de
+arme 1
+
+pocale_de
+aur 1
+
+tipsii_de
+argint 1
+
+Alegerea
+termenilor 2
+
+talere_de
+paltin 1
+
+steaua
+zilei 6
+
+Osia
+lumii 8
+
+imaginația
+părinților 2
+
+Față_de
+propunerea 1
+
+mințile_din
+cap 1
+
+imprevizibilitatea
+propagării 2
+
+sume_de
+bani 1
+
+cursului
+îmbolnăvirilor 1
+
+par_de
+stejărică 1
+
+chef_în
+seara 1
+
+cot_la
+cot 1
+
+închiderii
+ediției 1
+
+fotoliile_de
+prefect 1
+
+propuneri_din
+partea 1
+
+substituția
+radicalului 1
+
+radicalului
+lexemuiui 1
+
+fizicul_de
+boxer 1
+
+textului_din
+propozițiile 1
+
+fiorul
+Câmpiilor 1
+
+albul
+ochilor 2
+
+lustru_fără
+bază 1
+
+vuiet_de-
+arme 1
+
+codri_de
+aramă 1
+
+pădurii_de
+argint 1
+
+buchetele_de
+vise 1
+
+mila
+Codrului 1
+
+negură_de
+vremi 1
+
+vremi_Pe
+freamătul 1
+
+freamătul_de
+frunze 1
+
+calcul_fără
+capăt 1
+
+Formarea
+cuvintelor 3
+
+localități_din
+Țara 1
+
+nefer_la
+spătărie 1
+
+căpitan_de
+hoți 1
+
+fluieraș_de
+pământ 1
+
+suita
+călătorilor 2
+
+Șefilor_de
+familii 1
+
+oară_la
+bulgari 1
+
+bulgari_prin
+sec 1
+
+înrâurire_asupra
+forțelor 3
+
+pomeniri_de
+rău 1
+
+vas_fără
+fund 1
+
+răsăritul
+soarelui 2
+
+ochi_de
+bou 1
+
+umbrele_-n
+cerdac 1
+
+seara_de
+Ajun 1
+
+română_prin
+cuvinte 1
+
+dușmanii
+Partidului 12
+
+căpitanului
+minelor 1
+
+balta_din
+apus 1
+
+considerarea
+structurilor 2
+
+moarte_de
+gluga 1
+
+gluga
+orașului 9
+
+minciuna
+poeziei 6
+
+piane_de
+-ntuneric 1
+
+ficatul
+lumii 8
+
+piei_de
+femeie 1
+
+mâini_cu
+jurăminte 1
+
+respect_de
+vegetal 1
+
+crăpături_de
+trotuar 1
+
+stol_de
+păsări 1
+
+Intrarea_cu
+coloane 1
+
+coloane_de
+tencuială 1
+
+medaliile_pe
+plic 1
+
+firma
+comerciantului 2
+
+formula
+adresei 1
+
+adăpostul
+nucilor 1
+
+straja
+plopilor 1
+
+poalele
+munților 1
+
+ședință_de
+Guvern 1
+
+cruci_la
+răspântia 1
+
+răspântia
+drumurilor 2
+
+lecție_de
+armonie 1
+
+Târgul
+Moșilor 1
+
+pinguin_din
+Labrador 1
+
+dor_De
+frații 1
+
+cumpărător_pentru
+moșie 1
+
+Postul_de
+Director 1
+
+omul_cu
+fața 1
+
+îndemnul
+sufletului 1
+
+legături_în
+mâni 1
+
+clinchet_de
+clopoțel 1
+
+cântecul
+vestitorilor 1
+
+cădere_de
+flori 1
+
+vrajbă_între
+feciorii 1
+
+focurile_de
+artificii 1
+
+iluziile_de
+domnie 1
+
+Gura
+vârșei 1
+
+voie
+peștelui 1
+
+cuvântului_în
+graiurile 1
+
+știri_la
+logofătul 1
+
+știrea
+răsculării 1
+
+Umbra
+frunzelor 1
+
+frunzelor_de
+nuc 1
+
+farmecul_de
+lună 1
+
+sărbătorile
+lunii 5
+
+umăr_de
+templu 1
+
+templu_-n
+ruine 1
+
+aranjamentul
+pieselor 1
+
+tablă_de
+șah 1
+
+liniștea_fără
+cuvinte 1
+
+umbrele
+nopții 8
+
+apa_la
+scară 1
+
+producător_la
+consumator 1
+
+piesele
+adversarului 1
+
+durerea_din
+cap 1
+
+bubă_din
+bere 1
+
+bătaia
+vântului 3
+
+boarea
+pământului 7
+
+Lumea
+ideilor 2
+
+adevărul_de
+aparență 1
+
+predarea
+sociologiei 1
+
+gândirea
+filozofului 1
+
+ministrului
+transporturilor 2
+
+Clădirile
+fabricii 1
+
+stâncă_în
+fața 1
+
+dreptul_în
+genunchi 1
+
+rost_la
+vârsta 1
+
+sufletul
+omului 8
+
+Fața
+omului 8
+
+paturile_cu
+somiere 1
+
+fierul_în
+mâini 1
+
+adunarea
+vămilor 2
+
+jumătate
+răzășilor 1
+
+sufletele
+morților 4
+
+Camerei
+Deputaților 1
+
+urmașilor
+urmașilor 1
+
+veacul
+vecilor 1
+
+Minute_de
+Ură 1
+
+prag_de
+victorii 1
+
+cântec_de
+luptă 1
+
+luptă_din
+lupte 1
+
+fereastră_din
+pecețile 1
+
+pecețile
+beznelor 1
+
+casei_de
+obicei 1
+
+grădina_cu
+pomi 1
+
+loc_cu
+pomi 1
+
+pomi_în
+vatra 1
+
+vatra
+satului 4
+
+zestre_la
+fete 1
+
+obicei
+plantații 1
+
+plantații_de
+livezi 1
+
+porecla_în
+renume 1
+
+camarad_de
+școală 1
+
+Persoana
+prințului 3
+
+tronul
+regelui 3
+
+năzuința_spre
+colaborare 1
+
+comparatiștilor_din
+lume 1
+
+mileniu_înaintea
+erei 1
+
+cetatea_de
+scaun 1
+
+subordinea
+consiliilor 1
+
+erecții_cu
+durata 1
+
+Protecția
+Copilului 1
+
+potențialul
+tadalafilului 1
+
+Autorizația_de
+introducere 1
+
+victimă_în
+locul 1
+
+Tratamentul_cu
+epoetină 1
+
+lună_după
+terminarea 1
+
+edificiul
+civilizației 2
+
+femelele_de
+șobolan 1
+
+tabele_în
+conformitate 1
+
+Strategiei_pentru
+eficientizarea 1
+
+Gradul_de
+reducere 1
+
+sensibilității_la
+oseltamivir 1
+
+Parametrul_de
+eficacitate 1
+
+eficientizarea
+circulației 2
+
+deficit_de
+fier 1
+
+isteric_despre
+trădarea 1
+
+dozelor_la
+adulții 1
+
+adulții_cu
+insuficiență 1
+
+adaptorul
+flaconului 4
+
+flaconului_în
+gâtul 1
+
+gâtul
+flaconului 4
+
+amintirea
+ciocolatei 1
+
+Suplimentarea_cu
+fer 1
+
+descongestionarea
+traficului 1
+
+Data_de
+expirare 1
+
+apă_în
+flacon 1
+
+capacul_peste
+capătul 1
+
+adaptorul_pentru
+flacon 1
+
+Mod_de
+administrare 1
+
+retenție_de
+lichide 1
+
+secreția_de
+insulină 1
+
+canalul_de
+potasiu 1
+
+membrana
+celulelor 5
+
+Funcție_de
+complexitatea 1
+
+medic_cu
+experiență 1
+
+medicamentelor_împotriva
+cancerului 2
+
+receptorii
+factorului 3
+
+factorului_de
+creștere 1
+
+multiplicarea
+celulelor 5
+
+Efectele
+medicamentului 6
+
+solubilității_la
+pH 1
+
+veteranii_de
+război 1
+
+văduvelor_de
+război 1
+
+sânge_pentru
+transfuzie 1
+
+șanse_la
+pescuitul 1
+
+pescuitul
+linului 1
+
+victoria
+candidatului 1
+
+trombocitelor_în
+timpul 1
+
+sechele_după
+reducerea 1
+
+candidatului_din
+partea 1
+
+oră_după
+administrarea 1
+
+suc_de
+grepfrut 1
+
+obicei_pe
+parcursul 1
+
+poziție_de
+drepți 1
+
+autorităților_din
+partea 1
+
+vorbă_pe
+drumeag 1
+
+țări_împotriva
+proiectului 3
+
+proiectului_de
+lege 1
+
+stăpânirea
+Partidului 12
+
+Studiile_in
+vivo 1
+
+clivării
+fragmentului 1
+
+Valorile
+hemoglobinei 1
+
+mutagenitate_in
+vitro 1
+
+portului
+vălului 1
+
+pernă_în
+toiul 1
+
+forțelor
+coaliției 2
+
+medicamentele_din
+clasa 1
+
+Corectarea
+anemiei 1
+
+aportului_de
+potasiu 1
+
+experimentelor_de
+treceri 1
+
+discursul_privind
+starea 1
+
+Conversia
+fosamprenavirului 1
+
+fosamprenavirului_la
+amprenavir 1
+
+coperțile
+cărților 2
+
+concentrațiile_din
+spermă 1
+
+Prescrierea
+dializei 1
+
+câștigării
+alegerilor 4
+
+potasiului_în
+limitele 1
+
+adaptor_din
+polietilenă 1
+
+Spitalul_de
+Urgență 1
+
+analize_de
+sânge 1
+
+copilului_prin
+laptele 1
+
+persoane_prin
+contact 1
+
+școlilor_cu
+predare 1
+
+flaconul_în
+poziția 1
+
+seringa_din
+adaptor 1
+
+predare_în
+limba 1
+
+propunerilor_de
+modificare 1
+
+principal_pe
+precursorii 1
+
+precursorii
+neutrofilelor 1
+
+eliberarea_de
+neutrofile 1
+
+Receptorii_pentru
+eritropoetină 1
+
+varietăți_de
+celule 1
+
+pachetele_de
+țigări 1
+
+clorură_de
+sodiu 1
+
+aerul_din
+seringă 1
+
+riscurile
+talidomidei 1
+
+clinchetul
+ceasului 1
+
+cotelor_de
+contribuție 1
+
+laborator_pentru
+diabet 1
+
+reversia
+modificărilor 2
+
+cancer_de
+colon 1
+
+hormonul_de
+stimulare 1
+
+moștenirea
+speței 1
+
+diabetului_de
+tip 1
+
+pungă_cu
+soluție 1
+
+ml_prin
+procedura 1
+
+lipsă_de
+aer 1
+
+ecran_la
+fata 1
+
+dificultăți_la
+înghițire 1
+
+asociației_de
+proprietari 1
+
+locului_pentru
+injecție 1
+
+genul_de
+amănunt 1
+
+imunitate_împotriva
+infecției 3
+
+inducerea
+anticorpilor 2
+
+neincluderea
+informației 1
+
+Protocolul
+studiului 7
+
+legarea_de
+receptori 1
+
+acul
+seringii 4
+
+Drepturilor
+Omului 1
+
+aerosol_cu
+ajutorul 1
+
+aparat_de
+aerosoli 1
+
+Supradozajul_cu
+epoetină 1
+
+șefi_de
+stat 1
+
+dopul_din
+cauciuc 1
+
+ac_cu
+seringă 1
+
+seringa_între
+palme 1
+
+îndepărtarea
+nelfinavirului 1
+
+administrarea_de
+cărbune 1
+
+schemelor_de
+tratament 1
+
+tratament_de
+întreținere 1
+
+întreținere_cu
+injecții 1
+
+raportări_de
+transmiteri 1
+
+decizie_fără
+precedent 1
+
+gura_după
+episod 1
+
+nereguli_în
+gestionarea 1
+
+suprafața_de
+piele 1
+
+lanțuri_de
+carbohidrați 1
+
+legături_cu
+rețelele 1
+
+substanței_din
+organism 1
+
+Factorii_de
+neutralizare 1
+
+rețelele
+crimei 2
+
+alfa_asupra
+celulelor 5
+
+celulelor
+măduvei 3
+
+O.N.U._în
+Serviciul 1
+
+Serviciul
+Păcii 2
+
+metabolizării_prin
+intermediul 1
+
+sfârșit_în
+provincie 1
+
+virusuri_de
+influența 1
+
+doză_de
+vaccin 1
+
+seringă_pentru
+injectare 1
+
+pansamentul_cu
+alcool 1
+
+alcool_peste
+locul 1
+
+negocierilor_de
+aderare 1
+
+Conferinței_de
+Aderare 1
+
+viață_la
+vârsta 1
+
+sferturi_din
+populația 1
+
+flacon_la
+suprafața 1
+
+majoritate_de
+turci 1
+
+pauza_de
+prânz 1
+
+mărimile_de
+ambalaj 1
+
+injectarea
+cantității 2
+
+soluție_din
+seringa 1
+
+reapariția
+simptomelor 3
+
+studii_cu
+durată 1
+
+întrebări_despre
+felul 1
+
+schimbării
+tratamentului 20
+
+autorizație_de
+introducere 1
+
+șansele_de
+vindecare 1
+
+hepatită_cu
+debut 1
+
+lovitură_de
+stat 1
+
+fata_cu
+părul 1
+
+interacțiunea_dintre
+warfarină 1
+
+baston_de
+cauciuc 1
+
+L-
+dopei 1
+
+înjumătățire_prin
+eliminare 1
+
+beregata_în
+momentul 1
+
+reuniunea
+Consiliului 11
+
+populației_din
+cursul 1
+
+pacientele_de
+sex 1
+
+punere_pe
+piață 1
+
+planurile_de
+comercializare 1
+
+comercializare_pentru
+medicamentul 1
+
+sfârșit_la
+data 1
+
+tratamentul_după
+eșec 1
+
+compuși_de
+platină 1
+
+m_în
+monoterapie 1
+
+trădarea
+Revoluției 2
+
+obicei_la
+extremitățile 1
+
+frigul
+iernii 1
+
+schema_de
+administrare 1
+
+Partidul
+Muncitorilor 1
+
+stadiul
+bolii 9
+
+NATO_la
+nivel 1
+
+populației_de
+pacienți 1
+
+capul_de
+oaie 1
+
+concentrat_pentru
+soluție 1
+
+Flacon_din
+sticlă 1
+
+coperte_de
+reviste 1
+
+seringi_cu
+ac 1
+
+apariții_în
+presă 1
+
+amestecul_prin
+mișcări 1
+
+lărgirea
+vaselor 3
+
+vaselor_de
+sânge 1
+
+Testarea
+sprayului 1
+
+Stenoza
+arterei 1
+
+prezențe_pe
+web 1
+
+conversia
+angiotensinogenului 1
+
+angiotensinogenului_în
+angiotensina 1
+
+Efectul_de
+scădere 1
+
+tratamentului_pe
+termen 1
+
+indicele
+masei 2
+
+clipă_în
+clipă 1
+
+antagonistul
+receptorilor 1
+
+receptorilor
+angiotensinei 2
+
+șefilor_de
+stat 1
+
+U.E._În
+fața 1
+
+organism_în
+amprenavir 1
+
+contaminări_cu
+sânge 1
+
+clădirii
+Parlamentului 3
+
+conexiuni_între
+lipomatoza 1
+
+profilul_de
+reacții 1
+
+ceremonia
+ridicării 2
+
+vitro_În
+timpul 1
+
+Companiile_de
+diagnostic 1
+
+diagnostic_pentru
+testarea 1
+
+testarea
+rezistenței 4
+
+interpretarea
+rezultatelor 5
+
+testelor_de
+rezistență 1
+
+ridicării
+drapelelor 1
+
+formare_de
+amprenavir 1
+
+Studiile_cu
+doze 1
+
+fosamprenavir_la
+șobolani 1
+
+șobolanii_la
+neoplasm 1
+
+detaliu_în
+Planul 1
+
+spectatori_din
+rândul 1
+
+demisia_din
+funcție 1
+
+ace_în
+comun 1
+
+Utilizarea
+combinației 1
+
+ritonavir_cu
+contraceptive 1
+
+probleme_cu
+oasele 1
+
+provincia_la
+bordul 1
+
+avion_cu
+destinația 1
+
+cancerul
+pacientului 7
+
+alchilării
+guaninei 1
+
+guaninei_în
+poziția 1
+
+pielea_la
+locul 1
+
+tampon_cu
+alcool 1
+
+abundență_cu
+apă 1
+
+infectarea_în
+mod 1
+
+Forma_de
+prezentare 1
+
+prezentare_în
+plic 1
+
+polietilenă_cu
+densitate 1
+
+tereftalat_de
+polietilenă 1
+
+atac_împotriva
+S.U.A. 1
+
+sfatul
+medicului 6
+
+sănătate_prin
+efectuarea 1
+
+temperatura
+camerei 4
+
+flacon_din
+sticlă 1
+
+dop_de
+cauciuc 1
+
+sigiliu_de
+aluminiu 1
+
+aluminiu_cu
+margine 1
+
+riscul_de
+hipoglicemie 1
+
+zahăr_în
+sânge 1
+
+pliu_de
+piele 1
+
+piele_prin
+prinderea 1
+
+pielii_între
+degetul 1
+
+S.U.A._în
+lunile 1
+
+suveranitatea_asupra
+teritoriului 3
+
+dopuri_din
+cauciuc 1
+
+capse_fără
+filet 1
+
+filet_din
+aluminiu 1
+
+capac_din
+polipropilenă 1
+
+Produsul_de
+înlocuire 1
+
+măduvei
+spinării 2
+
+tratamentul_pe
+termen 1
+
+pacienții_la
+anomalii 1
+
+Creșteri_în
+volum 1
+
+loc_între
+militari 1
+
+Reducerile
+dozelor 3
+
+progresia
+măririi 1
+
+moschei_din
+orașul 1
+
+acul_în
+pliul 1
+
+pliul_de
+piele 1
+
+materiale_din
+sticlă 1
+
+străbunicul
+prințului 3
+
+bule_de
+aer 1
+
+amendamente_la
+Constituție 1
+
+bulele_de
+aer 1
+
+pielea_între
+degetul 1
+
+anomalii_la
+naștere 1
+
+reproș_pe
+fețele 1
+
+Categoriile_de
+frecvență 1
+
+beneficiile_pe
+termen 1
+
+ameliorării
+controlului 8
+
+înghețarea
+construcției 2
+
+necesitatea
+utilizării 2
+
+Testele_in
+vitro 1
+
+vivo_de
+toxicologie 1
+
+medicament_după
+data 1
+
+legătura_cu
+medicul 1
+
+cutii_de
+blistere 1
+
+zidul_de
+securitate 1
+
+oratorilor
+Partidului 12
+
+Pulberea_pentru
+soluția 1
+
+apă_pentru
+preparate 1
+
+divizarea
+celulelor 5
+
+perfuziei_de
+temsirolimus 1
+
+figura
+Fratelui 4
+
+mușchilor
+vezicii 2
+
+simptomele_la
+pacienții 1
+
+testele_de
+mutagenicitate 1
+
+mutagenicitate_pe
+culturi 1
+
+vivo_la
+testul 1
+
+testul
+micronucleilor 1
+
+micronucleilor_la
+șoarece 1
+
+scăderile
+concentrației 1
+
+concentrației_de
+hemoglobină 1
+
+Modificările
+concentrațiilor 4
+
+concentrațiilor
+enzimelor 2
+
+legarea
+endotelinei 1
+
+endotelinei_de
+receptorii 1
+
+bosentanului_de
+reducere 1
+
+discrepanță_între
+estul 1
+
+copii_cu
+vârsta 1
+
+adulți_cu
+vârsta 1
+
+nivelul_în
+sânge 1
+
+vestul
+țării 18
+
+precauție_la
+pacienții 1
+
+studii_pe
+termen 1
+
+simptomelor
+pacienților 9
+
+Coasta_de
+Fildeș 1
+
+preparate_din
+sânge 1
+
+transmiterii
+bolilor 3
+
+Partidului_în
+viața 1
+
+introducere_de
+piață 1
+
+utilizării_înaintea
+activității 2
+
+vremea
+regimului 8
+
+autorizației_de
+punere 1
+
+medicament_pentru
+disfuncția 1
+
+boli_de
+inimă 1
+
+dubiu_asupra
+realității 2
+
+atașarea_la
+receptorii 1
+
+eliberării
+substanțelor 2
+
+interacțiunea
+oseltamivirului 2
+
+Amintirea
+mamei 3
+
+S.U.A.
+planului 3
+
+bolii_la
+subiecții 1
+
+tratament_în
+studiile 1
+
+Riscul_de
+apariție 1
+
+succes_în
+ediția 1
+
+eliberarea_către
+pacient 1
+
+pulberea_în
+recipient 1
+
+dreptul_de
+veto 1
+
+MODUL_DE
+ELIBERARE 1
+
+operațiune_în
+Fâșia 1
+
+apă_peste
+pulbere 1
+
+seringă_cu
+gradații 1
+
+pistonul_din
+seringă 1
+
+seringii_sub
+jet 1
+
+concepții_despre
+loialitate 1
+
+termenilor
+rezoluției 1
+
+diabet_de
+tip 1
+
+comprimat_pe
+zi 1
+
+seară_de
+vară 1
+
+glucoză_din
+sânge 1
+
+pioglitazonă_la
+tratamentul 1
+
+punerea_pe
+piață 1
+
+supradoze_de
+glimepiridă 1
+
+izoenzimele
+citocromului 2
+
+recoltarea
+sângelui 6
+
+semnele_de
+hipertiroidism 1
+
+Tărâmul_de
+Aur 1
+
+Mutațiile
+analogului 1
+
+analogului_de
+timidină 1
+
+Protecție_de
+ac 1
+
+conversia_în
+aldehida 1
+
+doză_în
+întregime 1
+
+Antrenarea
+Mușchilor 1
+
+Mușchilor
+Platoului 1
+
+administrarea_la
+adulți 1
+
+Fiul
+prințului 3
+
+dopurilor_de
+cauciuc 1
+
+tampoanele_cu
+alcool 1
+
+Circulația
+sângelui 6
+
+sângelui_prin
+membru 1
+
+soluția_din
+flacon 1
+
+recuperarea_din
+acțiunea 1
+
+exemplu_la
+sfârșitul 1
+
+studiului_datorită
+diferenței 1
+
+mușuroi_de
+cârtiță 1
+
+ingestia_de
+sevelamer 1
+
+impactul_asupra
+absorbției 1
+
+enzime_de
+degradare 1
+
+măsură_de
+precauție 1
+
+liderilor
+organizațiilor 3
+
+insulinei_pentru
+cazul 1
+
+paralel_cu
+punerea 1
+
+prelevarea_de
+probe 1
+
+probe_pentru
+analize 1
+
+retragere_din
+Fâșia 1
+
+Supradozaj_În
+cazurile 1
+
+cazurile_de
+supradozaj 1
+
+eliminarea_de
+materii 1
+
+radiație_din
+organism 1
+
+concentrațiilor_de
+acid 1
+
+microcentrală_pe
+gaz 1
+
+cârtiță_din
+loc 1
+
+reforme_în
+domeniul 1
+
+retinelor
+spectatorilor 1
+
+accelerarea
+pierderii 1
+
+receptorilor_pentru
+neurotransmițătorii 1
+
+crengile
+ulmilor 1
+
+monitorizarea_cu
+atenție 1
+
+receptor_pentru
+factorul 1
+
+soluționării
+problematicii 1
+
+curgerea
+insulinei 2
+
+mg_în
+săptămâna 1
+
+aglomerări_de
+substanță 1
+
+fragmentele_de
+virus 1
+
+tendință_la
+hipoglicemie 1
+
+insulină_datorită
+prezenței 1
+
+prezenței
+anticorpilor 2
+
+problematicii
+delimitării 1
+
+capacul
+acului 3
+
+acul_din
+piele 1
+
+fumarat_de
+tenofovir 1
+
+Fumaratul_de
+tenofovir 1
+
+vivo_în
+tenofovir 1
+
+adenozin
+monofosfatului 1
+
+fumaratul_de
+tenofovir 1
+
+probele_de
+ser 1
+
+dozei_în
+condiții 1
+
+antigenul_de
+suprafață 1
+
+delimitării
+platoului 4
+
+antigenii_de
+suprafață 1
+
+administrare_din
+schemă 1
+
+pneumonie_în
+decurs 1
+
+Calitatea_de
+președinte 1
+
+doze_de
+antibiotic 1
+
+cont_în
+bancă 1
+
+zile_după
+administrarea 1
+
+brațe_de
+studiu 1
+
+studiu_din
+Partea 1
+
+măduva
+spinării 2
+
+anticorpi_împotriva
+natalizumab 1
+
+creștere_pe
+termen 1
+
+zile_la
+rând 1
+
+Autorizației_de
+punere 1
+
+moleculele_de
+apă 1
+
+Legarea_de
+proteinele 1
+
+patul_pentru
+examenul 1
+
+medicament_pe
+cale 1
+
+pacienți_din
+studiul 1
+
+reuniune_la
+nivel 1
+
+receptorul
+factorului 3
+
+inflamația_în
+conjunctivă 1
+
+recidive_de
+SM 1
+
+Plan_de
+management 1
+
+Soluția_de
+insulină 1
+
+stabilitate
+medicamentului 6
+
+medicamentului_pe
+durata 1
+
+Procesului_de
+Cooperare 1
+
+pompa_de
+perfuzie 1
+
+soluția_în
+aerosoli 1
+
+utilizarea_pe
+termen 1
+
+Administrarea
+injecției 2
+
+Efectele_asupra
+capacității 2
+
+urină_sub
+formă 1
+
+adierea
+vântului 3
+
+temperaturi_de
+2-8ºC 1
+
+capacul_la
+flacon 1
+
+adaptorul_la
+locul 1
+
+mg_per
+metru 1
+
+pacient_în
+funcție 1
+
+bulă_de
+aer 1
+
+opinia
+secretarului 1
+
+crizei_prin
+stimulare 1
+
+precursorilor
+poliproteinei 1
+
+toxicitate_la
+animale 1
+
+răspuns_la
+infecții 1
+
+antecedente_de
+boală 1
+
+transmiterea
+infecțiilor 8
+
+infecțiilor_la
+pacienți 1
+
+partidele_din
+faza 1
+
+urmărire_pe
+termen 1
+
+recăderi_pe
+parcursul 1
+
+teste_asupra
+factorilor 1
+
+turneului_de
+calificare 1
+
+probe_de
+ser 1
+
+pacientele_cu
+insuficiență 1
+
+adolescenți_În
+cadrul 1
+
+cheagurilor_de
+sânge 1
+
+acul_de
+mărimea 1
+
+admirația_pentru
+gestul 1
+
+dioxid_de
+carbon 1
+
+discuția_cu
+personalul 1
+
+durere_la
+locul 1
+
+vaccinului_în
+perioada 1
+
+comportament_la
+pacienții 1
+
+fenomenul_de
+inducție 1
+
+oseltamivirului_în
+tratamentul 1
+
+prevenția
+gripei 4
+
+gripei_la
+pacienții 1
+
+Prevalența
+rezistenței 4
+
+hainele_în
+lături 1
+
+pacienții_din
+studiu 1
+
+ambalajul_de
+marginile 1
+
+pistonul
+seringii 4
+
+farmacistului_pentru
+recomandări 1
+
+ciclul_de
+uree 1
+
+locurile_de
+injectare 1
+
+medicamentului_în
+monoterapie 1
+
+Subiecții_din
+grupul 1
+
+Factorul_de
+stimulare 1
+
+injectare_în
+unghi 1
+
+adaptor_pentru
+flacon 1
+
+strategii_de
+pregătire 1
+
+literatura_de
+specialitate 1
+
+sprijinul_din
+partea 1
+
+proliferarea
+probelor 2
+
+Date_despre
+eficacitatea 1
+
+eficacitatea_la
+pacienții 1
+
+glucuronidarea_drept
+cale 1
+
+bar_de
+noapte 1
+
+pacientelor_cu
+cancer 1
+
+eșecul
+chimioterapiei 2
+
+Retenția_de
+lichide 1
+
+raportări_în
+literatura 1
+
+cardurile_pentru
+pacienți 1
+
+temsirolimus_de
+potență 1
+
+metabolit_la
+om 1
+
+Timpul_de
+înjumătățire 1
+
+sângelui_la
+nivelul 1
+
+cumpăna_dintre
+ani 1
+
+conducerii
+Alianței 1
+
+posturi_de
+conducere 1
+
+negocierilor_la
+nivel 1
+
+referendum_privind
+desfășurarea 1
+
+desfășurarea_de
+alegeri 1
+
+tragere_la
+sorți 1
+
+plicurile_cu
+taloane 1
+
+Oamenii_de
+știință 1
+
+Balerina_de
+origine 1
+
+protocol_privind
+datele 1
+
+datele
+alegerilor 4
+
+sud_de
+U.E. 1
+
+apă_pe
+planeta 1
+
+conjuncția
+apriorismului 1
+
+întrunirile
+societăților 3
+
+Izbucnirea
+simțurilor 3
+
+profitorii
+cădelnițelor 1
+
+cădelnițelor_de
+argint 1
+
+Jurnal_de
+bord 1
+
+Taina
+familiei 2
+
+Liniștea
+casei 6
+
+scenă_în
+stagiunea 1
+
+Aspectul
+gazetei 3
+
+Sentimentul
+timpului 12
+
+timpului_în
+poezia 1
+
+frunțile
+cititorilor 1
+
+secvențe_din
+viața 1
+
+sărăcia_de
+limbaj 1
+
+recomandări
+sportivilor 1
+
+Poveste_cu
+țigani 1
+
+conflict_de
+presă 1
+
+reflecții_despre
+Ars 1
+
+Societatea
+Scriitorilor 2
+
+erorile_de
+concepție 1
+
+împărăția
+durerii 4
+
+limitării
+riscurilor 6
+
+semnale_de
+urgență 1
+
+Uniunii
+Scriitorilor 2
+
+Plumb_de
+iarnă 1
+
+activitatea_de
+profesor 1
+
+profesor_la
+Conservatorul 1
+
+student_la
+Facultatea 1
+
+desprinderea
+buretelui 1
+
+inhibitori_de
+proteinkinaze 1
+
+importanța
+respectării 2
+
+flacoane_din
+plastic 1
+
+închidere_din
+polipropilenă 1
+
+garnitură_din
+polietilenă 1
+
+analizei_de
+protocol 1
+
+actualizare_pentru
+studiul 1
+
+Păstrarea_după
+preparare 1
+
+Reînceperea
+ovulației 1
+
+ovulației_La
+femeile 1
+
+Sindromul
+ovarelor 1
+
+situsurile_de
+răspândire 1
+
+severitate_de
+gradul 1
+
+supradozajul_cu
+rosiglitazonă 1
+
+notă_de
+decizie 1
+
+Bază_de
+sondaj 1
+
+populația_din
+unități 1
+
+unități_din
+rândul 1
+
+șefului
+misiunii 3
+
+comisar_de
+poliție 1
+
+statul_în
+cauză 1
+
+spătarul
+scaunului 1
+
+C_la
+Directiva 1
+
+deces_în
+urma 1
+
+societăți_pe
+acțiuni 1
+
+prezența_la
+bord 1
+
+asistență_la
+îndeplinirea 1
+
+pescuitul_la
+undiță 1
+
+concentratul_de
+iepure 1
+
+rădăcina
+pomului 1
+
+godeurile
+plăcii 2
+
+finanțării
+măsurilor 8
+
+trimitere_la
+articolul 1
+
+finalizarea
+procedurilor 4
+
+nerespectarea
+elementelor 4
+
+Aspectele
+hotărârii 2
+
+marjei_de
+dumping 1
+
+Zona_de
+aplicare 1
+
+Delegației
+Comisiei 16
+
+fenomenul
+corupției 2
+
+președintele_dintre
+reprezentanții 1
+
+Jurnalele_de
+bord 1
+
+bord_pentru
+activitățile 1
+
+campanie_de
+pescuit 1
+
+Măsurile
+capacității 2
+
+capacitatea_în
+limitele 1
+
+scaunului_din
+față 1
+
+Centrului_de
+stomatologie 1
+
+strategia
+politicii 5
+
+politicii_de
+protecție 1
+
+standarde_de
+securitate 1
+
+operațiunea_de
+expulzare 1
+
+desfășurării
+programului 11
+
+ochiurilor_de
+plasă 1
+
+Trombocite_de
+afereză 1
+
+Cooperarea
+părților 5
+
+pilot_pentru
+participarea 1
+
+Caracteristicile
+produsului 4
+
+recomandări_în
+cazurile 1
+
+Regulamentul_de
+procedură 1
+
+trezire_pentru
+funcționari 1
+
+cheful_de
+cinste 1
+
+revista
+autorului 3
+
+Echilibru_între
+antiteze 1
+
+tatii_din
+războiu 1
+
+gândurile_în
+grădina 1
+
+puterile_în
+câmpul 1
+
+ipoteza_în
+chipul 1
+
+plăcerea
+convorbirii 2
+
+alipirea_de
+pământ 1
+
+Buchetele_de
+liliac 1
+
+crengile_peste
+garduri 1
+
+lecție_cu
+caietul 1
+
+Sărbătorilor_de
+iarnă 1
+
+val_de
+apa 1
+
+cazul_de
+față 1
+
+vocea
+preotului 1
+
+săptămână_după
+terminarea 1
+
+cursurilor
+clasei 5
+
+examenul_de
+admitere 1
+
+admitere_în
+cursul 1
+
+rândul_la
+ascultat 1
+
+bătrână_din
+sat 1
+
+haz_de
+expunerea 1
+
+părere_de
+rău 1
+
+colegii_în
+tovărășia 1
+
+activitatea_cu
+publicul 1
+
+sarcina_-n
+spate 1
+
+tihnă_prin
+pădure 1
+
+luptele
+scriitorului 3
+
+bilet_de
+clasa 1
+
+băiat_cu
+mișcări 1
+
+ignoranța
+scriitorilor 2
+
+Filialei
+județului 2
+
+lot_de
+casă 1
+
+-amăruntul_prin
+așternut 1
+
+naștere_la
+sentimente 1
+
+sărita_la
+gândul 1
+
+sacrificii_din
+partea 1
+
+garanțiile_de
+fericire 1
+
+tovarășă_de
+viață 1
+
+Veteranilor_de
+Război 1
+
+exemple_de
+profesori 1
+
+valoare_în
+cursul 1
+
+realizării
+planului 3
+
+conștiința
+artistului 1
+
+cui_în
+perete 1
+
+stăruință_de
+stilul 1
+
+ortacilor_cu
+brațe 1
+
+pogoane_în
+câmp 1
+
+brațele_către
+ecran 1
+
+faptă_fără
+plată 1
+
+bucătarii
+curții 1
+
+martorii_din
+sfatul 1
+
+vodă_pe
+aga 1
+
+vină
+sfântului 2
+
+dosarelor_pentru
+plata 1
+
+Trunchii
+pădurilor 3
+
+târg_pentru
+târgueli 1
+
+târgueli_de
+nuntă 1
+
+meseni_la
+comanda 1
+
+gheața_în
+continuare 1
+
+fior_de
+plăcere 1
+
+treptele
+ambasadei 1
+
+costum_în
+dungi 1
+
+Jumătate_din
+proviziile 1
+
+ornament_din
+camera 1
+
+oameni_în
+sudul 1
+
+indemnizației_pentru
+creșterea 1
+
+Rochia
+miresei 3
+
+bonuri_pentru
+îmbrăcăminte 1
+
+domnișoarei_de
+onoare 1
+
+pantalonii
+mirelui 1
+
+Forța_de
+Expediție 1
+
+îmbrăcăminte_pe
+an 1
+
+amețeală_în
+suflet 1
+
+firul
+gândirii 2
+
+hormoni_de
+creștere 1
+
+propagandă_în
+hanorac 1
+
+pulover_cu
+gât 1
+
+amorțeală_de
+strigătul 1
+
+Regele
+Canalului 2
+
+greva
+trenurilor 1
+
+bătăilor
+picioarelor 4
+
+majoritatea_din
+Consiliul 1
+
+luni_până
+vineri 1
+
+spectacolele_de
+varietăți 1
+
+versurile_pe
+ecranele 1
+
+ecranele
+televizoarelor 1
+
+jocuri_de
+lumini 1
+
+oamenilor_de
+știință 1
+
+stabilirii
+despăgubirii 1
+
+Departamente_de
+Stat 1
+
+biciuiri_în
+public 1
+
+public_pentru
+aprovizionare 1
+
+aprovizionare_cu
+alcool 1
+
+regrete_în
+legătură 1
+
+prioritățile_pentru
+viitor 1
+
+nevoia
+bunăstării 1
+
+scădere_în
+suportul 1
+
+suportul
+guvernului 8
+
+descoperirile_după
+eroii 1
+
+favoriții
+flotei 2
+
+lupta
+palestinienilor 1
+
+palestinienilor_pentru
+recâștigarea 1
+
+elan_spre
+apă 1
+
+părerile_de
+rău 1
+
+rău_la
+vestea 1
+
+vestea
+separării 3
+
+Universitatea_de
+Vest 1
+
+dungă_de
+tufăriș 1
+
+păturii
+digului 1
+
+cuțitul_în
+timpul 1
+
+meciului
+sferturilor 1
+
+sferturilor_de
+finală 1
+
+finală_la
+Cupa 1
+
+treapta_de
+numărul 1
+
+joaca_prin
+ciocnire 1
+
+complex_de
+servicii 1
+
+baton_de
+ciocolată 1
+
+despărțirea
+mariajelor 1
+
+dependenți_de
+heroină 1
+
+curtea
+muzeului 1
+
+heroină_pe
+an 1
+
+Capul
+delegației 1
+
+contrabanda_de
+fildeș 1
+
+sprijin_de
+aplicații 1
+
+aplicații_pe
+termen 1
+
+prețurile_pentru
+mânzul 1
+
+jur_de
+ora 1
+
+Frontul
+Salvării 1
+
+Mănăstirea_de
+maici 1
+
+planurile_pentru
+mănăstirea 1
+
+pălării_de
+paie 1
+
+comitetul_de
+cricket 1
+
+reacții_la
+circumstanțe 1
+
+pădurea_de
+mesteacăn 1
+
+Evidența
+grevelor 1
+
+grevelor_din
+anii 1
+
+protestul
+muncitorilor 2
+
+Grădina_din
+Eden 1
+
+prezentatoare_de
+radio 1
+
+Starurile_de
+fotbal 1
+
+donatori_de
+măduvă 1
+
+măduvă_la
+rugămințile 1
+
+institut_de
+cercetare 1
+
+puterea_de
+cumpărare 1
+
+deținătorii_de
+calculatoare 1
+
+vederea_la
+lumina 1
+
+Tortura
+deținuților 1
+
+pletora
+cascadorilor 1
+
+cascadorilor_de
+mărime 1
+
+Ordonanțele_din
+februarie 1
+
+trafic_de
+droguri 1
+
+încălcări_de
+legi 1
+
+alocarea
+vibrațiilor 1
+
+vibrațiilor
+genurilor 1
+
+genurilor_de
+simetrie 1
+
+grupuri_cu
+puncte 1
+
+luminile
+satului 4
+
+bungaloul
+familiei 2
+
+notele_de
+plată 1
+
+Legăturile_de
+sânge 1
+
+masculi_de
+calitate 1
+
+parte
+mâinii 1
+
+paie_din
+țara 1
+
+cusăturile_în
+loc 1
+
+venele_de
+efortul 1
+
+rangul_de
+cavaler 1
+
+costului
+angajării 2
+
+angajării
+înlocuitorilor 1
+
+gândaci_pe
+spate 1
+
+întregime_cu
+infanteria 1
+
+autorității_de
+sănătate 1
+
+alegerilor
+Conservatorilor 1
+
+politica
+taxelor 6
+
+putere_prin
+necinste 1
+
+înșelarea
+electoratului 2
+
+probleme_pe
+măsură 1
+
+act_fără
+dragoste 1
+
+utilaj_pe
+șine 1
+
+motoare_de
+tracțiune 1
+
+prospectul
+găzduirii 1
+
+culoare_prin
+jurul 1
+
+treceri_în
+revistă 1
+
+revistă_din
+anii 1
+
+oameni_fără
+adăpost 1
+
+câștigătorului
+Premiului 1
+
+gazelor
+efectelor 4
+
+efectelor_de
+seră 1
+
+genul
+tigrului 1
+
+tigrului_cu
+colți 1
+
+colți_de
+sabie 1
+
+cer_pe
+minut 1
+
+roadelor
+junglei 1
+
+deportați_în
+străinătate 1
+
+brațele
+copilului 4
+
+apariția_în
+instanța 1
+
+credincioși_la
+cântecul 1
+
+cântecul_de
+seară 1
+
+Mila
+copiilor 3
+
+Corporația_de
+Spectacole 1
+
+metal_cu
+ferăstrăul 1
+
+nașterea
+surorii 1
+
+sarcinile_de
+bază 1
+
+amânare_din
+cauza 1
+
+cercetare_din
+secolul 1
+
+interes_pe
+piețele 1
+
+groaza
+stării 2
+
+gândul
+încercării 2
+
+telespectatorii
+programelor 5
+
+programelor_cu
+polițiști 1
+
+fanii
+Ligii 2
+
+fraternitate_de
+spirit 1
+
+dezvoltării
+ecoturismului 1
+
+administratorii
+drumurilor 2
+
+arme_de
+foc 1
+
+ofițerii_de
+poliție 1
+
+crime_în
+timpul 1
+
+adulți_în
+timpul 1
+
+proporției
+diferențelor 1
+
+diferențelor_de
+clasă 1
+
+clasă_în
+statistica 1
+
+rutelor_către
+parcul 1
+
+crimei_în
+general 1
+
+Midia_la
+Vama 1
+
+trădare_împotriva
+Regelui 1
+
+amendă_de
+gradul 1
+
+Tulburarea
+proprietății 1
+
+tunel_sub
+pământ 1
+
+masă_cu
+sânge 1
+
+cetățeni_fără
+apărare 1
+
+forțele_de
+securitate 1
+
+securitate_împotriva
+demonstrațiilor 2
+
+facțiunile_din
+districte 1
+
+ucenici_de
+Parohie 1
+
+efortul
+tușitului 1
+
+securitate_de
+stat 1
+
+Școlilor_de
+Schi 1
+
+verdict_de
+moarte 1
+
+lunile_de
+vară 1
+
+supradoză_de
+drog 1
+
+pneumoniei_în
+noiembrie 1
+
+mușcături_de
+șarpe 1
+
+morți_din
+cauza 1
+
+bolilor_de
+inimă 1
+
+viață_din
+societatea 1
+
+creștere_deasupra
+recomandării 1
+
+incendiu_la
+bordul 1
+
+moment_în
+reparații 1
+
+reparații_în
+șantierul 1
+
+împăratului_prin
+înec 1
+
+suferința_pentru
+moartea 1
+
+vendetă_împotriva
+familiei 2
+
+împușcare_pentru
+comiterea 1
+
+epidemia
+bolilor 3
+
+Vestea
+morții 5
+
+înfometare_la
+lagărul 1
+
+lagărul_de
+detenție 1
+
+acuzațiilor_de
+execuții 1
+
+încântare_de
+comunitatea 1
+
+drepți_în
+fața 1
+
+ierni_din
+munți 1
+
+declarațiilor
+autorităților 10
+
+argumente_de
+utilitate 1
+
+efort_de
+război 1
+
+refugiați_din
+conflict 1
+
+înfometării_în
+taberele 1
+
+taberele_din
+sudul 1
+
+sudul
+capitalei 1
+
+Moartea_în
+împrejurări 1
+
+cal_de
+curse 1
+
+turismului_de
+afaceri 1
+
+înfometării_de
+oxigen 1
+
+creier_în
+slăbire 1
+
+înfometare_prin
+încetinirea 1
+
+încetinirea
+metabolismului 1
+
+dificultăți_în
+travaliu 1
+
+înfometare_de
+oxigen 1
+
+procesului
+prelucrării 1
+
+adăugării
+păsării 1
+
+păsării_pe
+Programul 1
+
+înfometare_după
+eliberare 1
+
+țipetelor
+oamenilor 8
+
+liniște_pe
+măsură 1
+
+depărtare_de
+mâncare 1
+
+Cole_despre
+înfometarea 1
+
+înfometarea_în
+masă 1
+
+prelucrării
+paielor 1
+
+rezervele_de
+alimente 1
+
+Ochi_de
+pasăre 1
+
+sandviciurile_cu
+măcălendrii 1
+
+căutatul_prin
+gunoaie 1
+
+străzile
+orașelor 1
+
+confecționarea
+pălăriilor 1
+
+omagiu_pentru
+viața 1
+
+Nota
+editorului 1
+
+ediția_din
+iulie 1
+
+parlamentului_din
+opoziție 1
+
+pierderea
+lucrării 1
+
+întâlnire_de
+completare 1
+
+Calificările_de
+mountain 1
+
+septembrie_cu
+rezultate 1
+
+deziluzia
+electoratului 2
+
+electoratului_cu
+câștigătorii 1
+
+abilitățile_de
+design 1
+
+inteligența_de
+design 1
+
+trecere_în
+revistă 1
+
+Divertismentul
+serii 1
+
+bărbați_în
+legătură 1
+
+spargere_la
+proprietate 1
+
+pălăriilor_din
+paie 1
+
+învățământul
+copiilor 3
+
+instruirea
+juniorilor 1
+
+progrese_pe
+planul 1
+
+papuci_de
+gimnastică 1
+
+grajdurile_de
+vârf 1
+
+ajutoare_din
+Marea 1
+
+EC_de
+anul 1
+
+materiale_de
+calitate 1
+
+jaluzelele_la
+magazinul 1
+
+apropiere_de
+școala 1
+
+Cariera_de
+jucător 1
+
+genunchiul_la
+debutul 1
+
+standardul_de
+cazare 1
+
+fermelor_de
+stat 1
+
+loturilor
+țăranilor 3
+
+față
+grijii 1
+
+Spectacolul_de
+artificii 1
+
+anului_la
+B.J.T. 1
+
+rumoare_la
+întâlnirea 1
+
+întâlnirea
+Consiliului 11
+
+mesaj_pentru
+poporul 1
+
+reamenajarea
+sălii 2
+
+sălii_de
+lectură 1
+
+lucruri_pe
+postul 1
+
+redeschiderea
+Bibliotecii 1
+
+Bibliotecii
+Tineretului 4
+
+ziar_de
+duminică 1
+
+Tabăra
+Galilor 1
+
+loc_pentru
+articulare 1
+
+puls_de
+bază 1
+
+paginile_de
+sfârșit 1
+
+încuietoare_de
+zgardă 1
+
+căi_spre
+viitor 1
+
+lunii_de
+miere 1
+
+Dispariția
+educației 3
+
+educației_de
+calitate 1
+
+bijuteria_din
+coroana 1
+
+Concertului_în
+G 1
+
+planificarea
+permisiei 1
+
+permisiei_înaintea
+începerii 1
+
+reînnodarea
+legăturilor 2
+
+șoseaua_de
+centură 1
+
+șoselei_de
+centură 1
+
+pornirea
+rutelor 1
+
+calcule_de
+bază 1
+
+bază_pe
+măsura 1
+
+sclavi_în
+coloniile 1
+
+-ntinderea
+brațelor 1
+
+distracțiilor_de
+seară 1
+
+cutie_de
+podea 1
+
+Lanțul_de
+evenimente 1
+
+înțelegere_cu
+autoritățile 1
+
+temperatura_la
+începerea 1
+
+Metoda_de
+analiză 1
+
+momentelor_de
+corelare 1
+
+bolii_între
+grupuri 1
+
+tratament_la
+începerea 1
+
+boală_de
+inimă 1
+
+atac_de
+cord 1
+
+rubricile_din
+pagina 1
+
+Dialog_cu
+cititorii 1
+
+producătorul_de
+brânză 1
+
+marginilor
+rănii 1
+
+recalcularea
+pensiilor 2
+
+stadiu_de
+hipercoagulare 1
+
+depozitarea
+microembolilor 1
+
+tendința_pentru
+coagularea 1
+
+coagularea_de
+suprafață 1
+
+frică_de
+covăsire 1
+
+rundelor_de
+deschidere 1
+
+infuzia
+crioprotectanților 1
+
+produs_în
+celulele 1
+
+celulele
+ficatului 2
+
+acțiunii
+trombinei 1
+
+trombinei_în
+stadiul 1
+
+coagulării
+sângelui 6
+
+case_în
+ajunul 1
+
+crema_de
+rom 1
+
+spațiu_între
+miez 1
+
+degetele_pe
+sânii 1
+
+lichid_în
+brațele 1
+
+sfârcurile_de
+plăcere 1
+
+plasture_cu
+oxid 1
+
+oxid_de
+zinc 1
+
+aripele_din
+față 1
+
+profunzimea
+râvnei 1
+
+etica
+afacerilor 2
+
+Impacturile_asupra
+mediului 2
+
+defrișarea
+pădurilor 3
+
+maselor
+stelelor 1
+
+clubului_după
+mandatul 1
+
+magie_de
+răzbunare 1
+
+mulțumirea
+familiei 2
+
+Miezul
+nopții 8
+
+zdruncinarea
+francizei 1
+
+transferuri_de
+capital 1
+
+colapsul
+sistemului 2
+
+morții
+părinților 2
+
+generație_de
+artiști 1
+
+taxelor
+companiei 2
+
+șoc_în
+ciuda 1
+
+ANCHETĂ_în
+desfășurare 1
+
+instruire_în
+management 1
+
+inhalarea
+prafului 1
+
+prafului_de
+azbest 1
+
+abuzul_de
+solvent 1
+
+otrăvire_cu
+heroină 1
+
+răni_de
+pușcă 1
+
+pușcă_de
+vânătoare 1
+
+morților
+copiilor 3
+
+explozie_cu
+bombă 1
+
+bomba_în
+timpul 1
+
+cheltuiala_pentru
+îngrijirea 1
+
+sindromului
+morții 5
+
+Liderii_de
+stat 1
+
+scaun_de
+siguranță 1
+
+piscină_de
+grădină 1
+
+mile_în
+josul 1
+
+Galia_de
+Vest 1
+
+cititorii_în
+anii 1
+
+mare_sub
+stânci 1
+
+rezervor_de
+apă 1
+
+Apărării_pentru
+despăgubiri 1
+
+locuri_de
+muncă 1
+
+muncă_pentru
+persoane 1
+
+mirosul
+poțiunii 1
+
+poțiunii_de
+mare 1
+
+Marea_de
+Nord 1
+
+Nord_în
+timpul 1
+
+povești_despre
+oameni 1
+
+condiția_cu
+inima 1
+
+Concerte_de
+formații 1
+
+stilul
+trăsurilor 1
+
+trăsurilor_de
+încoronare 1
+
+computerizării
+proceselor 2
+
+ore_în
+medie 1
+
+vânzărilor_din
+interiorul 1
+
+departamentului_de
+export 1
+
+pasul_cu
+schimbările 1
+
+flăcări_de
+gaz 1
+
+protest_fără
+precedent 1
+
+precedent_din
+partea 1
+
+fragmentarea
+populației 11
+
+izbucnirea
+Războiului 3
+
+ceața
+timpului 12
+
+opusul
+Casei 1
+
+Casei
+Comunelor 1
+
+masculii_din
+lume 1
+
+câmp_de
+cartofi 1
+
+cablu_în
+timpul 1
+
+fluierele
+picioarelor 4
+
+picioarelor_de
+bolovani 1
+
+ieșirii_de
+siguranță 1
+
+medie_pe
+lună 1
+
+salarii_de
+bază 1
+
+etaj_din
+Bristol 1
+
+jucătorii_în
+serviciu 1
+
+băieți_la
+școală 1
+
+bază_sub
+nivelul 1
+
+clientă_cu
+artrită 1
+
+șoldul_în
+timp 1
+
+calea_cu
+grijă 1
+
+drumul_cu
+cărămizi 1
+
+nasul_în
+timp 1
+
+coasta_în
+timpul 1
+
+concursului_de
+sprint 1
+
+sprint_din
+ziua 1
+
+Norii_din
+vest 1
+
+parapet_în
+timpul 1
+
+șchiopătare_din
+cauză 1
+
+scări_în
+timpul 1
+
+viață_-n
+mișcare 1
+
+meciului_de
+cupă 1
+
+sfârșitul_după
+amiezei 1
+
+cumulus_de
+mangal 1
+
+jucător_de
+bowling 1
+
+brațul_în
+accident 1
+
+tribunal_din
+orașul 1
+
+praful_din
+cartușul 1
+
+foc_de
+bușteni 1
+
+picioare_pe
+vatra 1
+
+vatra_de
+piatră 1
+
+bun_pentru
+arsurile 1
+
+picioarele_pe
+băncile 1
+
+etaj_cu
+aer 1
+
+amenințărilor
+premierului 1
+
+cuptor_din
+cauza 1
+
+gura_cu
+ceai 1
+
+ușă_de
+sticlă 1
+
+exercițiu_de
+antrenament 1
+
+odgoanele
+cortului 1
+
+întoarcere_la
+spital 1
+
+sentimentele_de
+anxietate 1
+
+obicei_din
+problemele 1
+
+problemele_în
+relația 1
+
+dobânda_la
+contul 1
+
+otravă_pe
+rană 1
+
+rezultatele_pe
+termen 1
+
+accesul_de
+tuse 1
+
+bunicul
+regelui 3
+
+ajutor_la
+parter 1
+
+picior_la
+etaj 1
+
+mână_în
+cuțit 1
+
+birou_de
+mână 1
+
+picior_cu
+cuțitul 1
+
+nasul_de
+pământ 1
+
+tigaia_de
+sos 1
+
+podeaua_în
+leșin 1
+
+cot_de
+balustrada 1
+
+balustrada
+scării 1
+
+cap_în
+mod 1
+
+cărucioarele_din
+supermarket 1
+
+lovituri_la
+ligamentele 1
+
+ligamentele
+gleznei 2
+
+documentația_pentru
+reabilitarea 1
+
+spate_pe
+terenul 1
+
+consiliile
+județelor 2
+
+sport_la
+liceu 1
+
+liceu_în
+loc 1
+
+Slavă
+Domnului 2
+
+ajutor_prin
+casă 1
+
+mușchiul
+gambei 1
+
+gambei_la
+antrenament 1
+
+gât_la
+antrenament 1
+
+seriei_din
+mini-ligă 1
+
+umăr_în
+timpul 1
+
+campaniei
+Cupei 2
+
+mână_spre
+nenorocul 1
+
+bordură_de
+exemplu 1
+
+foaie_de
+polietilen 1
+
+proiect_în
+cadrul 1
+
+priveliștea
+portului 2
+
+Programul
+Direcției 1
+
+porțiune_de
+drumuri 1
+
+drumuri_în
+lucru 1
+
+intersecție_din
+partea 1
+
+zidul
+bisericii 3
+
+parcul_de
+mașini 1
+
+companie_de
+proprietăți 1
+
+dolari_pe
+an 1
+
+casa_de
+vacanță 1
+
+vacanță_cu
+tatăl 1
+
+cordonului
+poliției 1
+
+furia
+divinității 1
+
+depunerea_de
+mucegai 1
+
+alternatorul
+locomotivei 1
+
+intersecția_cu
+B 1
+
+coliziune_cu
+mașina 1
+
+linie_de
+curent 1
+
+dispută_între
+individ 1
+
+suporturi_de
+metal 1
+
+lucrări_în
+continuare 1
+
+proclamarea
+independenței 3
+
+legătura
+zonei 2
+
+zonei_de
+afaceri 1
+
+terminal_de
+cale 1
+
+nepotrivirile
+alimentării 1
+
+procesării
+tranzacției 1
+
+adevărul_în
+spatele 1
+
+satisfacție_pe
+față 1
+
+perechi_de
+bilete 1
+
+săptămână_din
+iulie 1
+
+acri_de
+șiruri 1
+
+fața_în
+mâini 1
+
+pământ_de
+pădure 1
+
+Discuții_cu
+bancherii 1
+
+loc_la
+sfârșitul 1
+
+mâinile
+cadavrului 1
+
+dinți_din
+față 1
+
+mobila
+clientului 1
+
+cadavrul
+tatălui 5
+
+valabilitatea
+rovinietei 1
+
+Vegetația_din
+interior 1
+
+pământurile
+fermelor 2
+
+tarifului_de
+utilizare 1
+
+resturi_de
+mâncare 1
+
+specimen_fără
+mațe 1
+
+tropăitul
+picioarelor 4
+
+lumea_prin
+surprindere 1
+
+problema_în
+legătură 1
+
+contradicție_în
+termeni 1
+
+poziția_privind
+bunurile 1
+
+bucățile_de
+șuncă 1
+
+carnea_prin
+extragerea 1
+
+STRICAREA
+cărnii 2
+
+fragmente_de
+sculptură 1
+
+urmelor_în
+crăpături 1
+
+sculpturile_din
+templele 1
+
+Articulațiile_între
+șanțurile 1
+
+șanțurile_de
+plastic 1
+
+PUTREZIREA
+fructului 1
+
+Trăgătorul_de
+turelă 1
+
+turelă_de
+top 1
+
+copaci_din
+cauza 1
+
+ciuboțica
+cucului 1
+
+depozitele
+societății 9
+
+folii_de
+plastic 1
+
+construcției_din
+lemnărie 1
+
+tendința
+stâlpilor 1
+
+stâlpilor_de
+stejar 1
+
+curenți_deasupra
+valurilor 1
+
+grămadă_pe
+bancurile 1
+
+bancurile_de
+nisip 1
+
+mușcatele_cu
+flori 1
+
+Dușumeaua_din
+centrul 1
+
+găuri_din
+loc 1
+
+Structura
+roții 1
+
+dealului_de
+nord-vest 1
+
+paletele_de
+lemn 1
+
+ciuperci_din
+furnir 1
+
+presare_la
+cald 1
+
+adunătură_de
+grăsime 1
+
+grăsime_din
+sacul 1
+
+pierderea_în
+greutate 1
+
+agățarea
+cărnii 2
+
+tendonul
+gleznei 2
+
+gleznei_în
+timp 1
+
+meci_de
+club 1
+
+testul_de
+duminică 1
+
+duminică_împotriva
+echipei 2
+
+rugby_la
+școală 1
+
+genunchi_la
+începutul 1
+
+claviculă_în
+meciul 1
+
+presiunea_asupra
+jucătorilor 1
+
+februarie_în
+urma 1
+
+operații_la
+genunchiul 1
+
+coapsă_în
+timp 1
+
+perdelele_de
+plasă 1
+
+teren_cu
+încheieturi 1
+
+mașina_de
+măturat 1
+
+Biroul
+d-lui 1
+
+decontarea
+bonurilor 1
+
+tenis_cu
+antrenorul 1
+
+albie_în
+timp 1
+
+încheietura_în
+treaba 1
+
+cărămidă_de
+jucărie 1
+
+sume_în
+lunile 1
+
+spate_la
+colegiu 1
+
+agonie_pe
+margine 1
+
+genunchi_în
+timpul 1
+
+sesiuni_de
+antrenament 1
+
+metri_de
+linie 1
+
+accidentarea
+atacantului 1
+
+atacantului_din
+deschidere 1
+
+întindere_pe
+partea 1
+
+frâna_de
+mână 1
+
+puști_în
+susul 1
+
+susul
+înălțimilor 1
+
+scării_din
+fier 1
+
+fluierul
+piciorului 1
+
+Cererile_pentru
+întocmirea 1
+
+bebeluș_în
+timp 1
+
+supusă
+urmăririi 1
+
+fotograful
+teatrului 4
+
+persoană_în
+vârstă 1
+
+căzii_de
+tablă 1
+
+picior_în
+colțul 1
+
+degetul_în
+timp 1
+
+cabină_de
+probă 1
+
+cursa_la
+senioare 1
+
+genunchiului_la
+jumătatea 1
+
+Versantul_de
+Vest 1
+
+gambă_în
+timp 1
+
+grupul_de
+pacienți 1
+
+clinica_pentru
+accidente 1
+
+test_de
+sănătate 1
+
+sănătate_înaintea
+jocului 2
+
+joc_de
+antrenament 1
+
+Cesiunea
+exploatației 1
+
+pompării
+apei 4
+
+apei_din
+mină 1
+
+mină_în
+livada 1
+
+livada_cu
+migdali 1
+
+migdali_la
+începutul 1
+
+debitul
+râului 2
+
+curgerea_pe
+timp 1
+
+asimilării
+volumului 3
+
+celule_la
+An 1
+
+contractului_de
+împrumut 1
+
+golurile_din
+conturile 1
+
+conturile
+britanicilor 1
+
+state_din
+SUA 1
+
+testament_în
+viață 1
+
+vieții_în
+eventualitatea 1
+
+mâna
+tatălui 5
+
+Oprirea
+zgomotului 1
+
+valorile_de
+bază 1
+
+bătrânii_cu
+jobene 1
+
+Probabilitatea
+încetării 1
+
+încetării
+tabagismului 1
+
+țigări_pe
+zi 1
+
+Ordonanța_de
+Guvern 1
+
+Noaptea
+Revelionului 2
+
+adăpost_pentru
+câinii 1
+
+acțiunea_în
+vederea 1
+
+Casa
+câinelui 1
+
+Ministru_de
+Interne 1
+
+scară_în
+spirală 1
+
+fabricarea
+produselor 11
+
+conferință_de
+închidere 1
+
+contractelor_cu
+durată 1
+
+Debitul_de
+suprasarcină 1
+
+cantitatea_în
+unitatea 1
+
+legătură_de
+pături 1
+
+cantitate_în
+condiții 1
+
+măsurare_fără
+echipamente 1
+
+fluxul_de
+lichid 1
+
+liberul_de
+vamă 1
+
+esofag_la
+rect 1
+
+cântărit_cu
+funcționare 1
+
+receptor_de
+sarcină 1
+
+șine_pentru
+transportul 1
+
+pagina_de
+Internet 1
+
+examenele_de
+bacalaureat 1
+
+taxelor_de
+procesare 1
+
+cererilor_în
+conformitate 1
+
+Documentele_de
+export 1
+
+nava_pentru
+pescuit 1
+
+sprijin_în
+promovarea 1
+
+procentul
+informațiilor 7
+
+capitaluri_pentru
+activitățile 1
+
+Semnătura
+medicului 6
+
+Informarea
+consumatorului 1
+
+consumatorului_cu
+privire 1
+
+norme_privind
+marcarea 1
+
+marcarea
+ouălor 1
+
+semnificației
+codului 2
+
+reținerea_de
+impozit 1
+
+impozit_în
+conformitate 1
+
+Informarea_cu
+privire 1
+
+măreției
+Fratelui 4
+
+operatorului_de
+transport 1
+
+principii_de
+conduită 1
+
+conduită_în
+completarea 1
+
+parte_cu
+privire 1
+
+părți_cu
+privire 1
+
+rânduri_peste
+rânduri 1
+
+valabilitatea_la
+expirarea 1
+
+față_fără
+contur 1
+
+notificării_în
+scris 1
+
+incidente_de
+poluare 1
+
+Secretarul
+Ministerului 1
+
+diferend_dintre
+UE 1
+
+negociere_între
+părți 1
+
+Crucea
+Eroilor 1
+
+întregime_sub
+comanda 1
+
+agentului_de
+plată 1
+
+cauză_în
+conformitate 1
+
+Eroilor
+Neamului 1
+
+importului_de
+animale 1
+
+comerțul_din
+CE 1
+
+vigoare_la
+data 1
+
+discriminare_între
+resortisanții 1
+
+litigiile_prin
+recomandări 1
+
+Acordului_de
+parteneriat 1
+
+dorința
+Reginei 1
+
+memoria
+eroilor 3
+
+Certificatul_de
+conformitate 1
+
+conformitate_pentru
+producția 1
+
+producția_în
+serie 1
+
+anchetelor
+autorității 3
+
+informații_pe
+suport 1
+
+întârziere
+autorității 3
+
+venituri
+statului 12
+
+Valabilitatea
+licențelor 2
+
+acordul_dintre
+Comunitatea 1
+
+datorie_în
+timpul 1
+
+Textul_din
+anexa 1
+
+statul_de
+pavilion 1
+
+muncă_la
+bord 1
+
+marinarii_din
+CE 1
+
+observator_la
+bordul 1
+
+Semnatarii
+contractelor 3
+
+agentului
+armatorului 2
+
+scris_în
+termen 1
+
+încheierii
+operațiunii 3
+
+Diferendele_privind
+interpretarea 1
+
+plăcii_de
+metal 1
+
+Inspector_de
+resurse 1
+
+mijloacele_pentru
+fixarea 1
+
+documente_de
+export 1
+
+Cooperarea_dintre
+părți 1
+
+facilitarea
+activităților 7
+
+activităților_de
+cooperare 1
+
+cooperare_în
+cadrul 1
+
+Nerealizarea
+lucrărilor 7
+
+ASE_la
+nivel 1
+
+Consiliul_pentru
+spațiu 1
+
+personalului_în
+serviciul 1
+
+Normele_de
+punere 1
+
+Statutul
+personalului 6
+
+Condițiile_de
+angajare 1
+
+valabilității
+acordurilor 3
+
+Instituirea
+comitetului 4
+
+libertății_de
+asociere 1
+
+Procedurile_de
+abilitare 1
+
+abilitare_de
+securitate 1
+
+Acordul_dintre
+Comunitatea 1
+
+comerțului_cu
+animale 1
+
+conținutul_de
+umiditate 1
+
+steril_din
+materialul 1
+
+gangă_din
+carbonații 1
+
+reparații_la
+părțile 1
+
+echipei_pentru
+exportul 1
+
+exportul_în
+Comunitate 1
+
+Cititor_de
+plăci 1
+
+vineri_între
+orele 1
+
+atestarea_pentru
+carnea 1
+
+atribuțiile_către
+R.M.R. 1
+
+Clasificarea_de
+securitate 1
+
+talismane_de
+protecție 1
+
+vasele_de
+agrement 1
+
+cooperarea_la
+punerea 1
+
+cooperarea_pe
+probleme 1
+
+loc_sub
+formă 1
+
+cod_de
+conduită 1
+
+orientări_pentru
+membrii 1
+
+acordului_în
+funcție 1
+
+tabelului_de
+corespondență 1
+
+avize_în
+domeniul 1
+
+cooperarea_în
+domeniul 1
+
+schimburi_de
+informații 1
+
+actelor_cu
+putere 1
+
+transferarea
+misiunii 3
+
+competențelor_către
+structurile 1
+
+aspecte_privind
+dreptul 1
+
+dreptul
+muncii 12
+
+Convenției_în
+legătură 1
+
+consumatorilor_în
+Comunitate 1
+
+inspecție_în
+numele 1
+
+verificarea
+condițiilor 6
+
+dalele_de
+piatră 1
+
+Elementul_de
+lovire 1
+
+reducerea_la
+minimum 1
+
+mediului_în
+general 1
+
+unghiului_de
+flexiune 1
+
+element_de
+lovire 1
+
+descoperiri_din
+Uniunea 1
+
+introducerea_pe
+piață 1
+
+Autorizația
+sistemului 2
+
+acțiunile
+organismelor 4
+
+paturi_de
+fier 1
+
+obstacol_pentru
+prestațiile 1
+
+Acțiunea_în
+cauză 1
+
+activitățile_în
+domeniul 1
+
+operațiunilor
+organismelor 4
+
+evaluării
+riscului 5
+
+Instrumentele_de
+ratificare 1
+
+definiții_de
+regionalizare 1
+
+autorizațiile_privind
+produsele 1
+
+furnizor_de
+semințe 1
+
+autorizația_din
+partea 1
+
+devoțiune_de
+mulțumire 1
+
+planuri_de
+acțiune 1
+
+Monitorizarea
+emisiilor 2
+
+sezonul_de
+schi 1
+
+protocolul_privind
+asistența 1
+
+Serviciile
+prefecturii 1
+
+măsurile_pe
+termen 1
+
+spor_în
+afaceri 1
+
+principiilor_de
+derecunoaștere 1
+
+acord_pentru
+perioada 1
+
+licențele
+Delegației 1
+
+acord_prin
+comunicarea 1
+
+copie_pentru
+Delegația 1
+
+Delegația
+Comisiei 16
+
+izolate_de
+salmonella 1
+
+Textul
+acordului 5
+
+apelurilor_pentru
+propuneri 1
+
+memorandumului_de
+înțelegere 1
+
+măsură_cu
+efect 1
+
+diseminarea
+rezultatelor 5
+
+Înmulțirea
+actelor 1
+
+actelor_de
+violență 1
+
+lucrărilor
+comitetelor 3
+
+informațiile_în
+cauză 1
+
+opinia_asupra
+raportului 3
+
+studii_asupra
+pestei 2
+
+păsările_de
+curte 1
+
+depistare_la
+păsările 1
+
+programele_de
+vaccinare 1
+
+infecție_cu
+sușa 1
+
+sușa
+virusului 2
+
+virusului_de
+pestă 1
+
+pat_de
+fier 1
+
+reținerea_la
+sursă 1
+
+sursă_asupra
+încasărilor 1
+
+încasărilor_pentru
+prestările 1
+
+prestările_de
+servicii 1
+
+comercializarea
+semințelor 2
+
+semințelor_din
+specia 1
+
+metodologiei_de
+monitorizare 1
+
+operator_înaintea
+începerii 1
+
+Fracțiunea_de
+biomasă 1
+
+metodei_de
+calcul 1
+
+feluri_de
+brânză 1
+
+măsură_în
+funcție 1
+
+acuratețea
+sistemului 2
+
+datele_de
+monitorizare 1
+
+monitorizare_privind
+emisiile 1
+
+emisiile_de
+gaze 1
+
+gaze_cu
+efect 1
+
+combustibil_fără
+depozitare 1
+
+arderea_din
+instalație 1
+
+Procesele_de
+ardere 1
+
+ceaun_de
+fontă 1
+
+carbonați_în
+perioada 1
+
+autoritățile
+insulelor 1
+
+circulația_în
+Comunitate 1
+
+semințelor_de
+tomate 1
+
+liste_de
+candidați 1
+
+adresa_de
+Internet 1
+
+invitații_de
+manifestare 1
+
+iarba
+zeilor 1
+
+șapcă_de
+stofă 1
+
+listei_de
+rezervă 1
+
+serviciul
+interesului 1
+
+declarație_de
+interese 1
+
+asigurarea
+sprijinului 2
+
+disponibilității
+fondurilor 2
+
+muncă_pe
+cont 1
+
+importul_în
+Comunitate 1
+
+Comunitate_de
+animale 1
+
+importul_de
+carne 1
+
+preparatele_din
+carne 1
+
+adăugarea
+serului 2
+
+serului_de
+testare 1
+
+schimb_între
+Comunitatea 1
+
+bolii
+limbii 5
+
+fragmentul_de
+celulă 1
+
+implicarea
+actorilor 1
+
+actorilor
+societății 9
+
+domeniile
+educației 3
+
+µl_de
+seruri 1
+
+vaccinarea
+animalelor 1
+
+kilometri_în
+jurul 1
+
+guvernului
+Regatului 2
+
+telematică_între
+administrații 1
+
+echipele_de
+intervenție 1
+
+intervențiilor_în
+țări 1
+
+costurile_pentru
+asistența 1
+
+terți_în
+urma 1
+
+intervențiilor_de
+asistență 1
+
+acordării_de
+compensații 1
+
+compensații_pentru
+daunele 1
+
+daunele_în
+cauză 1
+
+acțiune_pe
+termen 1
+
+pragului_de
+alertă 1
+
+concentrațiile_de
+ozon 1
+
+măcinatul
+porumbului 1
+
+emisiilor_de
+precursori 1
+
+acordul_sub
+forma 1
+
+Situația_în
+domeniul 1
+
+făină_de
+porumb 1
+
+consumatori_din
+statele 1
+
+organizații_la
+nivel 1
+
+ordinea_de
+zi 1
+
+expert_la
+dezbaterile 1
+
+progresele_în
+domeniu 1
+
+personalul_din
+escortă 1
+
+vize_de
+intrare 1
+
+țările_de
+tranzit 1
+
+autorizării_de
+începere 1
+
+particularităților
+cauzelor 2
+
+posibilitățile_de
+soluționare 1
+
+soluționare_pe
+cale 1
+
+statutul
+limitărilor 1
+
+etapele
+procedurii 6
+
+depunerii
+cererii 4
+
+Tribunalul
+Funcției 1
+
+soluționări_pe
+cale 1
+
+spate_de
+părul 1
+
+recurs_la
+Tribunalul 1
+
+Instanță_în
+termen 1
+
+notificarea
+hotărârii 2
+
+hotărârii_de
+respingere 1
+
+Subvențiile_în
+temeiul 1
+
+perenitatea
+Forumului 1
+
+resursele
+programului 11
+
+subvenții_de
+funcționare 1
+
+funcționare_în
+temeiul 1
+
+raportului_de
+revizuire 1
+
+protejarea
+intereselor 1
+
+înflorirea
+culturilor 4
+
+culturilor
+statelor 9
+
+membre_cu
+respectarea 1
+
+sud_către
+nord 1
+
+asistență
+organismelor 4
+
+gin_din
+piele 1
+
+comunicare_în
+masă 1
+
+victimelor_prin
+acordarea 1
+
+cheltuielilor_de
+asistență 1
+
+distribuitori
+autorităților 10
+
+situații_de
+urgență 1
+
+relație_de
+control 1
+
+piele_în
+loc 1
+
+termeni_de
+competențe 1
+
+accesul_pe
+teritoriul 1
+
+trepte_din
+categoria 1
+
+refuzului_de
+recunoaștere 1
+
+garanției_de
+origine 1
+
+completării
+cooperării 2
+
+Valorile_de
+referință 1
+
+randamentului_pentru
+producerea 1
+
+solubilizarea
+elementului 1
+
+încredere_-n
+nenorociții 1
+
+practică_de
+laborator 1
+
+fasciculul_de
+cabluri 1
+
+termenului_de
+transpunere 1
+
+funcționării
+sistemului 2
+
+TVA_în
+contextul 1
+
+propunere_de
+revizuire 1
+
+icrele_de
+morun 1
+
+testării
+semințelor 2
+
+lupte_de
+stradă 1
+
+autorizațiile_de
+muncă 1
+
+evoluției_în
+sectorul 1
+
+piața
+achizițiilor 2
+
+muncă
+muncitorilor 2
+
+proiectele_de
+lucrări 1
+
+persoane_în
+parte 1
+
+acord-cadru_în
+sensul 1
+
+anunț_privind
+rezultatele 1
+
+punctul_de
+rupere 1
+
+epiderma_din
+zona 1
+
+acorduri-cadru_în
+mod 1
+
+sistemul_în
+cauză 1
+
+aspect_din
+proiecte 1
+
+practicanții_de
+TAIJIQUAN 1
+
+prezumția_de
+conformitate 1
+
+cantității_de
+lichid 1
+
+conformității_pentru
+produsele 1
+
+redresare_după
+efectele 1
+
+subvențiilor_din
+trecut 1
+
+comunității_de
+afaceri 1
+
+contoarele_de
+energie 1
+
+momentul_de
+față 1
+
+expresia_din
+ochii 1
+
+schimburilor_în
+domeniul 1
+
+măsurarea
+energiei 2
+
+circuit_de
+schimb 1
+
+fracțiune_de
+secundă 1
+
+semnalele_de
+ieșire 1
+
+traductoare_de
+măsură 1
+
+particulelor
+materialelor 3
+
+atentate_în
+străinătate 1
+
+constanta
+generatorului 1
+
+generatorului_de
+semnal 1
+
+oponentul_cu
+calm 1
+
+măsurătorile_în
+curs 1
+
+căderea_de
+tensiune 1
+
+utilizatorii_de
+Internet 1
+
+restricții
+exploatațiilor 1
+
+infectare_cu
+scrapie 1
+
+confirmarea
+suspiciunilor 2
+
+determinarea
+lungimii 2
+
+secțiune_cu
+imagini 1
+
+regularizării
+impozitului 2
+
+mișcării_de
+avansare 1
+
+mâinile_pe
+șolduri 1
+
+necrozării
+nervurilor 1
+
+nervurilor
+sfeclei 1
+
+donare_de
+sânge 1
+
+plasma_din
+donare 1
+
+Amestec_de
+concentrate 1
+
+concentrarea
+trombocitelor 3
+
+trombocitelor_din
+unități 1
+
+unități_în
+cursul 1
+
+cadru_de
+răspundere 1
+
+emiterea
+licențelor 2
+
+Scopul
+reparării 1
+
+mijloacelor_de
+transport 1
+
+utilizării_în
+cadrul 1
+
+executarea
+sarcinilor 2
+
+concesie_în
+temeiul 1
+
+modelarea
+lumii 8
+
+reținerii_de
+impozit 1
+
+veniturile_din
+titlurile 1
+
+titlurile_de
+creanță 1
+
+Statul_în
+cauză 1
+
+clauze_privind
+suma 1
+
+favorizării
+adoptării 2
+
+încasări
+statului 12
+
+impunerea
+reținerii 2
+
+reținerii_la
+sursă 1
+
+identitate_pentru
+diplomați 1
+
+promovării
+adoptării 2
+
+fonduri_de
+investiții 1
+
+plățile
+dobânzilor 3
+
+dobânzii_în
+beneficiul 1
+
+folie_de
+celuloză 1
+
+creșterile
+volumului 3
+
+volumului
+contingentelor 2
+
+instrumentele_de
+aprobare 1
+
+contingente_cu
+taxe 1
+
+dreptului_la
+vot 1
+
+UE_la
+sediul 1
+
+drapelul
+țării 18
+
+frontiera
+țării 18
+
+gazdă_prin
+punctele 1
+
+reglementărilor
+țării 18
+
+gazdă_privind
+înregistrarea 1
+
+drept_de
+ședere 1
+
+domiciliu_pe
+teritoriul 1
+
+personal_pe
+plan 1
+
+restricții_prin
+echipamentele 1
+
+aviz_privind
+dispozițiile 1
+
+gândul_la
+bisericile 1
+
+Reînnoirea
+contribuțiilor 1
+
+regulii_de
+descreștere 1
+
+autoritate_de
+supraveghere 1
+
+supraveghere_în
+conformitate 1
+
+gospodăririi
+apelor 4
+
+apelor_din
+Republica 1
+
+Acordul_între
+Comunitatea 1
+
+teritoriului
+Principatului 1
+
+bugetul_de
+funcționare 1
+
+ministerul
+pescuitului 2
+
+încurajarea
+cooperării 2
+
+activităților
+întreprinderii 1
+
+norme_de
+siguranță 1
+
+vieții_pe
+mare 1
+
+materia
+bugetului 2
+
+bisericile_de
+lemn 1
+
+lemn_cu
+acoperișurile 1
+
+Deliberările
+organelor 2
+
+organelor_de
+decizie 1
+
+inspectorilor_de
+asigurări 1
+
+autoritățile_de
+supraveghere 1
+
+consilierea
+Comisiei 16
+
+Codul
+zonei 2
+
+anului_de
+referință 1
+
+Descrierea
+măsurii 3
+
+rapoartele_privind
+punerea 1
+
+chestionarului_din
+anexă 1
+
+litigiu_între
+UE 1
+
+negocierii_între
+părți 1
+
+fulgi_de
+zăpadă 1
+
+dispoziție_prin
+intermediul 1
+
+Beneficiarilor
+statutului 1
+
+statutului_de
+refugiat 1
+
+reuniunilor
+grupului 4
+
+Carta
+Drepturilor 1
+
+domeniu_de
+competență 1
+
+competență_din
+țările 1
+
+referință_din
+domeniul 1
+
+domeniile_privind
+aplicarea 1
+
+cursuri_de
+formare 1
+
+formare_în
+beneficiul 1
+
+personalului_din
+laboratoarele 1
+
+laboratoarele_în
+cauză 1
+
+pasivitatea
+Comunității 14
+
+Comunității_în
+cadrul 1
+
+luarea
+deciziei 3
+
+Președintele
+Consiliului 11
+
+propuneri_pentru
+selecția 1
+
+susținere_în
+cadrul 1
+
+activitatea_în
+interiorul 1
+
+Ambalajele_pentru
+semințe 1
+
+Participarea
+Comunității 14
+
+imunitate_la
+perturbații 1
+
+titluri_de
+creanță 1
+
+creanță_la
+intervale 1
+
+condiția
+îndeplinirii 1
+
+îndeplinirii
+obiectivelor 5
+
+Punerea_în
+aplicare 1
+
+zăpadă_pe
+vârfurile 1
+
+sporturilor_de
+iarnă 1
+
+Modulele_de
+evaluare 1
+
+notificarea_în
+cazul 1
+
+reglementarea
+situației 5
+
+îngrijorare_în
+privința 1
+
+utilizatorului
+aeronavei 1
+
+deficiențe_în
+cursul 1
+
+inspecții_la
+sol 1
+
+Măsurile_de
+transfer 1
+
+comparație_cu
+soiurile 1
+
+Granulocite_de
+afereză 1
+
+date_cu
+caracter 1
+
+ședere_în
+temeiul 1
+
+refugiat_în
+conformitate 1
+
+pârtii_de
+schi 1
+
+instalații_pentru
+zăpadă 1
+
+MHz_în
+polarizare 1
+
+corpul_din
+mijloc 1
+
+propunerea
+Comitetului 5
+
+Trenul_de
+plăcere 1
+
+normelor
+politicii 5
+
+deliberărilor
+membrilor 4
+
+Țara_de
+origine 1
+
+metodelor_de
+calcul 1
+
+transferului_de
+proprietate 1
+
+proprietate_în
+cadrul 1
+
+schimburilor_între
+unitățile 1
+
+Comunitate_în
+sensul 1
+
+vârsta_de
+absolvire 1
+
+Marca_de
+identificare 1
+
+dovada
+originii 1
+
+Curtea_de
+Justiție 1
+
+Agricultură_din
+provincia 1
+
+săptămâna_de
+lucru 1
+
+comunicații_din
+cadrul 1
+
+cerințele_privind
+calitatea 1
+
+codul_de
+identificare 1
+
+instalarea
+paragatelor 1
+
+pierderile_de
+unelte 1
+
+unelte_de
+pescuit 1
+
+transporturile_de
+detergenți 1
+
+cheltuielilor
+Agenției 3
+
+bugetul
+Agenției 3
+
+concentrărilor_în
+Spațiul 1
+
+pierdere_din
+depreciere 1
+
+operațiunii_din
+partea 1
+
+interesul
+operațiunii 3
+
+probleme_în
+vederea 1
+
+propunere_din
+partea 1
+
+licență_de
+export 1
+
+concurența
+limitelor 2
+
+sursa_de
+energie 1
+
+urmărire_prin
+satelit 1
+
+registrul
+debitorilor 1
+
+invitație_pentru
+candidaturi 1
+
+candidaturi_în
+vederea 1
+
+Normele_privind
+secretul 1
+
+legislația
+părților 5
+
+informații_în
+conformitate 1
+
+obligația_de
+etichetare 1
+
+Conținutul
+anexei 3
+
+etichete_de
+pericol 1
+
+climatizarea
+spațiilor 1
+
+spațiilor_de
+cazare 1
+
+închirierii_în
+momentul 1
+
+deschiderii
+ferestrelor 1
+
+clei_pentru
+podele 1
+
+substrat_de
+clasă 1
+
+Data
+prezentării 2
+
+număr_în
+cursul 1
+
+definitivarea
+acțiunii 2
+
+recomandarea
+constructorului 1
+
+spălarea
+banilor 1
+
+reasigurării_în
+Comunitate 1
+
+colmatarea
+filtrului 2
+
+filtrului_de
+particule 1
+
+Membrul_cu
+calificare 1
+
+licențiați_în
+drept 1
+
+Protocolul_privind
+privilegiile 1
+
+imunitățile
+Comunităților 2
+
+bazele_de
+date 1
+
+Deservirea
+pasagerilor 2
+
+operator_de
+transport 1
+
+prețului_de
+achiziție 1
+
+folosirii
+aditivului 1
+
+curcanii_pentru
+îngrășare 1
+
+autorizare_fără
+limitare 1
+
+limitare_în
+timp 1
+
+vizitele_de
+verificare 1
+
+producătorii-exportatori_din
+eșantion 1
+
+condiției_privind
+cantitatea 1
+
+întreprinderilor_de
+investiții 1
+
+Prestarea_de
+servicii 1
+
+exercitarea
+atribuțiilor 1
+
+tratat_privind
+concurența 1
+
+salvgardare_în
+vigoare 1
+
+dreptunghi_la
+scară 1
+
+Instrumentul_de
+măsurare 1
+
+ochiului_de
+plasă 1
+
+deschizătura
+ochiului 3
+
+concentrații_de
+pește 1
+
+ml_cu
+apă 1
+
+îngrijorarea_privind
+interzicerea 1
+
+subproduselor_de
+origine 1
+
+părul_de
+culoarea 1
+
+Capacitatea
+industriei 2
+
+portofoliu_de
+instrumente 1
+
+dobândire_de
+profit 1
+
+profit_pe
+termen 1
+
+abordării
+continuării 2
+
+implicării
+entității 1
+
+anul_în
+cursul 1
+
+performanța
+activului 1
+
+intrările_de
+numerar 1
+
+grupei_de
+materiale 1
+
+echipamentele_pentru
+testare 1
+
+sursei_de
+alimentare 1
+
+alimentare_cu
+electricitate 1
+
+procedeu_de
+producție 1
+
+producție_de
+produse 1
+
+închiriere_în
+cazul 1
+
+costurile_de
+funcționare 1
+
+transfer_de
+proprietate 1
+
+identității
+persoanelor 10
+
+gestionării
+pieței 4
+
+Păstrarea_la
+bord 1
+
+navă_fără
+licență 1
+
+situației
+persoanelor 10
+
+Dezvoltarea_în
+continuare 1
+
+consolei
+vehiculului 1
+
+scadenței
+plății 2
+
+navă_în
+zonă 1
+
+zonă_în
+conformitate 1
+
+Procesul_de
+coordonare 1
+
+guvernatorilor_în
+temeiul 1
+
+Cheltuielile_de
+sănătate 1
+
+totalului
+informațiilor 7
+
+Furnizarea_de
+informații 1
+
+regimuri_de
+protecție 1
+
+diversitatea
+producției 2
+
+Formularele_de
+autorizație 1
+
+eroare_de
+clasificare 1
+
+colectării
+datelor 10
+
+turnura
+evenimentelor 5
+
+biletele
+spectacolelor 1
+
+flăcările
+focului 2
+
+Părinți_cu
+schiptrul 1
+
+schiptrul
+puterii 2
+
+inima_-n
+dinți 1
+
+palma_pe
+buze 1
+
+părintele
+orașului 9
+
+adâncirea
+dialectului 1
+
+dialectului
+apei 4
+
+clasicism_fără
+laicitate 1
+
+muzică_fără
+pasiune 1
+
+confundarea
+legăturii 2
+
+teză_de
+Matematici 1
+
+sprâncenele_cu
+mirare 1
+
+analiza_pe
+neegalități 1
+
+oferta
+impresarilor 1
+
+consecințe_pentru
+suprafața 1
+
+Căile
+analizei 2
+
+astă-dată_în
+clasa 1
+
+gușă_de
+curcan 1
+
+ideile_în
+propozițiuni 1
+
+vremea_cu
+drumul 1
+
+odăiță_din
+spatele 1
+
+autocamion_de
+transportat 1
+
+sfoara_de
+siguranță 1
+
+foițele_de
+metal 1
+
+dimineață_de
+primăvară 1
+
+cotoaică_-n
+călduri 1
+
+impresarilor_de
+turneu 1
+
+părul
+fetei 5
+
+groapă_cu
+țepușe 1
+
+vorbă_din
+gura 1
+
+firul_de
+păianjen 1
+
+noroiul
+drumului 1
+
+oale_de
+pământ 1
+
+linguri_de
+lemn 1
+
+ban_cu
+ban 1
+
+stup_de
+albine 1
+
+privirile_peste
+masă 1
+
+felul_de
+costume 1
+
+om_cu
+om 1
+
+bicele
+bouarilor 1
+
+ferestrele_din
+fața 1
+
+clipă_din
+ceartă 1
+
+rumoarea
+glasurilor 1
+
+glasurilor_din
+spate 1
+
+ploaie_de
+bolovani 1
+
+nasul
+ibovnicei 1
+
+preferințele
+publicului 3
+
+taraba
+brutarului 1
+
+poemul_După
+melci 1
+
+Evoluția
+poeziei 6
+
+minim_de
+formule 1
+
+maxim_de
+idei 1
+
+mijloacele
+diagonalelor 1
+
+hohot_de
+râs 1
+
+profesor_în
+parte 1
+
+sosirea
+profesorului 3
+
+congestiilor_la
+cap 1
+
+Premiul_de
+Stat 1
+
+glas_de
+confidență 1
+
+bani_cu
+specialitatea 1
+
+armenii_de
+vază 1
+
+monstru_de
+disimulație 1
+
+grămadă_de
+parale 1
+
+parale_cu
+monumentul 1
+
+sete_de
+cunoaștere 1
+
+spiritului_din
+nord 1
+
+lecția_despre
+acidul 1
+
+nota_în
+catalog 1
+
+excursii_în
+grup 1
+
+maximum_de
+claritate 1
+
+claritate_în
+dezvoltarea 1
+
+universalitatea
+domeniului 2
+
+plinătatea
+admirației 1
+
+zgomotul_în
+timpul 1
+
+decanatul
+Facultății 2
+
+cercetarea
+memoriului 1
+
+răspunsul
+întrebării 1
+
+întrebării_din
+titlu 1
+
+titlu_la
+algebră 1
+
+provinciile
+specializării 1
+
+locuitorii
+Defileului 1
+
+Porțile_de
+Fier 1
+
+principal_cu
+ajutorul 1
+
+Atlasului
+cadastrului 1
+
+cadastrului
+apelor 4
+
+recital_pe
+disc 1
+
+urmă_cu
+numele 1
+
+ceai_de
+mentă 1
+
+poțiuni_pentru
+calmarea 1
+
+calmarea
+vomelor 1
+
+epidemie_de
+holeră 1
+
+bucurie_în
+casele 1
+
+scrieri_cu
+caracter 1
+
+perdea_de
+plopi 1
+
+sferturi_de
+veac 1
+
+liceu_din
+țară 1
+
+comprese_de
+pleavă 1
+
+pleavă_de
+fân 1
+
+participare_la
+evenimentele 1
+
+eșuarea
+încercării 2
+
+pilulele_de
+gheață 1
+
+epidemii_de
+holeră 1
+
+liceul_sub
+numele 1
+
+ceasul_din
+buzunar 1
+
+rest_de
+gelozie 1
+
+Tragedia
+omului 8
+
+satisfacție_în
+datele 1
+
+voinței
+împăratului 2
+
+buchetul_de
+flori 1
+
+prisma
+judecății 1
+
+nota
+respectivului 1
+
+respectivului_la
+purtare 1
+
+mâna_fără
+mănușă 1
+
+ochii_către
+clasă 1
+
+povestire_despre
+foloasele 1
+
+binefacerile
+civilizației 2
+
+nuca_de
+cocos 1
+
+bunăvoința
+călătorului 1
+
+decursul
+povestirii 2
+
+elev_de
+clasa 1
+
+pantalonii_de
+bradolina 1
+
+lecția_de
+Geometrie 1
+
+coroană_de
+flori 1
+
+flori_la
+înmormântarea 1
+
+subdirector_la
+liceul 1
+
+maestru_de
+gimnastică 1
+
+Cuvintele
+profesorului 3
+
+căpetenia
+pungașilor 1
+
+duioșie_la
+șoaptele 1
+
+șoaptele
+îndrăgostiților 2
+
+tejghetar_la
+ochi 1
+
+profesorul_de
+Științe 1
+
+formalitățile_de
+rigoare 1
+
+țipenie_de
+om 1
+
+rămășițe_de
+lână 1
+
+ceas_de
+aur 1
+
+capra
+trăsurii 1
+
+grămadă_spre
+casa 1
+
+ghiozdan_de
+pânză 1
+
+Femeia
+gunoierului 1
+
+brâul_de
+piele 1
+
+bătătura_din
+fața 1
+
+firma_de
+tablă 1
+
+îndreptarea
+timpului 12
+
+pomii_din
+curțile 1
+
+Nevasta
+meșterului 2
+
+Clinchetul
+paharelor 1
+
+mesele_de
+fag 1
+
+pâlnia_în
+gâtul 1
+
+triftărul_la
+locul 1
+
+schelele_de
+lemn 1
+
+zidurile_cu
+agheasmă 1
+
+doagele_cu
+rafie 1
+
+scândurile
+cotețelor 1
+
+vin_din
+pivnița 1
+
+tivul_de
+aur 1
+
+butoi_de
+vin 1
+
+erupție_de
+râs 1
+
+notare_în
+condica 1
+
+condica
+clasei 5
+
+drumul_în
+groapă 1
+
+duhul
+femeii 5
+
+dragoste_la
+fetele 1
+
+mortăciunea_în
+apa 1
+
+pilda
+semănătorului 1
+
+cuvinte_de
+circumstanță 1
+
+prilej_de
+scandal 1
+
+liceenii
+Capitalei 3
+
+bancă_în
+inactivitate 1
+
+antrenamentul_sub
+conducerea 1
+
+vernisajul
+expoziției 1
+
+galeria_de
+scandalagii 1
+
+echipei_de
+fotbal 1
+
+băieții_pe
+directorul 1
+
+director_de
+școală 1
+
+barca
+fetelor 1
+
+profesori_în
+fața 1
+
+expoziției_de
+carte 1
+
+hârtie_de
+turnesol 1
+
+notarea
+absenților 1
+
+apeluri_la
+reminiscențele 1
+
+denumirile_de
+origine 1
+
+zâmbetele
+băieților 1
+
+clipe_pe
+buzele 1
+
+sumedenie_de
+elevi 1
+
+elevi_în
+jurul 1
+
+cuvânt_în
+dicționar 1
+
+banca_în
+fața 1
+
+achitarea_în
+întregime 1
+
+întâietatea_la
+învățătură 1
+
+copilandru_în
+împrejurări 1
+
+confecționării_de
+versuri 1
+
+versuri_la
+comandă 1
+
+fetele_din
+cursul 1
+
+bancă_la
+întâmplare 1
+
+scrisoare_în
+proză 1
+
+bustul_în
+gips 1
+
+repetiție_la
+cor 1
+
+cordon_de
+aur 1
+
+hârtie_în
+mână 1
+
+idee_de
+metodă 1
+
+stăpân_pe
+metoda 1
+
+privință_cu
+omul 1
+
+omul_de
+știință 1
+
+jumătate_dintre
+români 1
+
+aritmetica
+întregilor 1
+
+trucul_cu
+sângele 1
+
+exemplu_de
+geometrie 1
+
+generalizarea
+teoremei 1
+
+triunghi_de
+geodezice 1
+
+formulelor_de
+trigonometrie 1
+
+memoriu_către
+Academia 1
+
+uniformă_de
+artilerist 1
+
+oră_în
+curte 1
+
+incomensurabilitatea
+diagonalei 2
+
+diagonalei
+pătratului 1
+
+pătratului_prin
+diagonală 1
+
+contradicțiilor
+numărului 2
+
+verificării
+oamenilor 8
+
+emoției
+poetului 2
+
+specia
+formei 3
+
+expresia
+sentimentului 1
+
+sentimentului_de
+relație 1
+
+relație_cu
+cerul 1
+
+ceremonie_de
+doctor 1
+
+melci_în
+cheie 1
+
+poeziilor_în
+parte 1
+
+eseu_de
+Al. 1
+
+teama_de
+truisme 1
+
+misterele
+Cabalei 1
+
+literatura
+cosmogoniilor 1
+
+schimbări_în
+hidronimie 1
+
+delfinii_din
+Pont 1
+
+templul_din
+blocuri 1
+
+conglomerat_de
+așezări 1
+
+menținerii
+podului 1
+
+navigabilizarea
+văii 1
+
+Muma
+Rodniciei 1
+
+rodnicia
+câmpului 1
+
+femeilor
+satului 4
+
+dureri_în
+zona 1
+
+compromiterea
+echilibrului 2
+
+explorarea
+restului 1
+
+pradă
+morții 5
+
+cifra
+locuitorilor 4
+
+localitate_la
+frontiera 1
+
+frontiera_cu
+Imperiul 1
+
+încredere_în
+eficacitatea 1
+
+tratamentului
+confratelui 1
+
+lipitori_pe
+epigastru 1
+
+metod_pentru
+vindecarea 1
+
+protoxid_de
+azot 1
+
+procesiuni_cu
+moaște 1
+
+relicve_de
+sfinți 1
+
+bisericile_din
+orașele 1
+
+lazaret_pentru
+bolnavi 1
+
+socoteala
+guvernului 8
+
+părerea
+medicului 6
+
+dispersarea
+masei 2
+
+masei
+locuitorilor 4
+
+rublele_în
+picioare 1
+
+cocoșul
+armei 1
+
+evitarea
+răcirii 1
+
+abdomenul_cu
+spirt 1
+
+Personalul
+spitalelor 1
+
+medici_pentru
+depistarea 1
+
+depistarea
+cazurilor 6
+
+vacanță_pentru
+petrecerea 1
+
+dangătul
+clopotelor 1
+
+clopotelor
+bisericilor 1
+
+venirea
+dușmanului 1
+
+slujirea
+morților 4
+
+asanarea
+cvartalului 1
+
+băi_de
+abur 1
+
+saloane_pentru
+holericii 1
+
+trupelor_în
+retragere 1
+
+epidemiei_de
+holeră 1
+
+vigilența
+organelor 2
+
+dotarea
+serviciilor 6
+
+consecințe_pe
+planul 1
+
+părerea_de
+rău 1
+
+vârstă_cu
+doamna 1
+
+numirile_la
+muzee 1
+
+prietenul
+domnului 3
+
+păduri_de
+fag 1
+
+fund_de
+crestele 1
+
+mâncare_din
+sat 1
+
+opere_de
+ficțiune 1
+
+spinarea
+calului 1
+
+piatră_peste
+piatră 1
+
+supraveghetor_de
+ordine 1
+
+mestecarea_cu
+lingurița 1
+
+gest_de
+compătimire 1
+
+coli_de
+corespondență 1
+
+superstiția
+notorietății 1
+
+copiii_prin
+legea 1
+
+obiceiul
+ministeriabilului 1
+
+teren_în
+fruntea 1
+
+lacrimi_pe
+gene 1
+
+creionul_de
+băieții 1
+
+justețea
+răspunsului 1
+
+preț_din
+punct 1
+
+Blaga_din
+postume 1
+
+trepte_de
+mărime 1
+
+calitate_în
+jurul 1
+
+castel_de
+ape 1
+
+asaltului
+nisipurilor 1
+
+Relatările
+călătorilor 2
+
+Vălenii_de
+Munte 1
+
+incursiunea_de
+ordin 1
+
+epidemicitatea
+holerei 4
+
+planton_în
+fața 1
+
+bolnavilor_de
+holeră 1
+
+obicei_în
+urma 1
+
+ivirea
+holerei 4
+
+bilete_de
+voie 1
+
+încrederea
+populației 11
+
+concursul
+Erminiei 1
+
+pian_cu
+coadă 1
+
+autoritatea_în
+ochii 1
+
+dascăl_de
+Limba 1
+
+manuale_de
+geografie 1
+
+recepții_în
+memoria 1
+
+surpriza_la
+intrare 1
+
+dărâmarea
+zidului 1
+
+viață
+edificiului 1
+
+candidații
+Centrului 3
+
+șiretul_din
+copci 1
+
+socoteala_pe
+tejghetarul 1
+
+tatii_asupra
+subiectului 1
+
+concursul_de
+Limba 1
+
+gândul_cu
+veacuri 1
+
+fiu_de
+profesor 1
+
+ochiul
+trecătorilor 2
+
+mirese_de
+basm 1
+
+piesă_de
+teatru 1
+
+vegetații_de
+baltă 1
+
+comparații_din
+memorie 1
+
+cuvânt_cu
+cuvânt 1
+
+scara_de
+lemn 1
+
+margini_cu
+foarfecele 1
+
+petrecerea
+Revelionului 2
+
+presiunii_în
+calea 1
+
+excreție_deasupra
+obstacolului 3
+
+comprimarea
+vaselor 3
+
+vasoconstricția
+arteriolelor 1
+
+pneumoniile_de
+ventilație 1
+
+om_la
+om 1
+
+Iradierea
+durerii 4
+
+durerii_în
+lungul 1
+
+majorări_de
+întârziere 1
+
+variațiile_de
+presiune 1
+
+presiunea_din
+calea 1
+
+acumulării_de
+urină 1
+
+urină_deasupra
+obstacolului 3
+
+faze_de
+hiperpresiune 1
+
+fază_în
+platou 1
+
+platou_în
+timpul 1
+
+Scăderea
+presiunilor 1
+
+inflației_pentru
+anul 1
+
+contracțiilor
+căii 2
+
+căii_de
+excreție 1
+
+presiunea_în
+calea 1
+
+obstrucției_asupra
+funcției 10
+
+urgența
+înlăturării 1
+
+discurs_despre
+Starea 1
+
+obstacolului_în
+capitolul 1
+
+zi_după
+operație 1
+
+înlăturarea
+obstacolului 3
+
+așteptarea
+eliminării 1
+
+instituirii
+tratamentului 20
+
+caz_la
+caz 1
+
+Starea
+omenirii 2
+
+h_de
+ventilație 1
+
+costul
+tratamentului 20
+
+creștere_de
+turiști 1
+
+antibioterapie_cu
+spectru 1
+
+instituționalizarea_în
+cămine 1
+
+cămine_de
+îngrijiri 1
+
+Diagnosticul
+pneumoniei 6
+
+Recoltarea
+probelor 2
+
+Diferențierea_dintre
+colonizare 1
+
+numărarea
+unităților 2
+
+colonii-UFC_pe
+mililitru 1
+
+valori_sub
+pragul 1
+
+pragul_de
+104UFC 1
+
+corelare_cu
+statusul 1
+
+diferența_între
+colonizare 1
+
+abuzul
+terapiei 7
+
+diagnosticului_de
+pneumonie 1
+
+spitalizării
+pacientului 7
+
+pneumoniei_cu
+germeni 1
+
+pneumoniei_de
+ventilație 1
+
+infecțiilor_de
+cateter 1
+
+turiști_pe
+destinații 1
+
+infecțiilor
+fluxului 3
+
+localizare_în
+plămân 1
+
+chiuveta_din
+bucătărie 1
+
+Problema
+terapiei 7
+
+germeni_la
+cefalosporinele 1
+
+cefalosporinele_cu
+spectru 1
+
+cefalosporinele_de
+generația 1
+
+Revelionul_în
+Orașul 1
+
+declanșării
+diseminării 2
+
+etiologia
+infecțiilor 8
+
+cateter_la
+v. 1
+
+infecții_cu
+germeni 1
+
+Orașul
+îndrăgostiților 2
+
+folosirea_de
+catetere 1
+
+scoaterea
+cateterului 1
+
+implantului_de
+proteză 1
+
+rezistenței_la
+quinolone 1
+
+Infecțiile
+fluxului 3
+
+regimul_pentru
+pneumonia 1
+
+morbidității_prin
+infecțiile 1
+
+măsurile
+ghidului 1
+
+ghidului_de
+profilaxie 1
+
+dolari_pentru
+tratarea 1
+
+carbapenemă_cu
+acțiune 1
+
+indicațiile
+tigecyclinei 1
+
+tigecyclinei_în
+tratamentul 1
+
+controverse_între
+monoterapie 1
+
+sensibilitatea
+agentului 2
+
+monoterapia_cu
+aminoglicozide 1
+
+aminoglicozide_în
+infecțiile 1
+
+infecțiile_cu
+P 1
+
+dezescaladare_cu
+monoterapie 1
+
+precădere
+bacteriilor 1
+
+bacteriilor_cu
+concentrații 1
+
+antibiotice_sub
+formă 1
+
+colistimethate_de
+sodiu 1
+
+tratamentului_asupra
+deficitelor 1
+
+evoluției
+bolii 9
+
+invaliditatea_pe
+termen 1
+
+ghidurile_de
+tratament 1
+
+alegere_pentru
+tratamentul 1
+
+caracteristicile_de
+studiu 1
+
+studiu_conform
+criteriilor 1
+
+Vârsta
+pacienților 9
+
+înrolarea_în
+studiu 1
+
+includere_în
+studiu 1
+
+adaptare_la
+presiunea 1
+
+mecanisme_de
+rezistență 1
+
+Întreruperea
+tratamentului 20
+
+Motivul
+întreruperii 1
+
+întreruperii
+tratamentului 20
+
+stadializarea
+bolii 9
+
+calmării
+durerii 4
+
+Direcției_de
+inspecție 1
+
+homeostaziei
+organismului 3
+
+aportul_de
+substanțe 1
+
+produșii_de
+catabolism 1
+
+rol_de
+pompă 1
+
+gradientele_de
+presiune 1
+
+presiune_pe
+baza 1
+
+exterior_de
+foița 1
+
+interior_de
+endocard 1
+
+endoteliul
+vaselor 3
+
+Primăriei
+Capitalei 3
+
+fiziologiei
+inimii 2
+
+Esența
+fenomenelor 2
+
+diferență_de
+potențial 1
+
+potențial_între
+mediul 1
+
+membrane_cu
+permeabilitate 1
+
+Măsurarea_cu
+ajutorul 1
+
+inegalității_de
+distribuție 1
+
+familii_de
+canale 1
+
+canale_de
+K 1
+
+exterior_pe
+baza 1
+
+gradientului_de
+concentrație 1
+
+exces_de
+anioni 1
+
+Modalitatea_de
+răspuns 1
+
+inspectorii_de
+specialitate 1
+
+aspectului
+potențialului 7
+
+etapă_de
+depolarizare 1
+
+inversarea
+polarității 2
+
+revenirea_la
+valoarea 1
+
+fibrele_cu
+răspuns 1
+
+activarea
+curentului 3
+
+canalului_de
+Na 1
+
+clasa
+anestezicelor 1
+
+viteza
+propagării 2
+
+Activarea
+curentului 3
+
+permeabilității_pentru
+Na 1
+
+influxul_de
+Na 1
+
+efluxul_de
+K 1
+
+echilibrului_dintre
+curentul 1
+
+curentul_spre
+interior 1
+
+curenților_spre
+interior 1
+
+efluxului_de
+K 1
+
+comisiei_de
+coordonare 1
+
+depolarizarea
+fibrelor 2
+
+heterogenitatea
+repolarizării 6
+
+grosimea
+miocardului 2
+
+frecvența_de
+activare 1
+
+vecin_de
+palier 1
+
+acțiune_în
+funcție 1
+
+celulă_pe
+baza 1
+
+echilibru_între
+curenții 1
+
+gradației_de
+merit 1
+
+directorii
+unităților 2
+
+platoului
+potențialului 7
+
+ionul_de
+K 1
+
+întârzierea
+repolarizării 6
+
+curent_spre
+exterior 1
+
+intrarea_sub
+ploaia 1
+
+membrană_la
+valoarea 1
+
+exterior_în
+timpul 1
+
+Refacerea
+concentrațiilor 4
+
+măsură_sub
+acțiunea 1
+
+Fazele
+excitabilității 1
+
+stimul_după
+declanșarea 1
+
+ploaia_de
+flori 1
+
+timp_pe
+parcursul 1
+
+stimuli_de
+intensitate 1
+
+aclamațiile
+mulțimei 1
+
+obținerii_de
+răspunsuri 1
+
+stimuli_cu
+intensitate 1
+
+canalelor_de
+Na 1
+
+potențialelor_de
+acțiune 1
+
+acțiune_din
+perioada 1
+
+potențiale_de
+acțiune 1
+
+stăpânirii
+naturii 2
+
+conceptele_de
+substanță 1
+
+naționalitatea
+purtătorului 1
+
+nivelurilor_de
+organizare 1
+
+terapiilor
+sistemului 2
+
+review_de
+literatură 1
+
+calităților_de
+substanță 1
+
+Interdependența_dintre
+substanță 1
+
+informație_cu
+modelul 1
+
+clasificării
+terapiilor 4
+
+medicină_după
+criteriul 1
+
+restructurare_prin
+reinserție 1
+
+incidență_în
+abordarea 1
+
+abordarea
+terapiilor 4
+
+terapiilor_cu
+efect 1
+
+cariere_de
+avocat 1
+
+psihicului_în
+concordanță 1
+
+ionilor_de
+litiu 1
+
+carbonatului_de
+litiu 1
+
+tratamentului_de
+nivel 1
+
+rolul
+calciului 1
+
+perioadei
+medicamentelor 5
+
+acțiune_asupra
+sistemului 2
+
+fenomenele_de
+membrană 1
+
+Clinica_de
+psihiatrie 1
+
+psihiatriei_în
+practica 1
+
+practica
+medicinei 1
+
+terapiei
+tulburărilor 1
+
+Derivații_de
+ergotamină 1
+
+bolile
+vârstei 2
+
+argument_în
+sublinierea 1
+
+sublinierea
+importanței 2
+
+abuzuri_de
+barbiturice 1
+
+degradarea
+intelectului 2
+
+psihicului_prin
+intermediul 1
+
+compartimentului_de
+substanță 1
+
+modelele_de
+dialog 1
+
+Utilizarea_în
+practica 1
+
+consens_cu
+medicația 1
+
+plus_de
+acțiune 1
+
+efectului_de
+placebo 1
+
+curente_din
+medicină 1
+
+tratament_prin
+intermediul 1
+
+Psihoterapia_prin
+comunicare 1
+
+naștere_din
+orientarea 1
+
+apariția_de
+accidente 1
+
+Tehnicile_de
+autocontrol 1
+
+meseria_de
+desenator 1
+
+funcții_din
+organism 1
+
+buclei_prin
+feedback 1
+
+percepția
+efectului 2
+
+Instrumentalizarea
+percepției 1
+
+percepției_prin
+electronică 1
+
+sisteme_la
+început 1
+
+mesajul
+simbolurilor 1
+
+relaxarea
+bolnavului 2
+
+praf_în
+ridurile 1
+
+urmă_pe
+coridor 1
+
+terapiile_de
+grup 1
+
+grup_în
+general 1
+
+variantă_de
+psihoterapie 1
+
+grup_prin
+intermediul 1
+
+corelații_între
+perioade 1
+
+magneto-diafluxului_în
+scop 1
+
+explicării
+fenomenelor 2
+
+originile
+românilor 4
+
+nebuni_în
+lume 1
+
+bronzului_pe
+teritoriul 1
+
+cnezate_la
+sud 1
+
+resturile
+autonomiei 1
+
+punct
+demonstrațiilor 2
+
+ministru_de
+finanțe 1
+
+etajul
+stepei 1
+
+gâsca_cu
+piept 1
+
+lebăda_de
+iarnă 1
+
+nuanțe_de
+tranziție 1
+
+Relieful
+țării 18
+
+delimitarea
+zonelor 1
+
+personalul
+universităților 2
+
+universităților_în
+reviste 1
+
+Nivelul
+indicatorilor 1
+
+indicatorilor_privind
+educația 1
+
+modelul
+Constituției 3
+
+Numirea
+Guvernului 3
+
+votului_de
+încredere 1
+
+Guvernului_de
+Parlament 1
+
+puterilor_în
+stat 1
+
+structură_de
+instanțe 1
+
+construcției
+Canalului 2
+
+magistrale_de
+transport 1
+
+nordul_de
+sudul 1
+
+vestul_de
+estul 1
+
+Arcul_de
+Triumf 1
+
+Reprezentanții
+agențiilor 1
+
+Muzeul
+Satului 1
+
+substrat_din
+amestecul 1
+
+amestecul
+elementelor 4
+
+armonie_cu
+tendințele 1
+
+Libertatea_de
+exprimare 1
+
+situarea_la
+confluența 1
+
+confluența_dintre
+est 1
+
+diferențiere_între
+muzicile 1
+
+bizantină_în
+răsărit 1
+
+comanda
+Statului 3
+
+Forțelor
+Armatei 2
+
+prioritatea_în
+domeniul 1
+
+achizițiilor_de
+echipamente 1
+
+victorii_în
+concursurile 1
+
+agențiilor_de
+dezvoltare 1
+
+sportiva
+secolului 6
+
+sporturi_de
+iarnă 1
+
+perimetrul
+țării 18
+
+inițiativa
+studenților 3
+
+originea
+numelui 2
+
+originea_în
+tribul 1
+
+Semnalul
+revoltei 1
+
+Planul
+revoluționarilor 1
+
+răsărit_de
+oraș 1
+
+lacuri_cu
+scop 1
+
+scop_de
+agrement 1
+
+Lunca
+Cetățuii 1
+
+masele_de
+aer 1
+
+aer_cu
+proveniență 1
+
+teatru_în
+limba 1
+
+companii_de
+software 1
+
+spital_din
+oraș 1
+
+turnul
+bisericii 3
+
+personalitate
+urbei 2
+
+complexe_de
+tip 1
+
+părți_sub
+pământ 1
+
+inel_de
+dealuri 1
+
+Dealurile_de
+Vest 1
+
+resurse_de
+subsol 1
+
+Câmpia_de
+Vest 1
+
+întinderi_de
+mlaștini 1
+
+derularea
+subprogramului 1
+
+vest_de
+tip 1
+
+mm_în
+Câmpia 1
+
+mm_pe
+an 1
+
+Numărul
+românilor 4
+
+granițelor
+țării 18
+
+libertății
+credințelor 1
+
+ortodocșii_pe
+stil 1
+
+personalității
+individului 1
+
+individului_în
+vederea 1
+
+prototipul
+cetățeanului 1
+
+topului
+universităților 2
+
+clasament_pe
+domenii 1
+
+competitivitatea
+forței 3
+
+ani_din
+Uniunea 1
+
+Curte_de
+Casație 1
+
+curțile_de
+apel 1
+
+referendum_de
+modificare 1
+
+reforma_din
+justiție 1
+
+măsuri_împotriva
+corupției 2
+
+raportul_de
+țară 1
+
+politica_pe
+calea 1
+
+întăririi
+legăturilor 2
+
+strângerea
+relațiilor 1
+
+țări_pentru
+aderarea 1
+
+aderarea_la
+Uniunea 1
+
+est_de
+Sulina 1
+
+zăcămintele_de
+petrol 1
+
+gaze_din
+zonă 1
+
+zona_în
+dispută 1
+
+coeziunii_între
+țările 1
+
+accepțiunea
+Consiliului 11
+
+statului_cu
+autoritate 1
+
+regiuni_de
+dezvoltare 1
+
+meserie_de
+antrenor 1
+
+Regiunile_de
+dezvoltare 1
+
+raioane_la
+reîmpărțirea 1
+
+reîmpărțirea_pe
+județe 1
+
+ore_cu
+mașina 1
+
+PIB_pe
+locuitor 1
+
+ansamblare_de
+mașini 1
+
+țări_din
+regiune 1
+
+infrastructura_de
+transport 1
+
+Flota_de
+aeronave 1
+
+aeronave_în
+anul 1
+
+scoaterea_din
+exploatare 1
+
+rezultate_de
+pionierat 1
+
+pionierat_la
+dezvoltarea 1
+
+Compania_de
+Navigație 1
+
+plaja
+Mării 4
+
+transport_în
+comun 1
+
+pasageri_pe
+zi 1
+
+coasta
+Mării 4
+
+economia
+țării 18
+
+locurilor_de
+muncă 1
+
+peșteri_din
+Munții 1
+
+poziția_în
+cadrul 1
+
+obiective_cu
+valoare 1
+
+mânăstiri_cu
+pictură 1
+
+Cultura_de
+tip 1
+
+influența
+tradiției 2
+
+Începutul
+secolului 6
+
+personalități_precum
+romancierii 1
+
+muzica
+daco-geților 1
+
+ziarului_de
+limba 1
+
+cheltuieli_în
+valoare 1
+
+structurii
+forțelor 3
+
+achiziționarea_de
+tehnologie 1
+
+Ordin_de
+Zi 1
+
+ființă_în
+anul 1
+
+colaborării
+societății 9
+
+Arsenalul
+Armatei 2
+
+unirea
+Principatelor 3
+
+Bulevardul
+Revoluției 2
+
+practicării
+sportului 2
+
+sportului_în
+Armata 1
+
+sportivii
+clubului 4
+
+permanență_printre
+protagoniștii 1
+
+Societatea_de
+dare 1
+
+dare_la
+semn 1
+
+munte_la
+șesul 1
+
+localitate_din
+apropierea 1
+
+activitatea_prin
+meciul 1
+
+generației_de
+aur 1
+
+aur_În
+prezent 1
+
+club_de
+fotbal 1
+
+echipă_din
+estul 1
+
+Cupa
+Campionilor 1
+
+edițiile
+Jocurilor 1
+
+ediții_de
+vară 1
+
+demonstrații_de
+baschet 1
+
+liceele_din
+capitală 1
+
+medalia_de
+bronz 1
+
+împletirii
+mânuirii 1
+
+mânuirii
+armelor 3
+
+contribuția_la
+scrima 1
+
+competiții_de
+alergări 1
+
+teren_de
+atletism 1
+
+Stadionul
+Tineretului 4
+
+limba
+sarmaților 1
+
+școală_în
+limba 1
+
+tipografie_în
+biserica 1
+
+capitala
+țării 18
+
+clădirile_de
+lemn 1
+
+exploziei
+fenomenului 3
+
+fenomenului
+construcțiilor 1
+
+monument_de
+arhitectură 1
+
+instituții_de
+învățământ 1
+
+clădirea
+Fundației 2
+
+fond_de
+carte 1
+
+cămin_din
+partea 1
+
+SC
+Arcelor 1
+
+Masa
+Umbrelor 1
+
+ecouri_de
+vers 1
+
+curățirea
+orașului 9
+
+orașului_de
+clădirile 1
+
+personalități_de
+seamă 1
+
+hypermarket_din
+majoritatea 1
+
+zona_din
+spatele 1
+
+Palatului
+Culturii 2
+
+orașului_din
+punct 1
+
+construirea_de
+baze 1
+
+baze_de
+agrement 1
+
+intersecția_dintre
+Magistrala 1
+
+termen_de
+finalizare 1
+
+orelor_de
+vârf 1
+
+intersecțiile_din
+Centru 1
+
+planuri_pentru
+realizarea 1
+
+șosele_de
+centură 1
+
+contract_cu
+firma 1
+
+transportului_cu
+tramvaie 1
+
+transportul_în
+comun 1
+
+căilor_de
+rulare 1
+
+Liniile_de
+tramvai 1
+
+cartierelor
+orașului 9
+
+liniei_de
+tramvai 1
+
+Parcul_de
+autobuze 1
+
+autobuze_de
+tip 1
+
+Unirea
+Principatelor 3
+
+Principatelor_din
+anul 1
+
+nord_de
+peninsula 1
+
+unirea_dintre
+Țara 1
+
+colaborarea
+guvernului 8
+
+cedarea_de
+teritorii 1
+
+abolirea
+regimului 8
+
+întoarcerea
+armelor 3
+
+armelor_contra
+Puterilor 1
+
+Puterilor
+Axei 1
+
+țară_după
+suprafața 1
+
+Capitala
+țării 18
+
+oraș_din
+UE 1
+
+UE_după
+populație 1
+
+reședința
+județului 2
+
+datelor
+recensământului 2
+
+recensământului_din
+anul 1
+
+Tensiunea_de
+frânare 1
+
+tensiune_de
+frânare 1
+
+anularea
+curentului 3
+
+curentului_din
+circuit 1
+
+post_prin
+cablu 1
+
+construcțiile_din
+gheață 1
+
+Energia
+electronilor 2
+
+fascicul_de
+lumină 1
+
+modalitate_de
+închiriere 1
+
+cuantă_de
+energie 1
+
+compania_de
+arhitectură 1
+
+lucrul
+forțelor 3
+
+curbele_de
+variație 1
+
+atomii
+grafitului 1
+
+lungimea_de
+undă 1
+
+energie_de
+legătură 1
+
+Electronii_de
+valență 1
+
+fotonului_de
+energie 1
+
+unghiul_de
+difuzie 1
+
+unghiuri_de
+difuzie 1
+
+managementul
+lucrărilor 7
+
+spectrul
+atomilor 2
+
+oferte_de
+cazare 1
+
+legile
+electromagnetismului 1
+
+sarcină_în
+mișcare 1
+
+Orbita
+electronului 5
+
+condiția_de
+echilibru 1
+
+forță_de
+atracție 1
+
+spectrului_în
+cazul 1
+
+Liniile
+seriilor 1
+
+lungime_de
+undă 1
+
+existenței
+nivelelor 2
+
+nivelelor_de
+energie 1
+
+principiul_de
+combinare 1
+
+numerele_de
+undă 1
+
+Elita
+industriei 2
+
+bombardarea
+atomilor 2
+
+atomilor_cu
+electroni 1
+
+energii_de
+excitare 1
+
+potențial_dintre
+grilă 1
+
+mercur_la
+presiunea 1
+
+Ug_dintre
+filament 1
+
+circuitul
+plăcii 2
+
+energia_în
+urma 1
+
+atomii_de
+mercur 1
+
+frânare_dintre
+grilă 1
+
+radiații_cu
+lungimea 1
+
+distanței_dintre
+filament 1
+
+atom_de
+mercur 1
+
+discontinuității
+stărilor 1
+
+mișcarea
+electronului 5
+
+industriei_de
+frumusețe 1
+
+lungimi_de
+undă 1
+
+dispozitiv_pentru
+obținerea 1
+
+tub_de
+sticlă 1
+
+Tuburile_de
+puteri 1
+
+circulație_de
+apă 1
+
+evidență_cu
+ajutorul 1
+
+platinocianura_de
+bariu 1
+
+wolframatul_de
+calciu 1
+
+Spectrele_de
+radiații 1
+
+Spectrul_de
+raze 1
+
+Fotonul_de
+radiație 1
+
+X_cu
+energia 1
+
+electronilor_la
+catod 1
+
+sarcina
+electronului 5
+
+scăderea
+intensității 2
+
+tensiunii_de
+accelerare 1
+
+lungimilor_de
+undă 1
+
+atomul
+țintei 1
+
+electronii_cu
+număr 1
+
+atomului_în
+starea 1
+
+ocuparea
+nivelului 2
+
+electron_din
+păturile 1
+
+Creșterea_în
+continuare 1
+
+poziția
+maximelor 1
+
+electronului_din
+atomul 1
+
+atomul_de
+hidrogen 1
+
+limbaj_de
+programare 1
+
+interfață_între
+problema 1
+
+Limbajul_de
+programare 1
+
+soluția
+problemei 2
+
+specificarea
+problemei 2
+
+problemei_la
+program 1
+
+înlocuirii
+limbajului 2
+
+limbajului_de
+asamblare 1
+
+mediu_de
+programare 1
+
+programare_pentru
+sistemul 1
+
+conceptul_de
+clasă 1
+
+supraîncărcarea
+operatorilor 2
+
+tipurilor_la
+execuție 1
+
+spațiile_de
+nume 1
+
+paradigme_de
+programare 1
+
+paradigma
+programării 1
+
+secțiune_de
+program 1
+
+Execuția
+programului 11
+
+explicații_în
+limbaj 1
+
+claritatea
+programului 11
+
+comentarii_în
+interiorul 1
+
+instrucțiuni_în
+corpul 1
+
+trecerea_la
+iterația 1
+
+secvență_de
+numere 1
+
+instrucțiune_de
+ciclare 1
+
+antetul
+funcției 10
+
+mediul_de
+intrare 1
+
+funcție_cu
+numele 1
+
+definiri_de
+variabile 1
+
+Lista_de
+parametri 1
+
+enumerare_de
+identificatori 1
+
+apelul
+funcției 10
+
+celebrități_din
+modă 1
+
+apeluri_de
+funcții 1
+
+ansamblu_de
+obiecte 1
+
+Durata_de
+viață 1
+
+valori_între
+apelurile 1
+
+obiecte_prin
+intermediul 1
+
+declarării
+structurilor 2
+
+Clasa_de
+memorare 1
+
+instrucțiunea_în
+CPU 1
+
+sursă_din
+memorie 1
+
+rezultatul_în
+memorie 1
+
+magistrala_de
+adrese 1
+
+locații_de
+memorie 1
+
+registru_de
+adrese 1
+
+semnalul_de
+comandă 1
+
+excepțiile_de
+depanare 1
+
+excepție_de
+depanare 1
+
+selectori_de
+segment 1
+
+segment_de
+stivă 1
+
+pointeri_de
+stivă 1
+
+modificare_în
+privilegiu 1
+
+Registrul_de
+task 1
+
+comutare_de
+task 1
+
+Locațiile_din
+spațiul 1
+
+porturi_de
+I 1
+
+spațiul_de
+memorie 1
+
+porturile_din
+spațiul 1
+
+scanarea
+biților 1
+
+operații_de
+bază 1
+
+comparare_de
+șiruri 1
+
+repetarea
+instrucțiunii 2
+
+instrucțiunii_prin
+hardware 1
+
+varietate_de
+condiții 1
+
+instrucțiune_pe
+șir 1
+
+reparații_de
+amator 1
+
+quantila_de
+ordinul 1
+
+Quantilele_de
+ordinul 1
+
+setul_de
+date 1
+
+obicei_cu
+Q1 1
+
+număr_cu
+proprietatea 1
+
+Seria_de
+distribuție 1
+
+statisticilor_de
+eșantioane 1
+
+informații_asupra
+seriei 3
+
+seriei_de
+distribuție 1
+
+mediilor
+eșantioanelor 3
+
+repartiției
+mediilor 1
+
+general_de
+castitate 1
+
+Media
+eșantionului 9
+
+mediei
+populației 11
+
+Studiului_de
+opțiuni 1
+
+coeficient_de
+încredere 1
+
+Intervalul_de
+încredere 1
+
+încredere_cu
+nivelul 1
+
+asocierea_de
+serii 1
+
+Posibilitatea
+reprezentării 1
+
+puncte_din
+domeniu 1
+
+funcții_cu
+proprietatea 1
+
+Noțiunea_de
+spațiu 1
+
+baze_în
+spațiul 1
+
+fracțiile_cu
+suma 1
+
+suma_dintre
+numărător 1
+
+f_în
+vecinătatea 1
+
+funcția_în
+punctul 1
+
+funcții_în
+vecinătatea 1
+
+funcției_în
+a 1
+
+a_cu
+valorile 1
+
+știința
+colectării 2
+
+interpretării
+datelor 10
+
+vehiculul
+statisticii 1
+
+diferența_dintre
+probabilități 1
+
+problema_de
+probabilitate 1
+
+combinația_de
+bile 1
+
+bile_din
+urnă 1
+
+variabilă_de
+răspuns 1
+
+Proiectarea
+eșantionului 9
+
+elementelor
+eșantionului 9
+
+eșantionului_din
+cadrul 1
+
+variabilei_de
+răspuns 1
+
+eșantion_de
+mărimea 1
+
+stratificării
+cadrului 1
+
+cadrului
+eșantionului 9
+
+opțiuni_privind
+participarea 1
+
+șirurilor_de
+elemente 1
+
+x_în
+setul 1
+
+timpul_pe
+pereți 1
+
+gruparea
+elementelor 4
+
+șirul_de
+frecvențe 1
+
+distribuție_de
+date 1
+
+clase_cu
+frecvență 1
+
+claselor_cu
+valori 1
+
+ordonarea
+datelor 10
+
+set_de
+date 1
+
+Volume_de
+poezie 1
+
+Graficele_de
+reprezentare 1
+
+Noțiunile_de
+șir 1
+
+limitelor
+claselor 5
+
+mărcile
+claselor 5
+
+frecvența_în
+cauză 1
+
+clasei_la
+numărul 1
+
+setului_de
+date 1
+
+statisticile
+dispersiei 2
+
+variabilităților
+datelor 10
+
+demonstrațiile
+rezultatelor 5
+
+fracțiunea_de
+date 1
+
+totalul_de
+date 1
+
+șirurile_de
+numere 1
+
+unitate_de
+deviație 1
+
+Coeficientul_de
+variație 1
+
+compararea
+dispersiei 2
+
